@@ -1,0 +1,31 @@
+# See https://pre-commit.com for more information
+# See https://pre-commit.com/hooks.html for more hooks
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: trailing-whitespace             # trims trailing whitespace.
+      - id: end-of-file-fixer               # ensures that a file is either empty, or ends with one newline.
+      - id: mixed-line-ending               # replaces or checks mixed line ending.
+      - id: check-yaml                      # checks yaml files for parseable syntax.
+      - id: check-toml                      # checks toml files for parseable syntax.
+      - id: check-merge-conflict            # checks for files that contain merge conflict strings.
+      - id: check-executables-have-shebangs # ensures that (non-binary) executables have a shebang.
+      - id: detect-private-key              # detects the presence of private keys.
+      - id: name-tests-test                 # verifies that test files are named correctly.
+        args: ['--pytest-test-first']       # ensure tests file names match "test_.*\.py"
+      - id: check-added-large-files         # prevents giant files from being committed.
+        args: ['--maxkb=5120']
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.9.6
+    hooks:
+      # Run the linter.
+      - id: ruff
+        name: "Ruff linting"
+        types_or: [ python, pyi ] # Without `jupyter` to avoid linting in notebooks
+        args: [ --fix ]
+      # Run the formatter.
+      - id: ruff-format
+        name: "Ruff formatting"

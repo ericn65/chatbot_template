@@ -1,0 +1,49 @@
+name: Test Suite
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  test-suite:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🛎️ Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: ⚡ Install Dependencies and Setup Environment
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.local/bin:$HOME/.cargo/bin" >> $GITHUB_PATH
+          uv sync
+
+      - name: 🛠️ Configure Git for Test Repo
+        run: |
+          git config --global init.defaultBranch main
+          git config --global user.name "GitHubActions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+
+      - name: 🔎 Ensure Pre-Commit, Pytest and Mypy are Installed
+        run: |
+          uv run pre-commit --version
+          uv run pytest --version
+          uv run mypy --version
+
+      - name: 🪝 Run Pre-Commit Hooks
+        run: |
+          uv run pre-commit run --all-files || { echo "❌ Pre-commit hooks failed"; exit 1; }
+
+      - name: 👮‍♂️ Run Mypy Checks
+        run: |
+          uv run mypy || { echo "❌ Mypy checks failed"; exit 1; }
+
+      - name: ✅ Run Pytests
+        run: |
+          if [ -n "$(find tests -name '*.py' -type f)" ]; then
+            uv run pytest || { echo "❌ Pytests failed"; exit 1; }
+          else
+            echo "⚠️ No test files found";
+          fi

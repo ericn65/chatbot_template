@@ -1,0 +1,16 @@
+_commit: 2ee1094
+_src_path: gh:acceXible/py-template
+dependencies:
+- rich
+- numpy
+- python-dotenv
+- GitPython
+description: Project to integrate the product on comercial chatbots such as Whatsapp.
+env_init: true
+license: No license
+maintainers:
+-   email: eric@accexible.com
+    name: Èric Quintana Aguasca
+package_name: mh_chatbot_dialogue
+python_version: '>=3.12'
+remote_repo_exists: false
