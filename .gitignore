@@ -1,5 +1,7 @@
 data/*
 
+chatbot_template/data/*
+
 # ignore the _version.py file
 _version.py
 

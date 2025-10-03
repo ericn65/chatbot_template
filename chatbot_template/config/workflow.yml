@@ -1,51 +1,20 @@
 QUESTIONS:
   es:
     presentation:
-      - text: ""
+      - text: "Hola que tal encantado te voy a ayudar a saber qué haces cada día.\nPrimero eres nuevo en la plataforma? Responde con si o no"
     formulaires:
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-    audio_questions:
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
+      - question: "Bienvenido! Cómo te llamas?"
+      - question: "Indica una contraseña: "
+      - question: "¿Cuál es tu sanimal favorito?"
+      - question: "¿Te gustan las mates? ¿En una escala del 0 al 10 siendo 0 concursante de la isla de las tentaciones y 10 tengo a Gauss tatuado en el culo."
+    login:
+      - question: "Cuál es tu nombre de usuario?"
+      - question: "Cuál es tu contraseña?"
+    questions:
+      - question: "¿Qué día te interesa saber?"
+      - question: "¿En qué momento del día?"
+      - question: "¿Quieres saber algo más?"
+      - question: "¿Quieres un fun fact de tu animal favorito relacionado con tu nivel matemático?"
     conclusion:
-      - text: ""
-  ca:
-    presentation:
-      - text: ""
-    formulaires:
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-    audio_questions:
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-      - question: ""
-    conclusion:
-      - text: ""
+      - text: "Bueno pues nada ciao ciao."
 
-ERRORS:
-  es:
-    LANG_NOT_SUPPORTED: "⚠️ Idioma no soportado. Escribe 'ES' o 'CAT'."
-    INVALID_NUMBER: "⚠️ Por favor responde con un número entre 0 y 4."
-    NOT_AUDIO: "⚠️ La respuesta debe ser un audio 🎙️"
-    UNKNOWN_STATE: "⚠️ Estado desconocido. Por favor, empieza de nuevo escribiendo 'ES' o 'CAT'."
-    AUDIO_TOO_SHORT: "⚠️ El audio es demasiado corto. Por favor, intenta grabar un audio más largo de almenos 20 segundos."
-  ca:
-    LANG_NOT_SUPPORTED: "⚠️ Idioma no reconegut. Escriu 'ES' o 'CAT'."
-    INVALID_NUMBER: "⚠️ Si us plau, respon amb un número entre 0 i 4."
-    NOT_AUDIO: "⚠️ La resposta ha de ser un àudio 🎙️"
-    UNKNOWN_STATE: "⚠️ Estat desconegut. Si us plau, comença de nou escrivint 'ES' o 'CAT'."
-    AUDIO_TOO_SHORT: "⚠️ L'àudio és massa curt. Si us plau, intenta gravar un àudio més llarg d'almenys 20 segons."

@@ -1,0 +1,11 @@
+ERRORS:
+  es:
+    INVALID_USER: "⚠️ usuario no validado! Responde con usuario de verdad."
+    INVALID_PASSWORD: "⚠️ Contraseña erronea. Vuelve a intentarlo."
+    ANSWER_NON_EXITENT: "⚠️Lo siento, mi base de datos no dcontempla eso. Puedo ayudarte de otra forma?"
+    NON_EXISTENT_PARAMETER: "⚠️ No conozco tu animal favorito. Lo siento."
+    LOGIN_ERROR: "⚠️ Por favor, responde con Sí o No."
+    INVALID_NUMBER: "⚠️ Por favor responde con un número entre 0 y 10."
+    NOT_AUDIO: "⚠️ La respuesta debe ser un audio 🎙️"
+    UNKNOWN_STATE: "⚠️ Estado desconocido. Por favor, empieza de nuevo escribiendo 'ES' o 'CAT'."
+    AUDIO_TOO_SHORT: "⚠️ El audio es demasiado corto. Por favor, intenta grabar un audio más largo de almenos 20 segundos."
