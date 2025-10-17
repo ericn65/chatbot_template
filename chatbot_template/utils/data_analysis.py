@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np
+
 # import openai
 
 # from Huggingface import transformers
@@ -25,7 +25,7 @@ class DataAnalysis:
         self.bb_dd_info = pd.read_csv(bbdd_path)
         self.bb_dd_user_actions = pd.read_csv(user_path)
         self.bb_dd_random_facts = pd.read_csv(random_facts_path)
-    
+
     def get_what_am_i_doing(self, day: str = "Never", moment: str = "Vas tarde") -> str:
         """
         Gets the information of the day and moment desired by the user.
@@ -45,7 +45,6 @@ class DataAnalysis:
         action: str = self.bb_dd_info.loc[day][moment]
 
         return action
-    
 
     def _get_animal(self, user_id: str) -> str:
         """
@@ -67,10 +66,10 @@ class DataAnalysis:
         ----------
         wants_random_fact : bool
             The binary answer from the user.
-        
+
         Returns
         -------
         random_fact : str
             The random fact specified for the user.
         """
-        if wants_random_fact:
+        # if wants_random_fact:

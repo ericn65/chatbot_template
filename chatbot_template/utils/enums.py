@@ -1,4 +1,4 @@
-from enum import StrEnum, auto
+from enum import Enum, StrEnum, auto
 
 
 class WorkflowError(StrEnum):
@@ -13,3 +13,12 @@ class WorkflowError(StrEnum):
     NOT_AUDIO = auto()
     UNKNOWN_STATE = auto()
     AUDIO_TOO_SHORT = auto()
+
+
+class AudioFeatureType(Enum):
+    """Supported audio feature representations."""
+
+    RAW = auto()
+    STFT = auto()
+    MEL = auto()
+    MFCC = auto()
