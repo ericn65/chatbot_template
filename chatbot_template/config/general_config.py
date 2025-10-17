@@ -6,3 +6,9 @@ N_MELS: int = 128
 
 N_MFCC: int = 13
 """Number of MFCC coefficients to extract."""
+
+LANGUAGE: str = "english"
+"""Default language for text tokenization and stopword handling."""
+
+MIN_WORD_LENGTH: int = 2
+"""Minimum length of a token to be considered a valid word."""

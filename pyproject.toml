@@ -11,7 +11,7 @@ include = ["mh_chatbot_dialogue"]
 [project]
 name = "chatbot_template"
 description = "Project to integrate and develop chatbots."
-dynamic = ["version"]
+dynamic = "0.1.14"
 readme = "README.md"
 authors = [
     { name = "Èric Quintana Aguasca", email = "saericquintana@gmail.com" },
@@ -36,6 +36,7 @@ dependencies = [
     "types-aiofiles>=24.1.0.20250822",
     "httpx>=0.28.1",
     "uvicorn>=0.37.0",
+    "nltk>=3.9.2",
 ]
 
 [dependency-groups]

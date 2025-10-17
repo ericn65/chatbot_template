@@ -22,3 +22,11 @@ class AudioFeatureType(Enum):
     STFT = auto()
     MEL = auto()
     MFCC = auto()
+
+
+class TextFeatureType(Enum):
+    """Available text feature extraction modes."""
+
+    BASIC = auto()
+    LEXICAL = auto()
+    LIWC_SIM = auto()
