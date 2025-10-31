@@ -1,0 +1,2593 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Valor,NACIONALITAT_REGIO,SEXE
+2020-01-01,1,Ciutat Vella,1,el Raval,9,1,1
+2020-01-01,1,Ciutat Vella,1,el Raval,9,1,2
+2020-01-01,1,Ciutat Vella,1,el Raval,8,2,1
+2020-01-01,1,Ciutat Vella,1,el Raval,21,2,2
+2020-01-01,1,Ciutat Vella,1,el Raval,661,3,1
+2020-01-01,1,Ciutat Vella,1,el Raval,1160,3,2
+2020-01-01,1,Ciutat Vella,1,el Raval,5,4,1
+2020-01-01,1,Ciutat Vella,1,el Raval,..,4,2
+2020-01-01,1,Ciutat Vella,1,el Raval,72,5,1
+2020-01-01,1,Ciutat Vella,1,el Raval,167,5,2
+2020-01-01,1,Ciutat Vella,1,el Raval,126,6,1
+2020-01-01,1,Ciutat Vella,1,el Raval,138,6,2
+2020-01-01,1,Ciutat Vella,1,el Raval,266,7,1
+2020-01-01,1,Ciutat Vella,1,el Raval,252,7,2
+2020-01-01,1,Ciutat Vella,1,el Raval,1244,8,1
+2020-01-01,1,Ciutat Vella,1,el Raval,1333,8,2
+2020-01-01,1,Ciutat Vella,1,el Raval,141,9,1
+2020-01-01,1,Ciutat Vella,1,el Raval,139,9,2
+2020-01-01,1,Ciutat Vella,1,el Raval,16,10,1
+2020-01-01,1,Ciutat Vella,1,el Raval,11,10,2
+2020-01-01,1,Ciutat Vella,1,el Raval,241,11,1
+2020-01-01,1,Ciutat Vella,1,el Raval,208,11,2
+2020-01-01,1,Ciutat Vella,1,el Raval,2604,12,1
+2020-01-01,1,Ciutat Vella,1,el Raval,5902,12,2
+2020-01-01,1,Ciutat Vella,1,el Raval,2295,13,1
+2020-01-01,1,Ciutat Vella,1,el Raval,1841,13,2
+2020-01-01,1,Ciutat Vella,1,el Raval,232,14,1
+2020-01-01,1,Ciutat Vella,1,el Raval,244,14,2
+2020-01-01,1,Ciutat Vella,1,el Raval,606,15,1
+2020-01-01,1,Ciutat Vella,1,el Raval,401,15,2
+2020-01-01,1,Ciutat Vella,1,el Raval,482,16,1
+2020-01-01,1,Ciutat Vella,1,el Raval,535,16,2
+2020-01-01,1,Ciutat Vella,1,el Raval,12409,17,1
+2020-01-01,1,Ciutat Vella,1,el Raval,12652,17,2
+2020-01-01,1,Ciutat Vella,1,el Raval,810,18,1
+2020-01-01,1,Ciutat Vella,1,el Raval,898,18,2
+2020-01-01,1,Ciutat Vella,1,el Raval,14,19,1
+2020-01-01,1,Ciutat Vella,1,el Raval,12,19,2
+2020-01-01,1,Ciutat Vella,1,el Raval,9,23,1
+2020-01-01,1,Ciutat Vella,1,el Raval,..,23,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,1,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,6,1,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,2,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,5,2,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,262,3,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,606,3,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,4,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,8,4,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,28,5,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,162,5,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,52,6,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,48,6,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,254,7,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,161,7,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,752,8,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,693,8,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,139,9,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,137,9,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,10,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,7,10,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,121,11,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,106,11,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,416,12,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,4491,12,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,218,13,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,142,13,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,117,14,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,147,14,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,416,15,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,308,15,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,379,16,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,389,16,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,4845,17,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,4951,17,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,622,18,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,643,18,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,20,19,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,26,19,2
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,8,23,1
+2020-01-01,1,Ciutat Vella,2,el Barri Gòtic,5,23,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,1,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,1,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,2,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,2,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,153,3,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,274,3,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,4,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,4,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,6,5,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,26,5,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,36,6,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,43,6,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,106,7,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,89,7,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,624,8,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,550,8,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,81,9,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,48,9,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,5,10,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,10,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,44,11,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,32,11,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,111,12,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,497,12,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,23,13,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,12,13,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,62,14,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,64,14,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,334,15,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,206,15,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,255,16,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,247,16,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,5382,17,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,5022,17,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,369,18,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,366,18,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,16,19,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,16,19,2
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,23,1
+2020-01-01,1,Ciutat Vella,3,la Barceloneta,..,23,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",6,1,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",5,1,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",5,2,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",6,2,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",222,3,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",713,3,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,4,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,4,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",9,5,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",102,5,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",106,6,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",80,6,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",196,7,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",125,7,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",917,8,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",740,8,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",191,9,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",208,9,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",6,10,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7,10,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",221,11,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",173,11,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",170,12,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",426,12,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",154,13,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",134,13,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",136,14,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",154,14,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",466,15,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",246,15,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",464,16,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",502,16,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7464,17,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7219,17,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",790,18,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",810,18,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",21,19,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",37,19,2
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,23,1
+2020-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",5,23,2
+2020-01-01,2,Eixample,5,el Fort Pienc,6,1,1
+2020-01-01,2,Eixample,5,el Fort Pienc,..,1,2
+2020-01-01,2,Eixample,5,el Fort Pienc,..,2,1
+2020-01-01,2,Eixample,5,el Fort Pienc,6,2,2
+2020-01-01,2,Eixample,5,el Fort Pienc,104,3,1
+2020-01-01,2,Eixample,5,el Fort Pienc,207,3,2
+2020-01-01,2,Eixample,5,el Fort Pienc,..,4,1
+2020-01-01,2,Eixample,5,el Fort Pienc,..,4,2
+2020-01-01,2,Eixample,5,el Fort Pienc,26,5,1
+2020-01-01,2,Eixample,5,el Fort Pienc,61,5,2
+2020-01-01,2,Eixample,5,el Fort Pienc,67,6,1
+2020-01-01,2,Eixample,5,el Fort Pienc,67,6,2
+2020-01-01,2,Eixample,5,el Fort Pienc,298,7,1
+2020-01-01,2,Eixample,5,el Fort Pienc,163,7,2
+2020-01-01,2,Eixample,5,el Fort Pienc,1119,8,1
+2020-01-01,2,Eixample,5,el Fort Pienc,897,8,2
+2020-01-01,2,Eixample,5,el Fort Pienc,82,9,1
+2020-01-01,2,Eixample,5,el Fort Pienc,69,9,2
+2020-01-01,2,Eixample,5,el Fort Pienc,8,10,1
+2020-01-01,2,Eixample,5,el Fort Pienc,6,10,2
+2020-01-01,2,Eixample,5,el Fort Pienc,719,11,1
+2020-01-01,2,Eixample,5,el Fort Pienc,664,11,2
+2020-01-01,2,Eixample,5,el Fort Pienc,103,12,1
+2020-01-01,2,Eixample,5,el Fort Pienc,537,12,2
+2020-01-01,2,Eixample,5,el Fort Pienc,57,13,1
+2020-01-01,2,Eixample,5,el Fort Pienc,30,13,2
+2020-01-01,2,Eixample,5,el Fort Pienc,95,14,1
+2020-01-01,2,Eixample,5,el Fort Pienc,130,14,2
+2020-01-01,2,Eixample,5,el Fort Pienc,382,15,1
+2020-01-01,2,Eixample,5,el Fort Pienc,233,15,2
+2020-01-01,2,Eixample,5,el Fort Pienc,208,16,1
+2020-01-01,2,Eixample,5,el Fort Pienc,228,16,2
+2020-01-01,2,Eixample,5,el Fort Pienc,13708,17,1
+2020-01-01,2,Eixample,5,el Fort Pienc,12152,17,2
+2020-01-01,2,Eixample,5,el Fort Pienc,515,18,1
+2020-01-01,2,Eixample,5,el Fort Pienc,493,18,2
+2020-01-01,2,Eixample,5,el Fort Pienc,..,19,1
+2020-01-01,2,Eixample,5,el Fort Pienc,9,19,2
+2020-01-01,2,Eixample,5,el Fort Pienc,..,23,1
+2020-01-01,2,Eixample,5,el Fort Pienc,..,23,2
+2020-01-01,2,Eixample,6,la Sagrada Família,..,1,1
+2020-01-01,2,Eixample,6,la Sagrada Família,5,1,2
+2020-01-01,2,Eixample,6,la Sagrada Família,12,2,1
+2020-01-01,2,Eixample,6,la Sagrada Família,5,2,2
+2020-01-01,2,Eixample,6,la Sagrada Família,125,3,1
+2020-01-01,2,Eixample,6,la Sagrada Família,230,3,2
+2020-01-01,2,Eixample,6,la Sagrada Família,..,4,1
+2020-01-01,2,Eixample,6,la Sagrada Família,..,4,2
+2020-01-01,2,Eixample,6,la Sagrada Família,28,5,1
+2020-01-01,2,Eixample,6,la Sagrada Família,58,5,2
+2020-01-01,2,Eixample,6,la Sagrada Família,143,6,1
+2020-01-01,2,Eixample,6,la Sagrada Família,108,6,2
+2020-01-01,2,Eixample,6,la Sagrada Família,472,7,1
+2020-01-01,2,Eixample,6,la Sagrada Família,249,7,2
+2020-01-01,2,Eixample,6,la Sagrada Família,2055,8,1
+2020-01-01,2,Eixample,6,la Sagrada Família,1568,8,2
+2020-01-01,2,Eixample,6,la Sagrada Família,128,9,1
+2020-01-01,2,Eixample,6,la Sagrada Família,117,9,2
+2020-01-01,2,Eixample,6,la Sagrada Família,19,10,1
+2020-01-01,2,Eixample,6,la Sagrada Família,8,10,2
+2020-01-01,2,Eixample,6,la Sagrada Família,727,11,1
+2020-01-01,2,Eixample,6,la Sagrada Família,623,11,2
+2020-01-01,2,Eixample,6,la Sagrada Família,212,12,1
+2020-01-01,2,Eixample,6,la Sagrada Família,407,12,2
+2020-01-01,2,Eixample,6,la Sagrada Família,79,13,1
+2020-01-01,2,Eixample,6,la Sagrada Família,47,13,2
+2020-01-01,2,Eixample,6,la Sagrada Família,175,14,1
+2020-01-01,2,Eixample,6,la Sagrada Família,192,14,2
+2020-01-01,2,Eixample,6,la Sagrada Família,523,15,1
+2020-01-01,2,Eixample,6,la Sagrada Família,285,15,2
+2020-01-01,2,Eixample,6,la Sagrada Família,250,16,1
+2020-01-01,2,Eixample,6,la Sagrada Família,260,16,2
+2020-01-01,2,Eixample,6,la Sagrada Família,22783,17,1
+2020-01-01,2,Eixample,6,la Sagrada Família,19348,17,2
+2020-01-01,2,Eixample,6,la Sagrada Família,480,18,1
+2020-01-01,2,Eixample,6,la Sagrada Família,499,18,2
+2020-01-01,2,Eixample,6,la Sagrada Família,..,19,1
+2020-01-01,2,Eixample,6,la Sagrada Família,10,19,2
+2020-01-01,2,Eixample,6,la Sagrada Família,11,23,1
+2020-01-01,2,Eixample,6,la Sagrada Família,..,23,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,10,1,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,6,1,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,6,2,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,7,2,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,122,3,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,162,3,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,12,4,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,13,4,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,20,5,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,64,5,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,53,6,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,53,6,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,291,7,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,172,7,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,1184,8,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,846,8,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,255,9,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,288,9,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,21,10,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,5,10,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,488,11,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,356,11,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,93,12,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,177,12,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,68,13,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,40,13,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,167,14,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,203,14,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,540,15,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,288,15,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,405,16,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,452,16,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,18860,17,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,16378,17,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,1027,18,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,1104,18,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,16,19,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,33,19,2
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,11,23,1
+2020-01-01,2,Eixample,7,la Dreta de l'Eixample,..,23,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,7,1,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,1,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,10,2,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,2,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,98,3,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,138,3,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,4,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,4,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,11,5,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,21,5,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,69,6,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,74,6,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,368,7,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,247,7,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1472,8,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1512,8,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,192,9,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,172,9,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,32,10,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,15,10,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,455,11,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,391,11,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,93,12,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,224,12,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,206,13,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,154,13,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,116,14,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,133,14,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,452,15,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,233,15,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,273,16,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,346,16,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,18290,17,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,15802,17,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,705,18,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,775,18,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,14,19,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,21,19,2
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,5,23,1
+2020-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,6,23,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,1,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,11,1,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,10,2,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,11,2,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,137,3,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,178,3,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,4,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,5,4,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,14,5,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,37,5,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,125,6,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,108,6,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,424,7,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,223,7,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,2036,8,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,1577,8,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,125,9,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,107,9,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,22,10,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,6,10,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,785,11,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,666,11,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,156,12,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,271,12,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,255,13,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,196,13,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,122,14,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,137,14,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,569,15,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,293,15,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,262,16,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,287,16,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,25811,17,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,22508,17,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,530,18,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,606,18,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,7,19,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,13,19,2
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,9,23,1
+2020-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,23,2
+2020-01-01,2,Eixample,10,Sant Antoni,..,1,1
+2020-01-01,2,Eixample,10,Sant Antoni,..,1,2
+2020-01-01,2,Eixample,10,Sant Antoni,..,2,1
+2020-01-01,2,Eixample,10,Sant Antoni,..,2,2
+2020-01-01,2,Eixample,10,Sant Antoni,106,3,1
+2020-01-01,2,Eixample,10,Sant Antoni,170,3,2
+2020-01-01,2,Eixample,10,Sant Antoni,5,4,1
+2020-01-01,2,Eixample,10,Sant Antoni,..,4,2
+2020-01-01,2,Eixample,10,Sant Antoni,14,5,1
+2020-01-01,2,Eixample,10,Sant Antoni,45,5,2
+2020-01-01,2,Eixample,10,Sant Antoni,97,6,1
+2020-01-01,2,Eixample,10,Sant Antoni,90,6,2
+2020-01-01,2,Eixample,10,Sant Antoni,230,7,1
+2020-01-01,2,Eixample,10,Sant Antoni,156,7,2
+2020-01-01,2,Eixample,10,Sant Antoni,1051,8,1
+2020-01-01,2,Eixample,10,Sant Antoni,900,8,2
+2020-01-01,2,Eixample,10,Sant Antoni,109,9,1
+2020-01-01,2,Eixample,10,Sant Antoni,96,9,2
+2020-01-01,2,Eixample,10,Sant Antoni,17,10,1
+2020-01-01,2,Eixample,10,Sant Antoni,..,10,2
+2020-01-01,2,Eixample,10,Sant Antoni,493,11,1
+2020-01-01,2,Eixample,10,Sant Antoni,447,11,2
+2020-01-01,2,Eixample,10,Sant Antoni,329,12,1
+2020-01-01,2,Eixample,10,Sant Antoni,607,12,2
+2020-01-01,2,Eixample,10,Sant Antoni,485,13,1
+2020-01-01,2,Eixample,10,Sant Antoni,332,13,2
+2020-01-01,2,Eixample,10,Sant Antoni,87,14,1
+2020-01-01,2,Eixample,10,Sant Antoni,91,14,2
+2020-01-01,2,Eixample,10,Sant Antoni,362,15,1
+2020-01-01,2,Eixample,10,Sant Antoni,196,15,2
+2020-01-01,2,Eixample,10,Sant Antoni,225,16,1
+2020-01-01,2,Eixample,10,Sant Antoni,308,16,2
+2020-01-01,2,Eixample,10,Sant Antoni,16285,17,1
+2020-01-01,2,Eixample,10,Sant Antoni,14519,17,2
+2020-01-01,2,Eixample,10,Sant Antoni,531,18,1
+2020-01-01,2,Eixample,10,Sant Antoni,529,18,2
+2020-01-01,2,Eixample,10,Sant Antoni,8,19,1
+2020-01-01,2,Eixample,10,Sant Antoni,10,19,2
+2020-01-01,2,Eixample,10,Sant Antoni,..,23,1
+2020-01-01,2,Eixample,10,Sant Antoni,5,23,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,5,1,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,10,1,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,9,2,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,5,2,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,333,3,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,504,3,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,4,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,4,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,24,5,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,83,5,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,244,6,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,275,6,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,308,7,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,178,7,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,1187,8,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,1087,8,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,113,9,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,100,9,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,13,10,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,5,10,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,296,11,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,243,11,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,974,12,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,1830,12,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,612,13,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,441,13,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,81,14,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,92,14,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,402,15,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,276,15,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,326,16,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,408,16,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,14835,17,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,13577,17,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,659,18,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,621,18,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,14,19,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,10,19,2
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,23,1
+2020-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,23,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,2,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,8,3,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,12,3,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,5,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,6,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,6,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,7,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,7,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,34,8,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,28,8,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,9,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,10,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,18,11,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,21,11,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,12,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,12,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,8,14,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,14,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,5,15,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,15,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,16,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,515,17,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,552,17,2
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,18,1
+2020-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,18,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,1,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,13,2,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,2,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,195,3,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,241,3,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,4,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,18,5,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,39,5,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,79,6,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,81,6,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,235,7,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,115,7,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,790,8,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,712,8,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,18,9,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,12,9,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,10,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,10,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,453,11,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,376,11,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,185,12,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,343,12,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,249,13,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,189,13,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,50,14,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,49,14,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,295,15,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,210,15,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,37,16,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,35,16,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,13608,17,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,12576,17,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,72,18,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,60,18,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,19,2
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,23,1
+2020-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,23,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,1,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,38,3,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,45,3,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,8,5,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,22,5,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,18,6,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,15,6,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,68,7,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,56,7,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,321,8,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,273,8,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,8,9,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,10,9,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,10,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,10,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,99,11,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,86,11,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,66,12,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,167,12,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,22,13,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,14,13,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,33,14,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,43,14,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,145,15,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,84,15,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,31,16,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,34,16,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,4539,17,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,3961,17,2
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,75,18,1
+2020-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,89,18,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,1,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,2,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,2,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,124,3,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,139,3,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,4,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,22,5,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,19,5,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,49,6,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,44,6,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,117,7,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,7,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,558,8,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,474,8,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,22,9,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,18,9,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,8,10,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,10,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,171,11,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,161,11,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,168,12,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,347,12,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,73,13,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,45,13,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,36,14,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,49,14,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,241,15,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,143,15,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,16,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,97,16,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,6635,17,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,5971,17,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,166,18,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,154,18,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,19,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,19,2
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,23,1
+2020-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,23,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,9,1,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,7,1,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,2,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,2,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,93,3,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,159,3,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,11,5,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,25,5,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,58,6,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,56,6,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,96,7,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,69,7,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,483,8,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,398,8,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,12,9,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,7,9,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,10,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,10,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,188,11,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,169,11,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,94,12,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,184,12,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,42,13,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,30,13,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,30,14,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,28,14,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,123,15,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,82,15,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,27,16,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,42,16,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,8916,17,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,7924,17,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,84,18,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,108,18,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,19,1
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,19,2
+2020-01-01,3,Sants-Montjuïc,16,la Bordeta,..,23,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,1,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,5,1,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,12,2,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,12,2,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,107,3,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,210,3,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,4,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,13,5,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,24,5,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,118,6,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,92,6,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,250,7,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,116,7,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,1003,8,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,790,8,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,15,9,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,18,9,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,7,10,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,13,10,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,248,11,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,219,11,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,128,12,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,296,12,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,73,13,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,47,13,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,60,14,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,64,14,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,283,15,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,157,15,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,46,16,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,51,16,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,10803,17,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,9420,17,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,101,18,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,129,18,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,19,2
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,23,1
+2020-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,23,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,5,1,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,12,1,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,8,2,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,11,2,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,250,3,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,662,3,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,..,4,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,14,5,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,94,5,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,120,6,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,116,6,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,475,7,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,254,7,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,1578,8,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,1318,8,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,44,9,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,52,9,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,6,10,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,14,10,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,320,11,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,272,11,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,338,12,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,1139,12,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,82,13,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,61,13,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,83,14,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,132,14,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,436,15,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,338,15,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,130,16,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,118,16,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,18450,17,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,16154,17,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,320,18,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,341,18,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,7,19,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,5,19,2
+2020-01-01,3,Sants-Montjuïc,18,Sants,..,23,1
+2020-01-01,3,Sants-Montjuïc,18,Sants,..,23,2
+2020-01-01,4,Les Corts,19,les Corts,..,1,1
+2020-01-01,4,Les Corts,19,les Corts,..,1,2
+2020-01-01,4,Les Corts,19,les Corts,8,2,1
+2020-01-01,4,Les Corts,19,les Corts,5,2,2
+2020-01-01,4,Les Corts,19,les Corts,78,3,1
+2020-01-01,4,Les Corts,19,les Corts,146,3,2
+2020-01-01,4,Les Corts,19,les Corts,..,4,1
+2020-01-01,4,Les Corts,19,les Corts,..,4,2
+2020-01-01,4,Les Corts,19,les Corts,11,5,1
+2020-01-01,4,Les Corts,19,les Corts,32,5,2
+2020-01-01,4,Les Corts,19,les Corts,74,6,1
+2020-01-01,4,Les Corts,19,les Corts,52,6,2
+2020-01-01,4,Les Corts,19,les Corts,280,7,1
+2020-01-01,4,Les Corts,19,les Corts,126,7,2
+2020-01-01,4,Les Corts,19,les Corts,949,8,1
+2020-01-01,4,Les Corts,19,les Corts,726,8,2
+2020-01-01,4,Les Corts,19,les Corts,73,9,1
+2020-01-01,4,Les Corts,19,les Corts,132,9,2
+2020-01-01,4,Les Corts,19,les Corts,15,10,1
+2020-01-01,4,Les Corts,19,les Corts,10,10,2
+2020-01-01,4,Les Corts,19,les Corts,432,11,1
+2020-01-01,4,Les Corts,19,les Corts,382,11,2
+2020-01-01,4,Les Corts,19,les Corts,146,12,1
+2020-01-01,4,Les Corts,19,les Corts,233,12,2
+2020-01-01,4,Les Corts,19,les Corts,49,13,1
+2020-01-01,4,Les Corts,19,les Corts,26,13,2
+2020-01-01,4,Les Corts,19,les Corts,81,14,1
+2020-01-01,4,Les Corts,19,les Corts,74,14,2
+2020-01-01,4,Les Corts,19,les Corts,378,15,1
+2020-01-01,4,Les Corts,19,les Corts,246,15,2
+2020-01-01,4,Les Corts,19,les Corts,105,16,1
+2020-01-01,4,Les Corts,19,les Corts,113,16,2
+2020-01-01,4,Les Corts,19,les Corts,22049,17,1
+2020-01-01,4,Les Corts,19,les Corts,19094,17,2
+2020-01-01,4,Les Corts,19,les Corts,296,18,1
+2020-01-01,4,Les Corts,19,les Corts,279,18,2
+2020-01-01,4,Les Corts,19,les Corts,..,19,1
+2020-01-01,4,Les Corts,19,les Corts,7,19,2
+2020-01-01,4,Les Corts,19,les Corts,6,23,1
+2020-01-01,4,Les Corts,19,les Corts,5,23,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,1,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,1,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,2,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,2,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,52,3,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,68,3,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,4,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,4,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,12,5,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,14,5,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,44,6,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,40,6,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,151,7,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,84,7,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,589,8,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,484,8,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,22,9,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,16,9,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,10,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,10,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,148,11,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,115,11,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,73,12,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,135,12,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,23,13,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,13,13,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,39,14,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,39,14,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,189,15,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,102,15,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,39,16,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,48,16,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,11288,17,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,9853,17,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,122,18,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,146,18,2
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,19,1
+2020-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,23,1
+2020-01-01,4,Les Corts,21,Pedralbes,6,1,1
+2020-01-01,4,Les Corts,21,Pedralbes,..,1,2
+2020-01-01,4,Les Corts,21,Pedralbes,..,2,1
+2020-01-01,4,Les Corts,21,Pedralbes,..,2,2
+2020-01-01,4,Les Corts,21,Pedralbes,34,3,1
+2020-01-01,4,Les Corts,21,Pedralbes,33,3,2
+2020-01-01,4,Les Corts,21,Pedralbes,..,4,2
+2020-01-01,4,Les Corts,21,Pedralbes,9,5,1
+2020-01-01,4,Les Corts,21,Pedralbes,..,5,2
+2020-01-01,4,Les Corts,21,Pedralbes,12,6,1
+2020-01-01,4,Les Corts,21,Pedralbes,..,6,2
+2020-01-01,4,Les Corts,21,Pedralbes,75,7,1
+2020-01-01,4,Les Corts,21,Pedralbes,46,7,2
+2020-01-01,4,Les Corts,21,Pedralbes,200,8,1
+2020-01-01,4,Les Corts,21,Pedralbes,121,8,2
+2020-01-01,4,Les Corts,21,Pedralbes,38,9,1
+2020-01-01,4,Les Corts,21,Pedralbes,33,9,2
+2020-01-01,4,Les Corts,21,Pedralbes,17,10,1
+2020-01-01,4,Les Corts,21,Pedralbes,13,10,2
+2020-01-01,4,Les Corts,21,Pedralbes,83,11,1
+2020-01-01,4,Les Corts,21,Pedralbes,78,11,2
+2020-01-01,4,Les Corts,21,Pedralbes,20,12,1
+2020-01-01,4,Les Corts,21,Pedralbes,28,12,2
+2020-01-01,4,Les Corts,21,Pedralbes,33,13,1
+2020-01-01,4,Les Corts,21,Pedralbes,5,13,2
+2020-01-01,4,Les Corts,21,Pedralbes,40,14,1
+2020-01-01,4,Les Corts,21,Pedralbes,38,14,2
+2020-01-01,4,Les Corts,21,Pedralbes,199,15,1
+2020-01-01,4,Les Corts,21,Pedralbes,121,15,2
+2020-01-01,4,Les Corts,21,Pedralbes,54,16,1
+2020-01-01,4,Les Corts,21,Pedralbes,71,16,2
+2020-01-01,4,Les Corts,21,Pedralbes,5275,17,1
+2020-01-01,4,Les Corts,21,Pedralbes,4702,17,2
+2020-01-01,4,Les Corts,21,Pedralbes,260,18,1
+2020-01-01,4,Les Corts,21,Pedralbes,275,18,2
+2020-01-01,4,Les Corts,21,Pedralbes,..,19,1
+2020-01-01,4,Les Corts,21,Pedralbes,..,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,1,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",7,3,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",11,3,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,5,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,6,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,6,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",9,7,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,7,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",60,8,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",34,8,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",16,9,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",10,9,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,10,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",6,11,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,11,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,12,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",5,12,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",6,13,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,13,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",9,14,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",11,14,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",49,15,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",34,15,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",45,16,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",52,16,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2052,17,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2047,17,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",114,18,1
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",114,18,2
+2020-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,1,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,1,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,2,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,44,3,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,3,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,4,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,12,5,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,23,5,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,16,6,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,10,6,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,7,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,54,7,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,300,8,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,186,8,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,82,9,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,9,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,10,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,7,10,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,143,11,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,119,11,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,20,12,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,41,12,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,41,13,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,14,13,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,44,14,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,54,14,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,184,15,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,155,15,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,113,16,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,149,16,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,11885,17,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,10253,17,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,478,18,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,504,18,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,19,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,5,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,23,1
+2020-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,23,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,1,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,1,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,2,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,2,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,13,3,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,33,3,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,4,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,4,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,6,5,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,8,6,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,5,6,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,72,7,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,18,7,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,172,8,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,81,8,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,77,9,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,62,9,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,10,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,10,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,73,11,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,78,11,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,15,12,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,21,12,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,39,13,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,12,13,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,33,14,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,36,14,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,106,15,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,63,15,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,34,16,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,51,16,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,8022,17,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,7120,17,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,179,18,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,192,18,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,19,1
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,6,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,22,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,8,1,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,1,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,7,2,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,2,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,46,3,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,84,3,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,4,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,4,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,5,5,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,15,5,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,17,6,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,11,6,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,157,7,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,53,7,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,467,8,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,262,8,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,82,9,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,65,9,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,11,10,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,15,10,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,114,11,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,219,11,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,38,12,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,12,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,47,13,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,18,13,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,54,14,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,58,14,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,233,15,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,143,15,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,95,16,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,107,16,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,12480,17,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,10678,17,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,260,18,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,273,18,2
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,10,19,1
+2020-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,6,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,1,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,1,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,2,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,2,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,86,3,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,70,3,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,4,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,4,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,7,5,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,12,5,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,61,6,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,29,6,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,275,7,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,118,7,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,829,8,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,478,8,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,241,9,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,190,9,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,8,10,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,7,10,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,222,11,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,137,11,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,66,12,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,103,12,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,111,13,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,56,13,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,133,14,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,116,14,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,361,15,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,158,15,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,182,16,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,227,16,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,23177,17,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,19236,17,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,609,18,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,629,18,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,12,19,1
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,7,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,5,23,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,1,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,5,1,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,6,2,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,45,3,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,82,3,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,4,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,5,4,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,19,5,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,32,5,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,45,6,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,32,6,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,130,7,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,53,7,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,682,8,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,492,8,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,93,9,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,73,9,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,8,10,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,10,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,145,11,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,121,11,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,67,12,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,95,12,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,49,13,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,19,13,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,50,14,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,49,14,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,248,15,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,144,15,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,160,16,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,151,16,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,14308,17,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,12153,17,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,387,18,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,367,18,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,9,19,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,7,19,2
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,23,1
+2020-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,23,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,1,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,2,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,2,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,31,3,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,32,3,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,4,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,5,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,8,5,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,19,6,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,15,6,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,91,7,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,41,7,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,368,8,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,296,8,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,37,9,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,37,9,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,10,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,10,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,71,11,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,54,11,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,65,12,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,145,12,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,15,13,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,5,13,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,28,14,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,25,14,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,169,15,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,113,15,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,76,16,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,83,16,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,7550,17,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,6621,17,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,163,18,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,171,18,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,19,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,19,2
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,23,1
+2020-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,23,2
+2020-01-01,6,Gràcia,29,el Coll,..,1,1
+2020-01-01,6,Gràcia,29,el Coll,..,2,1
+2020-01-01,6,Gràcia,29,el Coll,29,3,1
+2020-01-01,6,Gràcia,29,el Coll,36,3,2
+2020-01-01,6,Gràcia,29,el Coll,..,4,2
+2020-01-01,6,Gràcia,29,el Coll,5,5,1
+2020-01-01,6,Gràcia,29,el Coll,10,5,2
+2020-01-01,6,Gràcia,29,el Coll,14,6,1
+2020-01-01,6,Gràcia,29,el Coll,15,6,2
+2020-01-01,6,Gràcia,29,el Coll,103,7,1
+2020-01-01,6,Gràcia,29,el Coll,43,7,2
+2020-01-01,6,Gràcia,29,el Coll,218,8,1
+2020-01-01,6,Gràcia,29,el Coll,163,8,2
+2020-01-01,6,Gràcia,29,el Coll,6,9,1
+2020-01-01,6,Gràcia,29,el Coll,7,9,2
+2020-01-01,6,Gràcia,29,el Coll,..,10,1
+2020-01-01,6,Gràcia,29,el Coll,18,11,1
+2020-01-01,6,Gràcia,29,el Coll,8,11,2
+2020-01-01,6,Gràcia,29,el Coll,35,12,1
+2020-01-01,6,Gràcia,29,el Coll,66,12,2
+2020-01-01,6,Gràcia,29,el Coll,7,13,1
+2020-01-01,6,Gràcia,29,el Coll,8,13,2
+2020-01-01,6,Gràcia,29,el Coll,11,14,1
+2020-01-01,6,Gràcia,29,el Coll,7,14,2
+2020-01-01,6,Gràcia,29,el Coll,103,15,1
+2020-01-01,6,Gràcia,29,el Coll,77,15,2
+2020-01-01,6,Gràcia,29,el Coll,24,16,1
+2020-01-01,6,Gràcia,29,el Coll,38,16,2
+2020-01-01,6,Gràcia,29,el Coll,3422,17,1
+2020-01-01,6,Gràcia,29,el Coll,3012,17,2
+2020-01-01,6,Gràcia,29,el Coll,62,18,1
+2020-01-01,6,Gràcia,29,el Coll,62,18,2
+2020-01-01,6,Gràcia,29,el Coll,..,19,1
+2020-01-01,6,Gràcia,29,el Coll,..,19,2
+2020-01-01,6,Gràcia,30,la Salut,5,2,1
+2020-01-01,6,Gràcia,30,la Salut,..,2,2
+2020-01-01,6,Gràcia,30,la Salut,23,3,1
+2020-01-01,6,Gràcia,30,la Salut,119,3,2
+2020-01-01,6,Gràcia,30,la Salut,..,4,1
+2020-01-01,6,Gràcia,30,la Salut,..,4,2
+2020-01-01,6,Gràcia,30,la Salut,5,5,1
+2020-01-01,6,Gràcia,30,la Salut,18,5,2
+2020-01-01,6,Gràcia,30,la Salut,16,6,1
+2020-01-01,6,Gràcia,30,la Salut,15,6,2
+2020-01-01,6,Gràcia,30,la Salut,79,7,1
+2020-01-01,6,Gràcia,30,la Salut,37,7,2
+2020-01-01,6,Gràcia,30,la Salut,282,8,1
+2020-01-01,6,Gràcia,30,la Salut,205,8,2
+2020-01-01,6,Gràcia,30,la Salut,30,9,1
+2020-01-01,6,Gràcia,30,la Salut,23,9,2
+2020-01-01,6,Gràcia,30,la Salut,6,10,1
+2020-01-01,6,Gràcia,30,la Salut,..,10,2
+2020-01-01,6,Gràcia,30,la Salut,69,11,1
+2020-01-01,6,Gràcia,30,la Salut,55,11,2
+2020-01-01,6,Gràcia,30,la Salut,34,12,1
+2020-01-01,6,Gràcia,30,la Salut,82,12,2
+2020-01-01,6,Gràcia,30,la Salut,9,13,1
+2020-01-01,6,Gràcia,30,la Salut,..,13,2
+2020-01-01,6,Gràcia,30,la Salut,22,14,1
+2020-01-01,6,Gràcia,30,la Salut,27,14,2
+2020-01-01,6,Gràcia,30,la Salut,102,15,1
+2020-01-01,6,Gràcia,30,la Salut,75,15,2
+2020-01-01,6,Gràcia,30,la Salut,50,16,1
+2020-01-01,6,Gràcia,30,la Salut,55,16,2
+2020-01-01,6,Gràcia,30,la Salut,6379,17,1
+2020-01-01,6,Gràcia,30,la Salut,5361,17,2
+2020-01-01,6,Gràcia,30,la Salut,136,18,1
+2020-01-01,6,Gràcia,30,la Salut,136,18,2
+2020-01-01,6,Gràcia,30,la Salut,5,19,1
+2020-01-01,6,Gràcia,30,la Salut,..,19,2
+2020-01-01,6,Gràcia,30,la Salut,..,23,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,..,1,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,..,1,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,..,2,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,8,2,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,146,3,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,158,3,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,6,4,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,7,4,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,14,5,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,61,5,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,60,6,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,57,6,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,325,7,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,209,7,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,1418,8,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,1001,8,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,284,9,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,256,9,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,16,10,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,7,10,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,300,11,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,209,11,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,178,12,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,388,12,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,53,13,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,36,13,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,145,14,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,163,14,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,466,15,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,220,15,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,477,16,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,492,16,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,22729,17,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,18852,17,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,1083,18,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,1033,18,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,18,19,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,23,19,2
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,11,23,1
+2020-01-01,6,Gràcia,31,la Vila de Gràcia,6,23,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,1,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,1,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,5,2,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,7,2,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,73,3,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,92,3,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,4,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,4,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,10,5,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24,5,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,34,6,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,31,6,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,260,7,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,7,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,836,8,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,629,8,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,74,9,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,58,9,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,7,10,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,6,10,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,230,11,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,176,11,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,142,12,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,372,12,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,30,13,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,19,13,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,89,14,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,91,14,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,329,15,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,203,15,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,141,16,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,166,16,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,16556,17,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,13940,17,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,358,18,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,343,18,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,19,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,6,19,2
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,23,1
+2020-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,23,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,1,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,1,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,2,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,52,3,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,92,3,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,4,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,15,5,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,26,5,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,55,6,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,48,6,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,139,7,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,73,7,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,801,8,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,651,8,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,38,9,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,28,9,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,10,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,10,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,158,11,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,131,11,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,97,12,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,165,12,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,16,13,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,5,13,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,49,14,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,64,14,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,220,15,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,109,15,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,76,16,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,81,16,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,12203,17,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,10462,17,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,148,18,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,154,18,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,6,19,1
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,19,2
+2020-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,23,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,2,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,2,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,28,3,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,43,3,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,4,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,5,5,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,15,5,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,9,6,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,18,6,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,86,7,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,34,7,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,242,8,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,215,8,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,8,9,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,13,9,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,8,10,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,8,10,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,60,11,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,39,11,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,32,12,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,80,12,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,13,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,13,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,19,14,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,18,14,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,117,15,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,89,15,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,27,16,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,34,16,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,4177,17,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,3722,17,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,82,18,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,87,18,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,19,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,19,2
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,23,1
+2020-01-01,7,Horta-Guinardó,34,Can Baró,..,23,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,7,1,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,..,1,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,8,2,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,9,2,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,122,3,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,134,3,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,5,4,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,..,4,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,18,5,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,34,5,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,91,6,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,83,6,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,368,7,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,182,7,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,1239,8,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,1033,8,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,27,9,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,25,9,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,..,10,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,166,11,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,149,11,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,91,12,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,206,12,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,24,13,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,14,13,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,106,14,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,102,14,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,398,15,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,263,15,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,93,16,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,118,16,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,16998,17,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,14986,17,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,223,18,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,246,18,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,..,19,1
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,..,19,2
+2020-01-01,7,Horta-Guinardó,35,el Guinardó,..,23,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,1,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,11,3,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,23,3,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,5,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,5,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,12,6,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,14,6,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,46,7,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,22,7,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,141,8,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,86,8,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,5,9,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,6,9,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,14,11,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,11,11,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,12,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,5,12,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,6,13,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,13,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,24,14,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,21,14,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,60,15,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,27,15,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,20,16,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,17,16,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,4630,17,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,4228,17,2
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,47,18,1
+2020-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,53,18,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,..,1,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,10,2,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,14,2,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,161,3,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,187,3,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,18,5,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,48,5,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,83,6,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,86,6,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,485,7,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,262,7,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,1130,8,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,1020,8,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,18,9,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,24,9,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,8,10,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,11,10,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,100,11,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,94,11,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,157,12,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,348,12,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,21,13,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,14,13,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,126,14,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,149,14,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,365,15,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,262,15,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,53,16,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,75,16,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,14212,17,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,12757,17,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,102,18,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,106,18,2
+2020-01-01,7,Horta-Guinardó,37,el Carmel,..,19,1
+2020-01-01,7,Horta-Guinardó,37,el Carmel,..,19,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,1,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,1,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,2,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,9,2,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,57,3,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,69,3,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,4,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,13,5,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,25,5,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,40,6,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,20,6,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,177,7,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,73,7,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,393,8,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,354,8,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,7,9,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,9,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,38,11,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,18,11,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,68,12,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,137,12,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,14,13,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,13,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,26,14,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,39,14,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,107,15,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,84,15,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,26,16,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,36,16,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,5190,17,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,4800,17,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,49,18,1
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,41,18,2
+2020-01-01,7,Horta-Guinardó,38,la Teixonera,..,23,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,1,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,6,2,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,2,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,29,3,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,48,3,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,5,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,13,5,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,17,6,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,22,6,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,116,7,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,81,7,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,269,8,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,250,8,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,8,9,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,24,9,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,8,10,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,17,11,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,23,11,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,28,12,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,48,12,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,13,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,13,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,18,14,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,33,14,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,78,15,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,61,15,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,13,16,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,11,16,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,3286,17,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,2813,17,2
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,28,18,1
+2020-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,31,18,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,14,3,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,19,3,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,5,5,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,9,5,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,15,6,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,9,6,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,47,7,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,20,7,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,190,8,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,147,8,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,..,9,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,..,9,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,13,11,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,5,11,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,10,12,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,35,12,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,..,13,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,20,14,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,14,14,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,42,15,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,30,15,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,7,16,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,6,16,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,2465,17,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,2021,17,2
+2020-01-01,7,Horta-Guinardó,40,Montbau,12,18,1
+2020-01-01,7,Horta-Guinardó,40,Montbau,14,18,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,1,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,6,3,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,9,3,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,5,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,5,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,6,6,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,8,6,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,32,7,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,27,7,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,129,8,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,85,8,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,5,9,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,15,9,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,10,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,19,11,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,6,11,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,12,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,12,12,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,13,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,13,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,10,14,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,8,14,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,58,15,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,45,15,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,8,16,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,7,16,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,2840,17,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,2507,17,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,15,18,1
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,13,18,2
+2020-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,19,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,3,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,6,3,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,6,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,5,7,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,11,8,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,9,8,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,12,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,30,12,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,14,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,14,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,15,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,5,15,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,16,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,16,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,311,17,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,303,17,2
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,18,1
+2020-01-01,7,Horta-Guinardó,42,la Clota,..,18,2
+2020-01-01,7,Horta-Guinardó,43,Horta,..,1,1
+2020-01-01,7,Horta-Guinardó,43,Horta,..,1,2
+2020-01-01,7,Horta-Guinardó,43,Horta,13,2,1
+2020-01-01,7,Horta-Guinardó,43,Horta,11,2,2
+2020-01-01,7,Horta-Guinardó,43,Horta,108,3,1
+2020-01-01,7,Horta-Guinardó,43,Horta,198,3,2
+2020-01-01,7,Horta-Guinardó,43,Horta,14,5,1
+2020-01-01,7,Horta-Guinardó,43,Horta,57,5,2
+2020-01-01,7,Horta-Guinardó,43,Horta,124,6,1
+2020-01-01,7,Horta-Guinardó,43,Horta,77,6,2
+2020-01-01,7,Horta-Guinardó,43,Horta,514,7,1
+2020-01-01,7,Horta-Guinardó,43,Horta,234,7,2
+2020-01-01,7,Horta-Guinardó,43,Horta,750,8,1
+2020-01-01,7,Horta-Guinardó,43,Horta,565,8,2
+2020-01-01,7,Horta-Guinardó,43,Horta,24,9,1
+2020-01-01,7,Horta-Guinardó,43,Horta,11,9,2
+2020-01-01,7,Horta-Guinardó,43,Horta,..,10,1
+2020-01-01,7,Horta-Guinardó,43,Horta,..,10,2
+2020-01-01,7,Horta-Guinardó,43,Horta,118,11,1
+2020-01-01,7,Horta-Guinardó,43,Horta,140,11,2
+2020-01-01,7,Horta-Guinardó,43,Horta,59,12,1
+2020-01-01,7,Horta-Guinardó,43,Horta,304,12,2
+2020-01-01,7,Horta-Guinardó,43,Horta,64,13,1
+2020-01-01,7,Horta-Guinardó,43,Horta,42,13,2
+2020-01-01,7,Horta-Guinardó,43,Horta,115,14,1
+2020-01-01,7,Horta-Guinardó,43,Horta,103,14,2
+2020-01-01,7,Horta-Guinardó,43,Horta,240,15,1
+2020-01-01,7,Horta-Guinardó,43,Horta,182,15,2
+2020-01-01,7,Horta-Guinardó,43,Horta,24,16,1
+2020-01-01,7,Horta-Guinardó,43,Horta,31,16,2
+2020-01-01,7,Horta-Guinardó,43,Horta,12858,17,1
+2020-01-01,7,Horta-Guinardó,43,Horta,11201,17,2
+2020-01-01,7,Horta-Guinardó,43,Horta,86,18,1
+2020-01-01,7,Horta-Guinardó,43,Horta,82,18,2
+2020-01-01,7,Horta-Guinardó,43,Horta,..,19,1
+2020-01-01,7,Horta-Guinardó,43,Horta,..,19,2
+2020-01-01,7,Horta-Guinardó,43,Horta,..,23,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,1,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,1,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,2,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,2,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,53,3,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,73,3,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,4,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,4,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,10,5,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,33,5,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,119,6,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,106,6,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,280,7,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,151,7,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,838,8,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,683,8,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,9,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,6,9,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,10,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,10,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,221,11,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,198,11,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,71,12,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,161,12,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,17,13,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,13,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,127,14,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,130,14,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,193,15,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,143,15,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,33,16,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,43,16,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,12054,17,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,10152,17,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,74,18,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,75,18,2
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,19,1
+2020-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,23,2
+2020-01-01,8,Nou Barris,45,Porta,..,1,1
+2020-01-01,8,Nou Barris,45,Porta,..,1,2
+2020-01-01,8,Nou Barris,45,Porta,15,2,1
+2020-01-01,8,Nou Barris,45,Porta,6,2,2
+2020-01-01,8,Nou Barris,45,Porta,151,3,1
+2020-01-01,8,Nou Barris,45,Porta,252,3,2
+2020-01-01,8,Nou Barris,45,Porta,..,4,2
+2020-01-01,8,Nou Barris,45,Porta,58,5,1
+2020-01-01,8,Nou Barris,45,Porta,93,5,2
+2020-01-01,8,Nou Barris,45,Porta,137,6,1
+2020-01-01,8,Nou Barris,45,Porta,117,6,2
+2020-01-01,8,Nou Barris,45,Porta,942,7,1
+2020-01-01,8,Nou Barris,45,Porta,465,7,2
+2020-01-01,8,Nou Barris,45,Porta,1075,8,1
+2020-01-01,8,Nou Barris,45,Porta,872,8,2
+2020-01-01,8,Nou Barris,45,Porta,13,9,1
+2020-01-01,8,Nou Barris,45,Porta,13,9,2
+2020-01-01,8,Nou Barris,45,Porta,..,10,1
+2020-01-01,8,Nou Barris,45,Porta,..,10,2
+2020-01-01,8,Nou Barris,45,Porta,177,11,1
+2020-01-01,8,Nou Barris,45,Porta,151,11,2
+2020-01-01,8,Nou Barris,45,Porta,144,12,1
+2020-01-01,8,Nou Barris,45,Porta,533,12,2
+2020-01-01,8,Nou Barris,45,Porta,16,13,1
+2020-01-01,8,Nou Barris,45,Porta,23,13,2
+2020-01-01,8,Nou Barris,45,Porta,242,14,1
+2020-01-01,8,Nou Barris,45,Porta,255,14,2
+2020-01-01,8,Nou Barris,45,Porta,275,15,1
+2020-01-01,8,Nou Barris,45,Porta,211,15,2
+2020-01-01,8,Nou Barris,45,Porta,30,16,1
+2020-01-01,8,Nou Barris,45,Porta,36,16,2
+2020-01-01,8,Nou Barris,45,Porta,11471,17,1
+2020-01-01,8,Nou Barris,45,Porta,9923,17,2
+2020-01-01,8,Nou Barris,45,Porta,48,18,1
+2020-01-01,8,Nou Barris,45,Porta,58,18,2
+2020-01-01,8,Nou Barris,45,Porta,..,19,1
+2020-01-01,8,Nou Barris,45,Porta,..,23,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,7,2,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,5,2,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,123,3,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,127,3,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,4,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,11,5,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,38,5,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,177,6,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,178,6,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,216,7,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,98,7,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,854,8,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,692,8,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,10,9,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,9,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,10,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,74,11,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,76,11,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,151,12,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,334,12,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,13,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,13,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,175,14,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,175,14,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,166,15,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,102,15,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,15,16,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,23,16,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,6665,17,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,5677,17,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,31,18,1
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,13,18,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,19,2
+2020-01-01,8,Nou Barris,46,el Turó de la Peira,..,23,2
+2020-01-01,8,Nou Barris,47,Can Peguera,22,3,1
+2020-01-01,8,Nou Barris,47,Can Peguera,25,3,2
+2020-01-01,8,Nou Barris,47,Can Peguera,..,5,1
+2020-01-01,8,Nou Barris,47,Can Peguera,..,5,2
+2020-01-01,8,Nou Barris,47,Can Peguera,10,6,1
+2020-01-01,8,Nou Barris,47,Can Peguera,7,6,2
+2020-01-01,8,Nou Barris,47,Can Peguera,20,7,1
+2020-01-01,8,Nou Barris,47,Can Peguera,17,7,2
+2020-01-01,8,Nou Barris,47,Can Peguera,39,8,1
+2020-01-01,8,Nou Barris,47,Can Peguera,32,8,2
+2020-01-01,8,Nou Barris,47,Can Peguera,..,9,1
+2020-01-01,8,Nou Barris,47,Can Peguera,..,9,2
+2020-01-01,8,Nou Barris,47,Can Peguera,..,11,1
+2020-01-01,8,Nou Barris,47,Can Peguera,..,11,2
+2020-01-01,8,Nou Barris,47,Can Peguera,6,12,1
+2020-01-01,8,Nou Barris,47,Can Peguera,9,12,2
+2020-01-01,8,Nou Barris,47,Can Peguera,..,13,1
+2020-01-01,8,Nou Barris,47,Can Peguera,5,14,1
+2020-01-01,8,Nou Barris,47,Can Peguera,7,14,2
+2020-01-01,8,Nou Barris,47,Can Peguera,14,15,1
+2020-01-01,8,Nou Barris,47,Can Peguera,6,15,2
+2020-01-01,8,Nou Barris,47,Can Peguera,..,16,1
+2020-01-01,8,Nou Barris,47,Can Peguera,..,16,2
+2020-01-01,8,Nou Barris,47,Can Peguera,1075,17,1
+2020-01-01,8,Nou Barris,47,Can Peguera,954,17,2
+2020-01-01,8,Nou Barris,47,Can Peguera,..,18,1
+2020-01-01,8,Nou Barris,47,Can Peguera,..,18,2
+2020-01-01,8,Nou Barris,48,la Guineueta,..,1,1
+2020-01-01,8,Nou Barris,48,la Guineueta,..,1,2
+2020-01-01,8,Nou Barris,48,la Guineueta,..,2,1
+2020-01-01,8,Nou Barris,48,la Guineueta,..,2,2
+2020-01-01,8,Nou Barris,48,la Guineueta,41,3,1
+2020-01-01,8,Nou Barris,48,la Guineueta,16,3,2
+2020-01-01,8,Nou Barris,48,la Guineueta,13,5,1
+2020-01-01,8,Nou Barris,48,la Guineueta,10,5,2
+2020-01-01,8,Nou Barris,48,la Guineueta,32,6,1
+2020-01-01,8,Nou Barris,48,la Guineueta,30,6,2
+2020-01-01,8,Nou Barris,48,la Guineueta,174,7,1
+2020-01-01,8,Nou Barris,48,la Guineueta,92,7,2
+2020-01-01,8,Nou Barris,48,la Guineueta,313,8,1
+2020-01-01,8,Nou Barris,48,la Guineueta,234,8,2
+2020-01-01,8,Nou Barris,48,la Guineueta,5,9,1
+2020-01-01,8,Nou Barris,48,la Guineueta,..,9,2
+2020-01-01,8,Nou Barris,48,la Guineueta,..,10,1
+2020-01-01,8,Nou Barris,48,la Guineueta,56,11,1
+2020-01-01,8,Nou Barris,48,la Guineueta,48,11,2
+2020-01-01,8,Nou Barris,48,la Guineueta,31,12,1
+2020-01-01,8,Nou Barris,48,la Guineueta,34,12,2
+2020-01-01,8,Nou Barris,48,la Guineueta,9,13,1
+2020-01-01,8,Nou Barris,48,la Guineueta,10,13,2
+2020-01-01,8,Nou Barris,48,la Guineueta,40,14,1
+2020-01-01,8,Nou Barris,48,la Guineueta,38,14,2
+2020-01-01,8,Nou Barris,48,la Guineueta,131,15,1
+2020-01-01,8,Nou Barris,48,la Guineueta,81,15,2
+2020-01-01,8,Nou Barris,48,la Guineueta,11,16,1
+2020-01-01,8,Nou Barris,48,la Guineueta,16,16,2
+2020-01-01,8,Nou Barris,48,la Guineueta,7411,17,1
+2020-01-01,8,Nou Barris,48,la Guineueta,6484,17,2
+2020-01-01,8,Nou Barris,48,la Guineueta,32,18,1
+2020-01-01,8,Nou Barris,48,la Guineueta,18,18,2
+2020-01-01,8,Nou Barris,48,la Guineueta,..,19,1
+2020-01-01,8,Nou Barris,49,Canyelles,..,1,1
+2020-01-01,8,Nou Barris,49,Canyelles,..,1,2
+2020-01-01,8,Nou Barris,49,Canyelles,6,2,1
+2020-01-01,8,Nou Barris,49,Canyelles,12,3,1
+2020-01-01,8,Nou Barris,49,Canyelles,10,3,2
+2020-01-01,8,Nou Barris,49,Canyelles,6,5,1
+2020-01-01,8,Nou Barris,49,Canyelles,6,5,2
+2020-01-01,8,Nou Barris,49,Canyelles,9,6,1
+2020-01-01,8,Nou Barris,49,Canyelles,9,6,2
+2020-01-01,8,Nou Barris,49,Canyelles,46,7,1
+2020-01-01,8,Nou Barris,49,Canyelles,27,7,2
+2020-01-01,8,Nou Barris,49,Canyelles,76,8,1
+2020-01-01,8,Nou Barris,49,Canyelles,68,8,2
+2020-01-01,8,Nou Barris,49,Canyelles,..,9,1
+2020-01-01,8,Nou Barris,49,Canyelles,..,10,1
+2020-01-01,8,Nou Barris,49,Canyelles,9,11,1
+2020-01-01,8,Nou Barris,49,Canyelles,9,11,2
+2020-01-01,8,Nou Barris,49,Canyelles,6,12,1
+2020-01-01,8,Nou Barris,49,Canyelles,11,12,2
+2020-01-01,8,Nou Barris,49,Canyelles,..,13,1
+2020-01-01,8,Nou Barris,49,Canyelles,15,14,1
+2020-01-01,8,Nou Barris,49,Canyelles,17,14,2
+2020-01-01,8,Nou Barris,49,Canyelles,37,15,1
+2020-01-01,8,Nou Barris,49,Canyelles,27,15,2
+2020-01-01,8,Nou Barris,49,Canyelles,..,16,1
+2020-01-01,8,Nou Barris,49,Canyelles,..,16,2
+2020-01-01,8,Nou Barris,49,Canyelles,3384,17,1
+2020-01-01,8,Nou Barris,49,Canyelles,3058,17,2
+2020-01-01,8,Nou Barris,49,Canyelles,6,18,1
+2020-01-01,8,Nou Barris,49,Canyelles,..,18,2
+2020-01-01,8,Nou Barris,50,les Roquetes,..,1,1
+2020-01-01,8,Nou Barris,50,les Roquetes,13,2,1
+2020-01-01,8,Nou Barris,50,les Roquetes,7,2,2
+2020-01-01,8,Nou Barris,50,les Roquetes,116,3,1
+2020-01-01,8,Nou Barris,50,les Roquetes,142,3,2
+2020-01-01,8,Nou Barris,50,les Roquetes,54,5,1
+2020-01-01,8,Nou Barris,50,les Roquetes,68,5,2
+2020-01-01,8,Nou Barris,50,les Roquetes,71,6,1
+2020-01-01,8,Nou Barris,50,les Roquetes,61,6,2
+2020-01-01,8,Nou Barris,50,les Roquetes,727,7,1
+2020-01-01,8,Nou Barris,50,les Roquetes,430,7,2
+2020-01-01,8,Nou Barris,50,les Roquetes,528,8,1
+2020-01-01,8,Nou Barris,50,les Roquetes,467,8,2
+2020-01-01,8,Nou Barris,50,les Roquetes,7,9,1
+2020-01-01,8,Nou Barris,50,les Roquetes,..,9,2
+2020-01-01,8,Nou Barris,50,les Roquetes,6,10,1
+2020-01-01,8,Nou Barris,50,les Roquetes,..,10,2
+2020-01-01,8,Nou Barris,50,les Roquetes,64,11,1
+2020-01-01,8,Nou Barris,50,les Roquetes,65,11,2
+2020-01-01,8,Nou Barris,50,les Roquetes,128,12,1
+2020-01-01,8,Nou Barris,50,les Roquetes,356,12,2
+2020-01-01,8,Nou Barris,50,les Roquetes,6,13,1
+2020-01-01,8,Nou Barris,50,les Roquetes,5,13,2
+2020-01-01,8,Nou Barris,50,les Roquetes,52,14,1
+2020-01-01,8,Nou Barris,50,les Roquetes,51,14,2
+2020-01-01,8,Nou Barris,50,les Roquetes,210,15,1
+2020-01-01,8,Nou Barris,50,les Roquetes,181,15,2
+2020-01-01,8,Nou Barris,50,les Roquetes,18,16,1
+2020-01-01,8,Nou Barris,50,les Roquetes,23,16,2
+2020-01-01,8,Nou Barris,50,les Roquetes,6468,17,1
+2020-01-01,8,Nou Barris,50,les Roquetes,6015,17,2
+2020-01-01,8,Nou Barris,50,les Roquetes,31,18,1
+2020-01-01,8,Nou Barris,50,les Roquetes,18,18,2
+2020-01-01,8,Nou Barris,51,Verdun,5,1,1
+2020-01-01,8,Nou Barris,51,Verdun,..,1,2
+2020-01-01,8,Nou Barris,51,Verdun,9,2,1
+2020-01-01,8,Nou Barris,51,Verdun,11,2,2
+2020-01-01,8,Nou Barris,51,Verdun,85,3,1
+2020-01-01,8,Nou Barris,51,Verdun,102,3,2
+2020-01-01,8,Nou Barris,51,Verdun,17,5,1
+2020-01-01,8,Nou Barris,51,Verdun,28,5,2
+2020-01-01,8,Nou Barris,51,Verdun,80,6,1
+2020-01-01,8,Nou Barris,51,Verdun,81,6,2
+2020-01-01,8,Nou Barris,51,Verdun,431,7,1
+2020-01-01,8,Nou Barris,51,Verdun,257,7,2
+2020-01-01,8,Nou Barris,51,Verdun,416,8,1
+2020-01-01,8,Nou Barris,51,Verdun,366,8,2
+2020-01-01,8,Nou Barris,51,Verdun,..,9,1
+2020-01-01,8,Nou Barris,51,Verdun,6,9,2
+2020-01-01,8,Nou Barris,51,Verdun,..,10,1
+2020-01-01,8,Nou Barris,51,Verdun,..,10,2
+2020-01-01,8,Nou Barris,51,Verdun,76,11,1
+2020-01-01,8,Nou Barris,51,Verdun,99,11,2
+2020-01-01,8,Nou Barris,51,Verdun,72,12,1
+2020-01-01,8,Nou Barris,51,Verdun,162,12,2
+2020-01-01,8,Nou Barris,51,Verdun,46,13,1
+2020-01-01,8,Nou Barris,51,Verdun,23,13,2
+2020-01-01,8,Nou Barris,51,Verdun,88,14,1
+2020-01-01,8,Nou Barris,51,Verdun,71,14,2
+2020-01-01,8,Nou Barris,51,Verdun,119,15,1
+2020-01-01,8,Nou Barris,51,Verdun,88,15,2
+2020-01-01,8,Nou Barris,51,Verdun,12,16,1
+2020-01-01,8,Nou Barris,51,Verdun,8,16,2
+2020-01-01,8,Nou Barris,51,Verdun,5345,17,1
+2020-01-01,8,Nou Barris,51,Verdun,4633,17,2
+2020-01-01,8,Nou Barris,51,Verdun,28,18,1
+2020-01-01,8,Nou Barris,51,Verdun,25,18,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,..,1,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,18,2,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,9,2,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,116,3,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,96,3,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,..,4,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,..,4,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,55,5,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,57,5,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,87,6,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,100,6,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,619,7,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,302,7,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,739,8,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,711,8,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,10,9,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,7,9,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,6,10,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,8,10,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,192,11,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,176,11,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,131,12,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,231,12,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,28,13,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,21,13,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,147,14,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,169,14,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,216,15,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,164,15,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,13,16,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,22,16,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,11946,17,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,10536,17,2
+2020-01-01,8,Nou Barris,52,la Prosperitat,48,18,1
+2020-01-01,8,Nou Barris,52,la Prosperitat,43,18,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,1,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,10,2,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,14,2,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,68,3,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,94,3,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,22,5,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,67,5,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,39,6,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,30,6,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,169,7,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,89,7,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,279,8,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,236,8,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,9,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,9,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,10,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,34,11,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,24,11,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,101,12,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,167,12,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,13,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,13,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,84,14,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,84,14,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,93,15,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,74,15,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,16,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,5,16,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,3109,17,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,2756,17,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,18,1
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,5,18,2
+2020-01-01,8,Nou Barris,53,la Trinitat Nova,..,19,2
+2020-01-01,8,Nou Barris,54,Torre Baró,..,1,1
+2020-01-01,8,Nou Barris,54,Torre Baró,..,2,1
+2020-01-01,8,Nou Barris,54,Torre Baró,8,2,2
+2020-01-01,8,Nou Barris,54,Torre Baró,65,3,1
+2020-01-01,8,Nou Barris,54,Torre Baró,79,3,2
+2020-01-01,8,Nou Barris,54,Torre Baró,15,5,1
+2020-01-01,8,Nou Barris,54,Torre Baró,16,5,2
+2020-01-01,8,Nou Barris,54,Torre Baró,5,6,1
+2020-01-01,8,Nou Barris,54,Torre Baró,10,6,2
+2020-01-01,8,Nou Barris,54,Torre Baró,44,7,1
+2020-01-01,8,Nou Barris,54,Torre Baró,29,7,2
+2020-01-01,8,Nou Barris,54,Torre Baró,85,8,1
+2020-01-01,8,Nou Barris,54,Torre Baró,66,8,2
+2020-01-01,8,Nou Barris,54,Torre Baró,..,9,2
+2020-01-01,8,Nou Barris,54,Torre Baró,6,11,1
+2020-01-01,8,Nou Barris,54,Torre Baró,..,11,2
+2020-01-01,8,Nou Barris,54,Torre Baró,16,12,1
+2020-01-01,8,Nou Barris,54,Torre Baró,20,12,2
+2020-01-01,8,Nou Barris,54,Torre Baró,..,13,2
+2020-01-01,8,Nou Barris,54,Torre Baró,..,14,2
+2020-01-01,8,Nou Barris,54,Torre Baró,25,15,1
+2020-01-01,8,Nou Barris,54,Torre Baró,29,15,2
+2020-01-01,8,Nou Barris,54,Torre Baró,..,16,1
+2020-01-01,8,Nou Barris,54,Torre Baró,..,16,2
+2020-01-01,8,Nou Barris,54,Torre Baró,1196,17,1
+2020-01-01,8,Nou Barris,54,Torre Baró,1184,17,2
+2020-01-01,8,Nou Barris,54,Torre Baró,..,18,1
+2020-01-01,8,Nou Barris,54,Torre Baró,..,18,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,..,1,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,..,1,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,15,2,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,11,2,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,219,3,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,249,3,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,151,5,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,189,5,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,137,6,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,135,6,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,454,7,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,275,7,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,346,8,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,340,8,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,..,9,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,..,10,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,..,10,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,46,11,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,33,11,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,220,12,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,371,12,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,6,13,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,5,13,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,29,14,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,37,14,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,146,15,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,121,15,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,9,16,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,10,16,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,3882,17,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,3629,17,2
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,8,18,1
+2020-01-01,8,Nou Barris,55,Ciutat Meridiana,5,18,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,2,1
+2020-01-01,8,Nou Barris,56,Vallbona,..,2,2
+2020-01-01,8,Nou Barris,56,Vallbona,14,3,1
+2020-01-01,8,Nou Barris,56,Vallbona,21,3,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,5,2
+2020-01-01,8,Nou Barris,56,Vallbona,5,6,1
+2020-01-01,8,Nou Barris,56,Vallbona,..,6,2
+2020-01-01,8,Nou Barris,56,Vallbona,11,7,1
+2020-01-01,8,Nou Barris,56,Vallbona,9,7,2
+2020-01-01,8,Nou Barris,56,Vallbona,23,8,1
+2020-01-01,8,Nou Barris,56,Vallbona,19,8,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,9,1
+2020-01-01,8,Nou Barris,56,Vallbona,6,11,1
+2020-01-01,8,Nou Barris,56,Vallbona,7,11,2
+2020-01-01,8,Nou Barris,56,Vallbona,24,12,1
+2020-01-01,8,Nou Barris,56,Vallbona,22,12,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,14,1
+2020-01-01,8,Nou Barris,56,Vallbona,..,14,2
+2020-01-01,8,Nou Barris,56,Vallbona,19,15,1
+2020-01-01,8,Nou Barris,56,Vallbona,11,15,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,16,1
+2020-01-01,8,Nou Barris,56,Vallbona,..,16,2
+2020-01-01,8,Nou Barris,56,Vallbona,623,17,1
+2020-01-01,8,Nou Barris,56,Vallbona,587,17,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,18,1
+2020-01-01,8,Nou Barris,56,Vallbona,..,18,2
+2020-01-01,8,Nou Barris,56,Vallbona,..,23,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,1,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,6,2,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,2,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,276,3,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,366,3,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,65,5,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,96,5,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,56,6,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,45,6,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,143,7,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,84,7,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,318,8,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,335,8,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,9,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,9,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,10,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,10,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,32,11,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,37,11,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,346,12,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,571,12,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,13,13,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,..,13,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,61,14,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,76,14,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,147,15,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,141,15,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,11,16,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,12,16,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,3646,17,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,3546,17,2
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,19,18,1
+2020-01-01,9,Sant Andreu,57,la Trinitat Vella,22,18,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,48,3,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,62,3,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,..,5,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,6,5,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,6,6,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,5,6,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,28,7,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,8,7,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,40,8,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,43,8,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,..,9,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,15,11,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,8,11,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,13,12,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,24,12,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,..,13,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,12,14,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,10,14,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,16,15,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,13,15,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,..,16,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,..,16,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,1155,17,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,1098,17,2
+2020-01-01,9,Sant Andreu,58,Baró de Viver,6,18,1
+2020-01-01,9,Sant Andreu,58,Baró de Viver,..,18,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,..,2,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,..,2,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,93,3,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,148,3,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,19,5,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,58,5,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,35,6,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,35,6,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,284,7,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,141,7,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,403,8,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,364,8,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,..,9,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,..,9,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,75,11,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,70,11,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,100,12,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,438,12,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,8,13,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,..,13,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,75,14,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,67,14,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,139,15,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,114,15,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,5,16,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,7,16,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,5568,17,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,5346,17,2
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,24,18,1
+2020-01-01,9,Sant Andreu,59,el Bon Pastor,25,18,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,..,1,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,..,1,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,5,2,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,11,2,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,153,3,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,204,3,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,..,4,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,40,5,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,102,5,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,114,6,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,70,6,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,324,7,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,161,7,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,987,8,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,800,8,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,24,9,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,25,9,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,278,11,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,223,11,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,111,12,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,201,12,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,18,13,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,14,13,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,106,14,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,119,14,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,307,15,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,196,15,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,50,16,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,74,16,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,28242,17,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,25290,17,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,132,18,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,118,18,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,..,19,1
+2020-01-01,9,Sant Andreu,60,Sant Andreu,..,19,2
+2020-01-01,9,Sant Andreu,60,Sant Andreu,..,23,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,..,1,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,..,1,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,9,2,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,69,3,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,97,3,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,..,4,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,11,5,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,29,5,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,100,6,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,89,6,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,236,7,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,123,7,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,900,8,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,725,8,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,22,9,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,17,9,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,296,11,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,296,11,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,62,12,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,119,12,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,19,13,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,16,13,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,86,14,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,89,14,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,281,15,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,161,15,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,23,16,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,36,16,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,13546,17,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,11968,17,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,89,18,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,86,18,2
+2020-01-01,9,Sant Andreu,61,la Sagrera,..,19,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,..,23,1
+2020-01-01,9,Sant Andreu,61,la Sagrera,..,23,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,1,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,1,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,2,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,6,2,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,42,3,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,55,3,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,4,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,4,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,5,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,15,5,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,50,6,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,40,6,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,145,7,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,70,7,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,438,8,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,365,8,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,9,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,5,9,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,10,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,140,11,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,127,11,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,23,12,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,52,12,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,5,13,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,13,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,78,14,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,65,14,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,147,15,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,128,15,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,17,16,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,30,16,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,6695,17,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,5861,17,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,54,18,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,52,18,2
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,19,1
+2020-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,19,2
+2020-01-01,9,Sant Andreu,63,Navas,..,1,1
+2020-01-01,9,Sant Andreu,63,Navas,..,1,2
+2020-01-01,9,Sant Andreu,63,Navas,6,2,1
+2020-01-01,9,Sant Andreu,63,Navas,..,2,2
+2020-01-01,9,Sant Andreu,63,Navas,63,3,1
+2020-01-01,9,Sant Andreu,63,Navas,88,3,2
+2020-01-01,9,Sant Andreu,63,Navas,11,5,1
+2020-01-01,9,Sant Andreu,63,Navas,30,5,2
+2020-01-01,9,Sant Andreu,63,Navas,73,6,1
+2020-01-01,9,Sant Andreu,63,Navas,82,6,2
+2020-01-01,9,Sant Andreu,63,Navas,124,7,1
+2020-01-01,9,Sant Andreu,63,Navas,57,7,2
+2020-01-01,9,Sant Andreu,63,Navas,675,8,1
+2020-01-01,9,Sant Andreu,63,Navas,531,8,2
+2020-01-01,9,Sant Andreu,63,Navas,15,9,1
+2020-01-01,9,Sant Andreu,63,Navas,12,9,2
+2020-01-01,9,Sant Andreu,63,Navas,..,10,1
+2020-01-01,9,Sant Andreu,63,Navas,331,11,1
+2020-01-01,9,Sant Andreu,63,Navas,304,11,2
+2020-01-01,9,Sant Andreu,63,Navas,45,12,1
+2020-01-01,9,Sant Andreu,63,Navas,106,12,2
+2020-01-01,9,Sant Andreu,63,Navas,18,13,1
+2020-01-01,9,Sant Andreu,63,Navas,10,13,2
+2020-01-01,9,Sant Andreu,63,Navas,93,14,1
+2020-01-01,9,Sant Andreu,63,Navas,68,14,2
+2020-01-01,9,Sant Andreu,63,Navas,205,15,1
+2020-01-01,9,Sant Andreu,63,Navas,120,15,2
+2020-01-01,9,Sant Andreu,63,Navas,47,16,1
+2020-01-01,9,Sant Andreu,63,Navas,47,16,2
+2020-01-01,9,Sant Andreu,63,Navas,10181,17,1
+2020-01-01,9,Sant Andreu,63,Navas,8921,17,2
+2020-01-01,9,Sant Andreu,63,Navas,79,18,1
+2020-01-01,9,Sant Andreu,63,Navas,104,18,2
+2020-01-01,9,Sant Andreu,63,Navas,..,19,2
+2020-01-01,9,Sant Andreu,63,Navas,..,23,1
+2020-01-01,9,Sant Andreu,63,Navas,..,23,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,1,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,2,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,2,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,142,3,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,3,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,4,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,4,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,11,5,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,47,5,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,135,6,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,117,6,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,274,7,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,143,7,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,1423,8,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,1113,8,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,50,9,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,25,9,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,10,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,10,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,429,11,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,367,11,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,127,12,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,301,12,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,41,13,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,29,13,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,105,14,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,113,14,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,366,15,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,235,15,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,163,16,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,183,16,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,17192,17,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,15078,17,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,341,18,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,345,18,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,6,19,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,8,19,2
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,7,23,1
+2020-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,23,2
+2020-01-01,10,Sant Martí,65,el Clot,..,1,1
+2020-01-01,10,Sant Martí,65,el Clot,..,1,2
+2020-01-01,10,Sant Martí,65,el Clot,7,2,1
+2020-01-01,10,Sant Martí,65,el Clot,6,2,2
+2020-01-01,10,Sant Martí,65,el Clot,131,3,1
+2020-01-01,10,Sant Martí,65,el Clot,187,3,2
+2020-01-01,10,Sant Martí,65,el Clot,..,4,2
+2020-01-01,10,Sant Martí,65,el Clot,12,5,1
+2020-01-01,10,Sant Martí,65,el Clot,35,5,2
+2020-01-01,10,Sant Martí,65,el Clot,60,6,1
+2020-01-01,10,Sant Martí,65,el Clot,52,6,2
+2020-01-01,10,Sant Martí,65,el Clot,138,7,1
+2020-01-01,10,Sant Martí,65,el Clot,62,7,2
+2020-01-01,10,Sant Martí,65,el Clot,705,8,1
+2020-01-01,10,Sant Martí,65,el Clot,575,8,2
+2020-01-01,10,Sant Martí,65,el Clot,34,9,1
+2020-01-01,10,Sant Martí,65,el Clot,29,9,2
+2020-01-01,10,Sant Martí,65,el Clot,8,10,1
+2020-01-01,10,Sant Martí,65,el Clot,7,10,2
+2020-01-01,10,Sant Martí,65,el Clot,293,11,1
+2020-01-01,10,Sant Martí,65,el Clot,233,11,2
+2020-01-01,10,Sant Martí,65,el Clot,66,12,1
+2020-01-01,10,Sant Martí,65,el Clot,156,12,2
+2020-01-01,10,Sant Martí,65,el Clot,16,13,1
+2020-01-01,10,Sant Martí,65,el Clot,21,13,2
+2020-01-01,10,Sant Martí,65,el Clot,59,14,1
+2020-01-01,10,Sant Martí,65,el Clot,53,14,2
+2020-01-01,10,Sant Martí,65,el Clot,262,15,1
+2020-01-01,10,Sant Martí,65,el Clot,183,15,2
+2020-01-01,10,Sant Martí,65,el Clot,78,16,1
+2020-01-01,10,Sant Martí,65,el Clot,81,16,2
+2020-01-01,10,Sant Martí,65,el Clot,12108,17,1
+2020-01-01,10,Sant Martí,65,el Clot,11088,17,2
+2020-01-01,10,Sant Martí,65,el Clot,147,18,1
+2020-01-01,10,Sant Martí,65,el Clot,177,18,2
+2020-01-01,10,Sant Martí,65,el Clot,..,19,1
+2020-01-01,10,Sant Martí,65,el Clot,..,19,2
+2020-01-01,10,Sant Martí,65,el Clot,..,23,1
+2020-01-01,10,Sant Martí,65,el Clot,..,23,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,1,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,1,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,2,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,5,2,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,89,3,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,147,3,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,4,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,8,5,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,34,5,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,28,6,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,24,6,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,73,7,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,47,7,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,383,8,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,307,8,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,47,9,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,49,9,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,8,10,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,10,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,188,11,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,185,11,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,42,12,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,103,12,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,29,13,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,21,13,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,48,14,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,61,14,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,227,15,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,163,15,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,117,16,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,150,16,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6700,17,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6189,17,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,18,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,238,18,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,19,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,19,2
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,7,23,1
+2020-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,23,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,1,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,12,3,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,19,3,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,5,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,5,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,6,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,6,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,22,7,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,13,7,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,147,8,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,100,8,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,33,9,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,39,9,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,7,10,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,10,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,41,11,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,31,11,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,16,12,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,33,12,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,6,13,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,13,14,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,25,14,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,147,15,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,99,15,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,84,16,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,88,16,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,4066,17,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,3939,17,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,183,18,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,199,18,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,19,1
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,5,19,2
+2020-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,23,1
+2020-01-01,10,Sant Martí,68,el Poblenou,..,1,1
+2020-01-01,10,Sant Martí,68,el Poblenou,..,1,2
+2020-01-01,10,Sant Martí,68,el Poblenou,5,2,1
+2020-01-01,10,Sant Martí,68,el Poblenou,..,2,2
+2020-01-01,10,Sant Martí,68,el Poblenou,82,3,1
+2020-01-01,10,Sant Martí,68,el Poblenou,121,3,2
+2020-01-01,10,Sant Martí,68,el Poblenou,..,4,1
+2020-01-01,10,Sant Martí,68,el Poblenou,13,5,1
+2020-01-01,10,Sant Martí,68,el Poblenou,44,5,2
+2020-01-01,10,Sant Martí,68,el Poblenou,35,6,1
+2020-01-01,10,Sant Martí,68,el Poblenou,29,6,2
+2020-01-01,10,Sant Martí,68,el Poblenou,138,7,1
+2020-01-01,10,Sant Martí,68,el Poblenou,73,7,2
+2020-01-01,10,Sant Martí,68,el Poblenou,697,8,1
+2020-01-01,10,Sant Martí,68,el Poblenou,571,8,2
+2020-01-01,10,Sant Martí,68,el Poblenou,75,9,1
+2020-01-01,10,Sant Martí,68,el Poblenou,73,9,2
+2020-01-01,10,Sant Martí,68,el Poblenou,17,10,1
+2020-01-01,10,Sant Martí,68,el Poblenou,14,10,2
+2020-01-01,10,Sant Martí,68,el Poblenou,227,11,1
+2020-01-01,10,Sant Martí,68,el Poblenou,199,11,2
+2020-01-01,10,Sant Martí,68,el Poblenou,149,12,1
+2020-01-01,10,Sant Martí,68,el Poblenou,347,12,2
+2020-01-01,10,Sant Martí,68,el Poblenou,28,13,1
+2020-01-01,10,Sant Martí,68,el Poblenou,10,13,2
+2020-01-01,10,Sant Martí,68,el Poblenou,85,14,1
+2020-01-01,10,Sant Martí,68,el Poblenou,82,14,2
+2020-01-01,10,Sant Martí,68,el Poblenou,445,15,1
+2020-01-01,10,Sant Martí,68,el Poblenou,266,15,2
+2020-01-01,10,Sant Martí,68,el Poblenou,313,16,1
+2020-01-01,10,Sant Martí,68,el Poblenou,356,16,2
+2020-01-01,10,Sant Martí,68,el Poblenou,14849,17,1
+2020-01-01,10,Sant Martí,68,el Poblenou,13889,17,2
+2020-01-01,10,Sant Martí,68,el Poblenou,553,18,1
+2020-01-01,10,Sant Martí,68,el Poblenou,612,18,2
+2020-01-01,10,Sant Martí,68,el Poblenou,9,19,1
+2020-01-01,10,Sant Martí,68,el Poblenou,14,19,2
+2020-01-01,10,Sant Martí,68,el Poblenou,..,23,1
+2020-01-01,10,Sant Martí,68,el Poblenou,..,23,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,2,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,2,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,49,3,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,76,3,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,4,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,5,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,10,5,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,14,6,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,16,6,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,32,7,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,19,7,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,237,8,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,157,8,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,33,9,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,34,9,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,6,10,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,8,10,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,100,11,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,73,11,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,45,12,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,65,12,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,10,13,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,13,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,34,14,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,41,14,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,360,15,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,262,15,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,98,16,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,129,16,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5767,17,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5463,17,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,157,18,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,213,18,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,19,1
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,19,2
+2020-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,23,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,1,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,9,2,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,9,2,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,294,3,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,484,3,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,58,5,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,410,5,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,71,6,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,84,6,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,364,7,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,177,7,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,726,8,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,620,8,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,16,9,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,7,9,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,29,10,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,19,10,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,240,11,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,224,11,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,904,12,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,2218,12,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,8,13,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,17,13,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,100,14,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,93,14,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,627,15,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,538,15,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,45,16,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,54,16,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,8822,17,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,8305,17,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,64,18,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,58,18,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,19,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,19,2
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,23,1
+2020-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,23,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,2,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,2,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,131,3,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,162,3,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,4,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,12,5,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,37,5,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,48,6,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,43,6,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,110,7,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,54,7,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,460,8,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,359,8,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,24,9,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,19,9,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,7,10,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,10,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,134,11,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,112,11,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,99,12,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,205,12,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,10,13,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,10,13,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,43,14,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,44,14,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,317,15,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,225,15,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,67,16,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,77,16,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,9473,17,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,8725,17,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,139,18,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,156,18,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,19,1
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,19,2
+2020-01-01,10,Sant Martí,71,Provençals del Poblenou,..,23,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,1,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,9,2,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,10,2,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,50,3,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,78,3,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,7,5,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,24,5,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,86,6,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,64,6,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,139,7,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,70,7,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,595,8,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,455,8,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,12,9,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,11,9,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,10,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,10,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,436,11,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,376,11,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,61,12,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,138,12,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,36,13,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,11,13,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,70,14,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,59,14,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,242,15,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,184,15,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,31,16,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,33,16,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,12103,17,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,10640,17,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,66,18,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,64,18,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,19,2
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,23,1
+2020-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,23,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,..,1,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,..,1,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,5,2,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,10,2,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,90,3,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,99,3,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,28,5,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,47,5,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,91,6,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,80,6,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,198,7,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,86,7,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,643,8,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,525,8,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,9,9,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,7,9,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,5,10,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,..,10,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,389,11,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,372,11,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,130,12,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,227,12,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,14,13,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,9,13,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,77,14,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,75,14,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,306,15,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,253,15,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,24,16,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,21,16,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,13106,17,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,11839,17,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,51,18,1
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,49,18,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,..,19,2
+2020-01-01,10,Sant Martí,73,la Verneda i la Pau,..,23,1

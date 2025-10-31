@@ -1,0 +1,2609 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,Valor,NACIONALITAT_REGIO,SEXE
+2022-01-01,1,Ciutat Vella,1,el Raval,7,1,1
+2022-01-01,1,Ciutat Vella,1,el Raval,7,1,2
+2022-01-01,1,Ciutat Vella,1,el Raval,16,2,1
+2022-01-01,1,Ciutat Vella,1,el Raval,22,2,2
+2022-01-01,1,Ciutat Vella,1,el Raval,653,3,1
+2022-01-01,1,Ciutat Vella,1,el Raval,1078,3,2
+2022-01-01,1,Ciutat Vella,1,el Raval,6,4,1
+2022-01-01,1,Ciutat Vella,1,el Raval,6,4,2
+2022-01-01,1,Ciutat Vella,1,el Raval,59,5,1
+2022-01-01,1,Ciutat Vella,1,el Raval,160,5,2
+2022-01-01,1,Ciutat Vella,1,el Raval,109,6,1
+2022-01-01,1,Ciutat Vella,1,el Raval,156,6,2
+2022-01-01,1,Ciutat Vella,1,el Raval,228,7,1
+2022-01-01,1,Ciutat Vella,1,el Raval,220,7,2
+2022-01-01,1,Ciutat Vella,1,el Raval,1266,8,1
+2022-01-01,1,Ciutat Vella,1,el Raval,1302,8,2
+2022-01-01,1,Ciutat Vella,1,el Raval,142,9,1
+2022-01-01,1,Ciutat Vella,1,el Raval,124,9,2
+2022-01-01,1,Ciutat Vella,1,el Raval,8,10,1
+2022-01-01,1,Ciutat Vella,1,el Raval,14,10,2
+2022-01-01,1,Ciutat Vella,1,el Raval,193,11,1
+2022-01-01,1,Ciutat Vella,1,el Raval,168,11,2
+2022-01-01,1,Ciutat Vella,1,el Raval,2740,12,1
+2022-01-01,1,Ciutat Vella,1,el Raval,5048,12,2
+2022-01-01,1,Ciutat Vella,1,el Raval,2125,13,1
+2022-01-01,1,Ciutat Vella,1,el Raval,1751,13,2
+2022-01-01,1,Ciutat Vella,1,el Raval,194,14,1
+2022-01-01,1,Ciutat Vella,1,el Raval,238,14,2
+2022-01-01,1,Ciutat Vella,1,el Raval,572,15,1
+2022-01-01,1,Ciutat Vella,1,el Raval,388,15,2
+2022-01-01,1,Ciutat Vella,1,el Raval,463,16,1
+2022-01-01,1,Ciutat Vella,1,el Raval,551,16,2
+2022-01-01,1,Ciutat Vella,1,el Raval,12143,17,1
+2022-01-01,1,Ciutat Vella,1,el Raval,12606,17,2
+2022-01-01,1,Ciutat Vella,1,el Raval,814,18,1
+2022-01-01,1,Ciutat Vella,1,el Raval,906,18,2
+2022-01-01,1,Ciutat Vella,1,el Raval,10,19,1
+2022-01-01,1,Ciutat Vella,1,el Raval,8,19,2
+2022-01-01,1,Ciutat Vella,1,el Raval,13,23,1
+2022-01-01,1,Ciutat Vella,1,el Raval,6,23,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,1,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,1,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,16,2,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,2,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,308,3,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,986,3,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,4,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,4,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,41,5,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,205,5,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,57,6,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,48,6,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,252,7,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,179,7,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,841,8,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,789,8,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,140,9,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,131,9,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,10,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,10,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,101,11,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,83,11,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,478,12,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,4774,12,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,195,13,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,130,13,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,103,14,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,115,14,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,406,15,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,327,15,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,392,16,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,447,16,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,4792,17,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,5012,17,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,666,18,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,657,18,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,14,19,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,16,19,2
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,5,23,1
+2022-01-01,1,Ciutat Vella,2,el Barri Gòtic,..,23,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,1,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,1,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,2,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,2,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,146,3,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,256,3,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,4,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,4,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,5,5,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,28,5,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,33,6,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,39,6,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,96,7,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,87,7,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,571,8,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,533,8,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,60,9,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,68,9,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,10,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,10,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,36,11,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,31,11,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,131,12,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,417,12,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,19,13,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,11,13,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,52,14,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,57,14,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,340,15,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,202,15,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,244,16,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,244,16,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,5093,17,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,4741,17,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,375,18,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,386,18,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,9,19,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,10,19,2
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,23,1
+2022-01-01,1,Ciutat Vella,3,la Barceloneta,..,23,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,1,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,1,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",10,2,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",5,2,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",220,3,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",413,3,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7,4,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7,4,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",22,5,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",64,5,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",87,6,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",85,6,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",195,7,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",118,7,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",842,8,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",738,8,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",188,9,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",173,9,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",10,10,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",6,10,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",173,11,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",149,11,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",170,12,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",391,12,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",177,13,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",137,13,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",111,14,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",136,14,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",466,15,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",233,15,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",492,16,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",578,16,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7201,17,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",7064,17,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",842,18,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",857,18,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",15,19,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",23,19,2
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",..,23,1
+2022-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",6,23,2
+2022-01-01,2,Eixample,5,el Fort Pienc,8,1,1
+2022-01-01,2,Eixample,5,el Fort Pienc,..,1,2
+2022-01-01,2,Eixample,5,el Fort Pienc,5,2,1
+2022-01-01,2,Eixample,5,el Fort Pienc,8,2,2
+2022-01-01,2,Eixample,5,el Fort Pienc,104,3,1
+2022-01-01,2,Eixample,5,el Fort Pienc,259,3,2
+2022-01-01,2,Eixample,5,el Fort Pienc,9,4,1
+2022-01-01,2,Eixample,5,el Fort Pienc,7,4,2
+2022-01-01,2,Eixample,5,el Fort Pienc,17,5,1
+2022-01-01,2,Eixample,5,el Fort Pienc,63,5,2
+2022-01-01,2,Eixample,5,el Fort Pienc,53,6,1
+2022-01-01,2,Eixample,5,el Fort Pienc,70,6,2
+2022-01-01,2,Eixample,5,el Fort Pienc,317,7,1
+2022-01-01,2,Eixample,5,el Fort Pienc,171,7,2
+2022-01-01,2,Eixample,5,el Fort Pienc,1256,8,1
+2022-01-01,2,Eixample,5,el Fort Pienc,999,8,2
+2022-01-01,2,Eixample,5,el Fort Pienc,74,9,1
+2022-01-01,2,Eixample,5,el Fort Pienc,57,9,2
+2022-01-01,2,Eixample,5,el Fort Pienc,..,10,1
+2022-01-01,2,Eixample,5,el Fort Pienc,8,10,2
+2022-01-01,2,Eixample,5,el Fort Pienc,643,11,1
+2022-01-01,2,Eixample,5,el Fort Pienc,613,11,2
+2022-01-01,2,Eixample,5,el Fort Pienc,129,12,1
+2022-01-01,2,Eixample,5,el Fort Pienc,546,12,2
+2022-01-01,2,Eixample,5,el Fort Pienc,56,13,1
+2022-01-01,2,Eixample,5,el Fort Pienc,38,13,2
+2022-01-01,2,Eixample,5,el Fort Pienc,95,14,1
+2022-01-01,2,Eixample,5,el Fort Pienc,109,14,2
+2022-01-01,2,Eixample,5,el Fort Pienc,366,15,1
+2022-01-01,2,Eixample,5,el Fort Pienc,231,15,2
+2022-01-01,2,Eixample,5,el Fort Pienc,223,16,1
+2022-01-01,2,Eixample,5,el Fort Pienc,263,16,2
+2022-01-01,2,Eixample,5,el Fort Pienc,13531,17,1
+2022-01-01,2,Eixample,5,el Fort Pienc,12059,17,2
+2022-01-01,2,Eixample,5,el Fort Pienc,523,18,1
+2022-01-01,2,Eixample,5,el Fort Pienc,509,18,2
+2022-01-01,2,Eixample,5,el Fort Pienc,5,19,1
+2022-01-01,2,Eixample,5,el Fort Pienc,9,19,2
+2022-01-01,2,Eixample,5,el Fort Pienc,..,23,1
+2022-01-01,2,Eixample,5,el Fort Pienc,..,23,2
+2022-01-01,2,Eixample,6,la Sagrada Família,..,1,1
+2022-01-01,2,Eixample,6,la Sagrada Família,..,1,2
+2022-01-01,2,Eixample,6,la Sagrada Família,..,2,1
+2022-01-01,2,Eixample,6,la Sagrada Família,5,2,2
+2022-01-01,2,Eixample,6,la Sagrada Família,125,3,1
+2022-01-01,2,Eixample,6,la Sagrada Família,198,3,2
+2022-01-01,2,Eixample,6,la Sagrada Família,..,4,1
+2022-01-01,2,Eixample,6,la Sagrada Família,..,4,2
+2022-01-01,2,Eixample,6,la Sagrada Família,24,5,1
+2022-01-01,2,Eixample,6,la Sagrada Família,55,5,2
+2022-01-01,2,Eixample,6,la Sagrada Família,143,6,1
+2022-01-01,2,Eixample,6,la Sagrada Família,112,6,2
+2022-01-01,2,Eixample,6,la Sagrada Família,442,7,1
+2022-01-01,2,Eixample,6,la Sagrada Família,231,7,2
+2022-01-01,2,Eixample,6,la Sagrada Família,2076,8,1
+2022-01-01,2,Eixample,6,la Sagrada Família,1643,8,2
+2022-01-01,2,Eixample,6,la Sagrada Família,100,9,1
+2022-01-01,2,Eixample,6,la Sagrada Família,79,9,2
+2022-01-01,2,Eixample,6,la Sagrada Família,17,10,1
+2022-01-01,2,Eixample,6,la Sagrada Família,9,10,2
+2022-01-01,2,Eixample,6,la Sagrada Família,664,11,1
+2022-01-01,2,Eixample,6,la Sagrada Família,569,11,2
+2022-01-01,2,Eixample,6,la Sagrada Família,230,12,1
+2022-01-01,2,Eixample,6,la Sagrada Família,415,12,2
+2022-01-01,2,Eixample,6,la Sagrada Família,79,13,1
+2022-01-01,2,Eixample,6,la Sagrada Família,58,13,2
+2022-01-01,2,Eixample,6,la Sagrada Família,159,14,1
+2022-01-01,2,Eixample,6,la Sagrada Família,177,14,2
+2022-01-01,2,Eixample,6,la Sagrada Família,541,15,1
+2022-01-01,2,Eixample,6,la Sagrada Família,327,15,2
+2022-01-01,2,Eixample,6,la Sagrada Família,259,16,1
+2022-01-01,2,Eixample,6,la Sagrada Família,296,16,2
+2022-01-01,2,Eixample,6,la Sagrada Família,22403,17,1
+2022-01-01,2,Eixample,6,la Sagrada Família,18878,17,2
+2022-01-01,2,Eixample,6,la Sagrada Família,503,18,1
+2022-01-01,2,Eixample,6,la Sagrada Família,555,18,2
+2022-01-01,2,Eixample,6,la Sagrada Família,..,19,1
+2022-01-01,2,Eixample,6,la Sagrada Família,6,19,2
+2022-01-01,2,Eixample,6,la Sagrada Família,12,23,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,..,1,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,6,1,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,5,2,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,5,2,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,140,3,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,181,3,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,10,4,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,10,4,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,17,5,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,39,5,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,47,6,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,50,6,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,288,7,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,175,7,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,1268,8,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,949,8,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,280,9,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,340,9,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,29,10,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,17,10,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,437,11,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,316,11,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,133,12,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,206,12,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,84,13,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,43,13,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,203,14,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,223,14,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,570,15,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,302,15,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,474,16,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,571,16,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,18248,17,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,16046,17,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,1172,18,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,1215,18,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,19,19,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,26,19,2
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,5,23,1
+2022-01-01,2,Eixample,7,la Dreta de l'Eixample,..,23,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,7,1,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,1,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,5,2,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,2,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,118,3,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,162,3,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,5,4,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,12,4,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,15,5,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,5,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,84,6,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,47,6,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,309,7,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,237,7,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1385,8,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,1340,8,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,212,9,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,169,9,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,24,10,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,17,10,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,377,11,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,325,11,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,129,12,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,206,12,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,220,13,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,161,13,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,139,14,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,142,14,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,486,15,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,286,15,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,301,16,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,406,16,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,17865,17,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,15491,17,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,749,18,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,845,18,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,15,19,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,18,19,2
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,5,23,1
+2022-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,..,23,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,12,1,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,7,2,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,14,2,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,138,3,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,203,3,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,4,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,13,5,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,38,5,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,115,6,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,108,6,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,365,7,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,213,7,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,1876,8,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,1558,8,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,105,9,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,117,9,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,20,10,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,7,10,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,731,11,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,611,11,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,176,12,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,250,12,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,236,13,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,185,13,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,113,14,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,154,14,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,516,15,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,305,15,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,235,16,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,290,16,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,25235,17,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,22165,17,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,551,18,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,624,18,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,7,19,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,10,19,2
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,7,23,1
+2022-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,..,23,2
+2022-01-01,2,Eixample,10,Sant Antoni,5,1,1
+2022-01-01,2,Eixample,10,Sant Antoni,5,1,2
+2022-01-01,2,Eixample,10,Sant Antoni,..,2,1
+2022-01-01,2,Eixample,10,Sant Antoni,6,2,2
+2022-01-01,2,Eixample,10,Sant Antoni,88,3,1
+2022-01-01,2,Eixample,10,Sant Antoni,163,3,2
+2022-01-01,2,Eixample,10,Sant Antoni,5,4,1
+2022-01-01,2,Eixample,10,Sant Antoni,..,4,2
+2022-01-01,2,Eixample,10,Sant Antoni,15,5,1
+2022-01-01,2,Eixample,10,Sant Antoni,35,5,2
+2022-01-01,2,Eixample,10,Sant Antoni,79,6,1
+2022-01-01,2,Eixample,10,Sant Antoni,83,6,2
+2022-01-01,2,Eixample,10,Sant Antoni,219,7,1
+2022-01-01,2,Eixample,10,Sant Antoni,144,7,2
+2022-01-01,2,Eixample,10,Sant Antoni,1007,8,1
+2022-01-01,2,Eixample,10,Sant Antoni,941,8,2
+2022-01-01,2,Eixample,10,Sant Antoni,109,9,1
+2022-01-01,2,Eixample,10,Sant Antoni,116,9,2
+2022-01-01,2,Eixample,10,Sant Antoni,9,10,1
+2022-01-01,2,Eixample,10,Sant Antoni,6,10,2
+2022-01-01,2,Eixample,10,Sant Antoni,428,11,1
+2022-01-01,2,Eixample,10,Sant Antoni,412,11,2
+2022-01-01,2,Eixample,10,Sant Antoni,308,12,1
+2022-01-01,2,Eixample,10,Sant Antoni,571,12,2
+2022-01-01,2,Eixample,10,Sant Antoni,513,13,1
+2022-01-01,2,Eixample,10,Sant Antoni,316,13,2
+2022-01-01,2,Eixample,10,Sant Antoni,71,14,1
+2022-01-01,2,Eixample,10,Sant Antoni,92,14,2
+2022-01-01,2,Eixample,10,Sant Antoni,332,15,1
+2022-01-01,2,Eixample,10,Sant Antoni,173,15,2
+2022-01-01,2,Eixample,10,Sant Antoni,234,16,1
+2022-01-01,2,Eixample,10,Sant Antoni,342,16,2
+2022-01-01,2,Eixample,10,Sant Antoni,16012,17,1
+2022-01-01,2,Eixample,10,Sant Antoni,14214,17,2
+2022-01-01,2,Eixample,10,Sant Antoni,533,18,1
+2022-01-01,2,Eixample,10,Sant Antoni,553,18,2
+2022-01-01,2,Eixample,10,Sant Antoni,11,19,1
+2022-01-01,2,Eixample,10,Sant Antoni,11,19,2
+2022-01-01,2,Eixample,10,Sant Antoni,8,23,1
+2022-01-01,2,Eixample,10,Sant Antoni,..,23,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,1,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,9,1,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,11,2,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,6,2,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,305,3,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,501,3,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,4,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,4,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,21,5,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,97,5,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,215,6,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,252,6,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,278,7,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,177,7,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,1206,8,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,1123,8,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,110,9,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,105,9,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,10,10,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,13,10,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,250,11,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,208,11,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,887,12,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,1446,12,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,602,13,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,429,13,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,73,14,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,90,14,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,389,15,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,271,15,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,387,16,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,444,16,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,14434,17,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,13412,17,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,667,18,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,683,18,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,10,19,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,11,19,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,21,2
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,23,1
+2022-01-01,3,Sants-Montjuïc,11,el Poble-sec,..,23,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,2,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,17,3,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,14,3,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,5,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,5,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,6,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,6,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,6,7,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,7,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,35,8,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,31,8,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,18,11,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,19,11,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,12,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,12,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,9,14,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,14,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,15,15,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,14,15,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,16,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,16,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,636,17,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,677,17,2
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,18,1
+2022-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,..,18,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,1,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,1,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,10,2,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,2,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,174,3,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,218,3,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,4,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,15,5,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,42,5,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,6,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,75,6,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,238,7,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,123,7,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,739,8,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,695,8,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,12,9,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,13,9,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,10,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,401,11,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,367,11,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,186,12,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,292,12,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,216,13,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,182,13,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,46,14,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,45,14,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,296,15,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,208,15,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,35,16,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,44,16,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,13274,17,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,12278,17,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,71,18,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,18,2
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,23,1
+2022-01-01,3,Sants-Montjuïc,13,la Marina de Port,..,23,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,1,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,1,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,2,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,50,3,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,235,3,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,7,5,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,62,5,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,21,6,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,23,6,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,59,7,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,39,7,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,313,8,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,278,8,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,10,9,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,12,9,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,10,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,10,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,121,11,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,74,11,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,76,12,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,152,12,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,32,13,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,14,13,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,27,14,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,31,14,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,120,15,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,74,15,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,39,16,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,26,16,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,4364,17,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,3927,17,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,71,18,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,92,18,2
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,19,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,23,1
+2022-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,..,23,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,1,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,1,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,5,2,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,2,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,99,3,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,150,3,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,22,5,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,14,5,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,38,6,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,47,6,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,103,7,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,68,7,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,550,8,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,502,8,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,26,9,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,21,9,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,5,10,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,10,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,174,11,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,170,11,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,181,12,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,314,12,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,50,13,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,36,13,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,52,14,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,49,14,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,236,15,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,138,15,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,16,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,94,16,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,6469,17,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,5816,17,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,175,18,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,175,18,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,19,1
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,19,2
+2022-01-01,3,Sants-Montjuïc,15,Hostafrancs,..,23,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,12,1,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,7,1,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,2,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,2,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,59,3,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,83,3,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,12,5,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,29,5,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,51,6,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,55,6,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,99,7,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,68,7,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,431,8,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,407,8,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,15,9,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,10,9,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,10,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,10,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,169,11,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,156,11,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,93,12,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,178,12,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,43,13,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,26,13,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,25,14,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,26,14,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,120,15,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,81,15,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,30,16,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,45,16,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,8843,17,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,7840,17,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,93,18,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,110,18,2
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,19,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,23,1
+2022-01-01,3,Sants-Montjuïc,16,la Bordeta,..,23,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,1,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,6,1,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,11,2,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,8,2,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,82,3,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,123,3,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,4,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,13,5,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,33,5,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,110,6,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,91,6,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,249,7,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,136,7,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,917,8,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,785,8,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,24,9,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,19,9,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,9,10,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,10,10,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,245,11,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,212,11,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,132,12,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,249,12,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,96,13,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,60,13,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,68,14,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,66,14,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,233,15,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,150,15,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,47,16,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,55,16,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,10561,17,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,9159,17,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,107,18,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,132,18,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,19,1
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,19,2
+2022-01-01,3,Sants-Montjuïc,17,Sants - Badal,..,23,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,9,1,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,15,1,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,6,2,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,13,2,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,229,3,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,464,3,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,..,4,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,26,5,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,114,5,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,111,6,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,112,6,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,458,7,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,251,7,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,1556,8,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,1359,8,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,63,9,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,50,9,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,7,10,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,5,10,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,298,11,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,270,11,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,340,12,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,1122,12,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,88,13,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,61,13,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,75,14,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,103,14,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,436,15,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,364,15,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,161,16,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,140,16,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,18191,17,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,15872,17,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,312,18,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,335,18,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,..,19,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,..,19,2
+2022-01-01,3,Sants-Montjuïc,18,Sants,..,23,1
+2022-01-01,3,Sants-Montjuïc,18,Sants,..,23,2
+2022-01-01,4,Les Corts,19,les Corts,..,1,1
+2022-01-01,4,Les Corts,19,les Corts,..,1,2
+2022-01-01,4,Les Corts,19,les Corts,10,2,1
+2022-01-01,4,Les Corts,19,les Corts,9,2,2
+2022-01-01,4,Les Corts,19,les Corts,73,3,1
+2022-01-01,4,Les Corts,19,les Corts,97,3,2
+2022-01-01,4,Les Corts,19,les Corts,..,4,1
+2022-01-01,4,Les Corts,19,les Corts,11,5,1
+2022-01-01,4,Les Corts,19,les Corts,36,5,2
+2022-01-01,4,Les Corts,19,les Corts,62,6,1
+2022-01-01,4,Les Corts,19,les Corts,56,6,2
+2022-01-01,4,Les Corts,19,les Corts,244,7,1
+2022-01-01,4,Les Corts,19,les Corts,131,7,2
+2022-01-01,4,Les Corts,19,les Corts,962,8,1
+2022-01-01,4,Les Corts,19,les Corts,724,8,2
+2022-01-01,4,Les Corts,19,les Corts,73,9,1
+2022-01-01,4,Les Corts,19,les Corts,68,9,2
+2022-01-01,4,Les Corts,19,les Corts,12,10,1
+2022-01-01,4,Les Corts,19,les Corts,10,10,2
+2022-01-01,4,Les Corts,19,les Corts,381,11,1
+2022-01-01,4,Les Corts,19,les Corts,356,11,2
+2022-01-01,4,Les Corts,19,les Corts,145,12,1
+2022-01-01,4,Les Corts,19,les Corts,212,12,2
+2022-01-01,4,Les Corts,19,les Corts,40,13,1
+2022-01-01,4,Les Corts,19,les Corts,16,13,2
+2022-01-01,4,Les Corts,19,les Corts,66,14,1
+2022-01-01,4,Les Corts,19,les Corts,71,14,2
+2022-01-01,4,Les Corts,19,les Corts,373,15,1
+2022-01-01,4,Les Corts,19,les Corts,246,15,2
+2022-01-01,4,Les Corts,19,les Corts,120,16,1
+2022-01-01,4,Les Corts,19,les Corts,143,16,2
+2022-01-01,4,Les Corts,19,les Corts,21606,17,1
+2022-01-01,4,Les Corts,19,les Corts,18666,17,2
+2022-01-01,4,Les Corts,19,les Corts,295,18,1
+2022-01-01,4,Les Corts,19,les Corts,324,18,2
+2022-01-01,4,Les Corts,19,les Corts,7,19,1
+2022-01-01,4,Les Corts,19,les Corts,..,19,2
+2022-01-01,4,Les Corts,19,les Corts,..,23,1
+2022-01-01,4,Les Corts,19,les Corts,..,23,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,1,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,6,1,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,2,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,75,3,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,80,3,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,5,4,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,4,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,12,5,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,17,5,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,34,6,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,38,6,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,161,7,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,106,7,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,601,8,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,492,8,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,20,9,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,17,9,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,10,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,5,10,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,154,11,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,106,11,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,101,12,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,164,12,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,22,13,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,17,13,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,43,14,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,43,14,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,191,15,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,114,15,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,32,16,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,53,16,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,11080,17,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,9597,17,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,131,18,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,151,18,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,19,1
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,19,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,20,2
+2022-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,..,23,2
+2022-01-01,4,Les Corts,21,Pedralbes,6,1,1
+2022-01-01,4,Les Corts,21,Pedralbes,..,1,2
+2022-01-01,4,Les Corts,21,Pedralbes,..,2,2
+2022-01-01,4,Les Corts,21,Pedralbes,38,3,1
+2022-01-01,4,Les Corts,21,Pedralbes,32,3,2
+2022-01-01,4,Les Corts,21,Pedralbes,6,5,1
+2022-01-01,4,Les Corts,21,Pedralbes,..,5,2
+2022-01-01,4,Les Corts,21,Pedralbes,..,6,1
+2022-01-01,4,Les Corts,21,Pedralbes,..,6,2
+2022-01-01,4,Les Corts,21,Pedralbes,74,7,1
+2022-01-01,4,Les Corts,21,Pedralbes,46,7,2
+2022-01-01,4,Les Corts,21,Pedralbes,183,8,1
+2022-01-01,4,Les Corts,21,Pedralbes,112,8,2
+2022-01-01,4,Les Corts,21,Pedralbes,41,9,1
+2022-01-01,4,Les Corts,21,Pedralbes,27,9,2
+2022-01-01,4,Les Corts,21,Pedralbes,9,10,1
+2022-01-01,4,Les Corts,21,Pedralbes,9,10,2
+2022-01-01,4,Les Corts,21,Pedralbes,74,11,1
+2022-01-01,4,Les Corts,21,Pedralbes,78,11,2
+2022-01-01,4,Les Corts,21,Pedralbes,17,12,1
+2022-01-01,4,Les Corts,21,Pedralbes,26,12,2
+2022-01-01,4,Les Corts,21,Pedralbes,24,13,1
+2022-01-01,4,Les Corts,21,Pedralbes,..,13,2
+2022-01-01,4,Les Corts,21,Pedralbes,45,14,1
+2022-01-01,4,Les Corts,21,Pedralbes,33,14,2
+2022-01-01,4,Les Corts,21,Pedralbes,196,15,1
+2022-01-01,4,Les Corts,21,Pedralbes,131,15,2
+2022-01-01,4,Les Corts,21,Pedralbes,51,16,1
+2022-01-01,4,Les Corts,21,Pedralbes,68,16,2
+2022-01-01,4,Les Corts,21,Pedralbes,5266,17,1
+2022-01-01,4,Les Corts,21,Pedralbes,4627,17,2
+2022-01-01,4,Les Corts,21,Pedralbes,249,18,1
+2022-01-01,4,Les Corts,21,Pedralbes,245,18,2
+2022-01-01,4,Les Corts,21,Pedralbes,..,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,2,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,3,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,3,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",5,5,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,6,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,6,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",11,7,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",5,7,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",50,8,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",41,8,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",17,9,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",6,9,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,10,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",8,11,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",5,11,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,12,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,12,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",7,13,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,13,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",6,14,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",13,14,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",41,15,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",30,15,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",64,16,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",63,16,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2107,17,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",2069,17,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",113,18,1
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",127,18,2
+2022-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",..,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,1,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,1,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,5,2,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,2,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,43,3,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,97,3,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,5,4,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,15,5,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,31,5,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,11,6,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,9,6,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,7,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,35,7,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,294,8,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,204,8,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,79,9,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,9,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,6,10,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,9,10,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,114,11,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,112,11,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,32,12,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,43,12,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,45,13,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,14,13,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,43,14,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,33,14,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,183,15,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,152,15,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,115,16,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,143,16,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,11585,17,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,10005,17,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,495,18,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,463,18,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,19,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,5,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,23,1
+2022-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,..,23,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,1,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,1,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,2,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,2,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,17,3,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,53,3,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,5,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,11,5,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,6,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,6,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,64,7,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,23,7,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,203,8,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,106,8,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,42,9,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,41,9,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,10,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,10,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,61,11,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,79,11,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,17,12,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,21,12,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,43,13,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,13,13,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,32,14,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,34,14,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,106,15,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,66,15,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,40,16,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,51,16,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,7767,17,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,6828,17,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,184,18,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,185,18,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,19,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,21,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,23,1
+2022-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,..,23,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,8,1,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,1,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,5,2,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,2,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,43,3,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,58,3,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,4,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,..,4,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,11,5,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,21,5,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,17,6,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,10,6,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,175,7,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,73,7,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,420,8,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,242,8,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,77,9,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,57,9,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,11,10,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,5,10,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,115,11,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,160,11,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,47,12,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,99,12,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,42,13,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,10,13,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,53,14,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,55,14,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,228,15,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,164,15,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,105,16,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,120,16,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,12306,17,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,10375,17,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,269,18,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,281,18,2
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,12,19,1
+2022-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,9,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,1,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,1,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,2,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,2,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,92,3,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,72,3,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,7,4,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,8,4,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,7,5,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,17,5,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,53,6,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,31,6,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,259,7,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,134,7,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,771,8,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,529,8,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,220,9,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,188,9,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,21,10,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,8,10,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,186,11,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,129,11,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,65,12,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,86,12,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,112,13,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,51,13,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,145,14,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,138,14,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,382,15,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,185,15,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,218,16,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,275,16,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,22640,17,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,18779,17,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,669,18,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,682,18,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,6,19,1
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,21,2
+2022-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,..,23,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,1,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,5,1,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,2,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,42,3,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,78,3,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,4,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,4,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,9,5,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,35,5,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,33,6,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,33,6,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,128,7,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,70,7,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,682,8,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,450,8,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,89,9,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,52,9,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,10,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,5,10,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,135,11,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,115,11,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,68,12,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,122,12,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,34,13,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,13,13,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,64,14,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,56,14,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,268,15,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,145,15,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,159,16,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,184,16,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,14029,17,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,11895,17,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,385,18,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,364,18,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,10,19,1
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,8,19,2
+2022-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,..,23,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,2,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,6,2,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,27,3,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,34,3,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,8,5,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,19,5,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,25,6,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,13,6,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,92,7,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,51,7,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,359,8,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,318,8,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,33,9,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,38,9,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,7,10,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,10,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,56,11,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,47,11,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,56,12,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,121,12,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,13,13,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,13,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,36,14,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,35,14,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,156,15,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,121,15,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,68,16,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,87,16,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,7434,17,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,6466,17,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,182,18,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,162,18,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,19,1
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,19,2
+2022-01-01,6,Gràcia,28,Vallcarca i els Penitents,..,23,1
+2022-01-01,6,Gràcia,29,el Coll,..,1,1
+2022-01-01,6,Gràcia,29,el Coll,..,1,2
+2022-01-01,6,Gràcia,29,el Coll,..,2,1
+2022-01-01,6,Gràcia,29,el Coll,..,2,2
+2022-01-01,6,Gràcia,29,el Coll,32,3,1
+2022-01-01,6,Gràcia,29,el Coll,31,3,2
+2022-01-01,6,Gràcia,29,el Coll,..,4,1
+2022-01-01,6,Gràcia,29,el Coll,5,5,1
+2022-01-01,6,Gràcia,29,el Coll,11,5,2
+2022-01-01,6,Gràcia,29,el Coll,13,6,1
+2022-01-01,6,Gràcia,29,el Coll,12,6,2
+2022-01-01,6,Gràcia,29,el Coll,91,7,1
+2022-01-01,6,Gràcia,29,el Coll,57,7,2
+2022-01-01,6,Gràcia,29,el Coll,224,8,1
+2022-01-01,6,Gràcia,29,el Coll,187,8,2
+2022-01-01,6,Gràcia,29,el Coll,11,9,1
+2022-01-01,6,Gràcia,29,el Coll,11,9,2
+2022-01-01,6,Gràcia,29,el Coll,..,10,1
+2022-01-01,6,Gràcia,29,el Coll,19,11,1
+2022-01-01,6,Gràcia,29,el Coll,8,11,2
+2022-01-01,6,Gràcia,29,el Coll,17,12,1
+2022-01-01,6,Gràcia,29,el Coll,44,12,2
+2022-01-01,6,Gràcia,29,el Coll,19,13,1
+2022-01-01,6,Gràcia,29,el Coll,11,13,2
+2022-01-01,6,Gràcia,29,el Coll,10,14,1
+2022-01-01,6,Gràcia,29,el Coll,11,14,2
+2022-01-01,6,Gràcia,29,el Coll,117,15,1
+2022-01-01,6,Gràcia,29,el Coll,78,15,2
+2022-01-01,6,Gràcia,29,el Coll,34,16,1
+2022-01-01,6,Gràcia,29,el Coll,40,16,2
+2022-01-01,6,Gràcia,29,el Coll,3407,17,1
+2022-01-01,6,Gràcia,29,el Coll,2962,17,2
+2022-01-01,6,Gràcia,29,el Coll,68,18,1
+2022-01-01,6,Gràcia,29,el Coll,72,18,2
+2022-01-01,6,Gràcia,29,el Coll,..,19,2
+2022-01-01,6,Gràcia,30,la Salut,..,1,1
+2022-01-01,6,Gràcia,30,la Salut,..,1,2
+2022-01-01,6,Gràcia,30,la Salut,6,2,1
+2022-01-01,6,Gràcia,30,la Salut,..,2,2
+2022-01-01,6,Gràcia,30,la Salut,25,3,1
+2022-01-01,6,Gràcia,30,la Salut,78,3,2
+2022-01-01,6,Gràcia,30,la Salut,..,4,1
+2022-01-01,6,Gràcia,30,la Salut,..,4,2
+2022-01-01,6,Gràcia,30,la Salut,..,5,1
+2022-01-01,6,Gràcia,30,la Salut,33,5,2
+2022-01-01,6,Gràcia,30,la Salut,17,6,1
+2022-01-01,6,Gràcia,30,la Salut,17,6,2
+2022-01-01,6,Gràcia,30,la Salut,74,7,1
+2022-01-01,6,Gràcia,30,la Salut,50,7,2
+2022-01-01,6,Gràcia,30,la Salut,290,8,1
+2022-01-01,6,Gràcia,30,la Salut,216,8,2
+2022-01-01,6,Gràcia,30,la Salut,22,9,1
+2022-01-01,6,Gràcia,30,la Salut,15,9,2
+2022-01-01,6,Gràcia,30,la Salut,6,10,1
+2022-01-01,6,Gràcia,30,la Salut,..,10,2
+2022-01-01,6,Gràcia,30,la Salut,65,11,1
+2022-01-01,6,Gràcia,30,la Salut,49,11,2
+2022-01-01,6,Gràcia,30,la Salut,42,12,1
+2022-01-01,6,Gràcia,30,la Salut,65,12,2
+2022-01-01,6,Gràcia,30,la Salut,7,13,1
+2022-01-01,6,Gràcia,30,la Salut,6,13,2
+2022-01-01,6,Gràcia,30,la Salut,28,14,1
+2022-01-01,6,Gràcia,30,la Salut,28,14,2
+2022-01-01,6,Gràcia,30,la Salut,107,15,1
+2022-01-01,6,Gràcia,30,la Salut,74,15,2
+2022-01-01,6,Gràcia,30,la Salut,56,16,1
+2022-01-01,6,Gràcia,30,la Salut,68,16,2
+2022-01-01,6,Gràcia,30,la Salut,6256,17,1
+2022-01-01,6,Gràcia,30,la Salut,5339,17,2
+2022-01-01,6,Gràcia,30,la Salut,139,18,1
+2022-01-01,6,Gràcia,30,la Salut,136,18,2
+2022-01-01,6,Gràcia,30,la Salut,..,19,1
+2022-01-01,6,Gràcia,30,la Salut,..,19,2
+2022-01-01,6,Gràcia,30,la Salut,..,23,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,7,1,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,9,1,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,11,2,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,12,2,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,126,3,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,169,3,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,8,4,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,6,4,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,12,5,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,47,5,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,75,6,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,71,6,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,340,7,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,219,7,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,1336,8,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,1015,8,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,279,9,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,235,9,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,12,10,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,6,10,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,276,11,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,226,11,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,193,12,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,326,12,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,70,13,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,46,13,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,163,14,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,157,14,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,481,15,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,257,15,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,511,16,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,555,16,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,21997,17,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,18327,17,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,1115,18,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,1103,18,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,18,19,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,24,19,2
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,6,23,1
+2022-01-01,6,Gràcia,31,la Vila de Gràcia,6,23,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,1,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,1,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,2,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,12,2,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,74,3,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,121,3,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,4,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,4,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,12,5,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,34,5,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,43,6,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,35,6,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,234,7,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,145,7,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,907,8,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,689,8,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,88,9,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,60,9,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,7,10,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,10,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,225,11,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,178,11,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,145,12,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,379,12,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,24,13,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,19,13,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,83,14,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,91,14,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,340,15,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,214,15,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,175,16,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,183,16,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,16152,17,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,13561,17,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,381,18,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,387,18,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,19,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,6,19,2
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,6,23,1
+2022-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,..,23,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,1,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,1,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,2,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,5,2,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,50,3,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,84,3,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,13,5,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,27,5,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,44,6,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,52,6,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,155,7,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,90,7,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,821,8,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,698,8,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,36,9,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,20,9,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,10,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,10,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,148,11,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,115,11,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,102,12,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,183,12,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,16,13,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,6,13,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,48,14,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,58,14,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,220,15,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,114,15,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,85,16,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,94,16,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,11852,17,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,10103,17,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,160,18,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,170,18,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,19,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,19,2
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,23,1
+2022-01-01,7,Horta-Guinardó,33,el Baix Guinardó,..,23,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,1,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,1,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,2,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,2,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,27,3,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,44,3,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,6,5,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,20,5,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,7,6,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,16,6,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,73,7,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,40,7,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,241,8,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,222,8,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,15,9,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,9,9,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,10,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,6,10,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,51,11,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,36,11,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,32,12,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,65,12,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,13,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,13,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,17,14,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,18,14,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,117,15,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,87,15,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,38,16,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,45,16,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,4151,17,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,3695,17,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,92,18,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,80,18,2
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,19,1
+2022-01-01,7,Horta-Guinardó,34,Can Baró,..,23,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,6,1,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,..,1,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,16,2,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,14,2,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,93,3,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,122,3,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,..,4,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,..,4,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,19,5,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,30,5,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,90,6,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,91,6,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,335,7,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,173,7,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,1206,8,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,1063,8,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,31,9,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,26,9,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,7,10,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,..,10,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,139,11,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,109,11,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,120,12,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,202,12,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,20,13,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,10,13,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,107,14,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,90,14,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,394,15,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,262,15,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,106,16,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,123,16,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,16810,17,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,14658,17,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,237,18,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,263,18,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,..,19,1
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,5,19,2
+2022-01-01,7,Horta-Guinardó,35,el Guinardó,..,23,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,2,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,11,3,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,20,3,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,5,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,11,5,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,10,6,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,14,6,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,43,7,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,21,7,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,126,8,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,78,8,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,6,9,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,9,9,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,10,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,20,11,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,19,11,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,12,12,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,13,12,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,8,13,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,..,13,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,17,14,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,18,14,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,53,15,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,28,15,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,21,16,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,19,16,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,4591,17,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,4245,17,2
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,52,18,1
+2022-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,51,18,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,..,1,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,..,1,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,11,2,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,19,2,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,145,3,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,190,3,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,..,4,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,17,5,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,55,5,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,91,6,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,97,6,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,592,7,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,342,7,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,1083,8,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,965,8,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,22,9,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,24,9,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,10,10,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,12,10,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,101,11,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,87,11,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,183,12,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,304,12,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,27,13,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,13,13,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,107,14,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,124,14,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,337,15,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,260,15,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,54,16,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,65,16,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,13956,17,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,12587,17,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,106,18,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,122,18,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,..,19,1
+2022-01-01,7,Horta-Guinardó,37,el Carmel,..,19,2
+2022-01-01,7,Horta-Guinardó,37,el Carmel,..,23,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,..,1,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,..,1,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,..,2,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,7,2,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,43,3,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,64,3,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,11,5,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,24,5,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,30,6,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,19,6,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,200,7,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,98,7,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,373,8,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,342,8,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,8,9,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,8,9,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,..,10,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,45,11,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,28,11,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,63,12,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,105,12,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,20,13,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,11,13,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,29,14,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,37,14,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,107,15,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,74,15,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,23,16,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,47,16,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,5215,17,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,4777,17,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,48,18,1
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,50,18,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,..,19,2
+2022-01-01,7,Horta-Guinardó,38,la Teixonera,..,23,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,1,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,1,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,9,2,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,5,2,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,31,3,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,33,3,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,12,5,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,14,5,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,14,6,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,15,6,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,122,7,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,78,7,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,289,8,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,265,8,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,8,9,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,18,9,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,10,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,20,11,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,14,11,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,29,12,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,47,12,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,13,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,13,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,15,14,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,24,14,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,62,15,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,45,15,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,13,16,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,13,16,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,3207,17,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,2796,17,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,26,18,1
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,30,18,2
+2022-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,..,23,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,18,3,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,18,3,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,..,5,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,7,5,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,10,6,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,7,6,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,39,7,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,18,7,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,163,8,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,134,8,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,..,9,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,17,11,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,11,11,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,17,12,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,39,12,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,5,13,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,..,13,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,32,14,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,24,14,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,42,15,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,38,15,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,8,16,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,9,16,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,2371,17,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,1946,17,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,13,18,1
+2022-01-01,7,Horta-Guinardó,40,Montbau,21,18,2
+2022-01-01,7,Horta-Guinardó,40,Montbau,..,19,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,1,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,3,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,9,3,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,5,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,5,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,9,6,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,7,6,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,35,7,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,25,7,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,128,8,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,95,8,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,9,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,12,9,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,11,11,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,10,11,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,9,12,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,11,12,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,13,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,13,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,12,14,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,12,14,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,52,15,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,42,15,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,9,16,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,7,16,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,2841,17,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,2489,17,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,13,18,1
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,12,18,2
+2022-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,..,19,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,5,3,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,7,3,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,5,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,6,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,7,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,6,8,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,8,8,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,9,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,5,12,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,24,12,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,14,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,14,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,15,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,15,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,16,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,16,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,294,17,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,294,17,2
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,18,1
+2022-01-01,7,Horta-Guinardó,42,la Clota,..,18,2
+2022-01-01,7,Horta-Guinardó,43,Horta,..,1,1
+2022-01-01,7,Horta-Guinardó,43,Horta,..,1,2
+2022-01-01,7,Horta-Guinardó,43,Horta,24,2,1
+2022-01-01,7,Horta-Guinardó,43,Horta,19,2,2
+2022-01-01,7,Horta-Guinardó,43,Horta,97,3,1
+2022-01-01,7,Horta-Guinardó,43,Horta,210,3,2
+2022-01-01,7,Horta-Guinardó,43,Horta,11,5,1
+2022-01-01,7,Horta-Guinardó,43,Horta,73,5,2
+2022-01-01,7,Horta-Guinardó,43,Horta,69,6,1
+2022-01-01,7,Horta-Guinardó,43,Horta,50,6,2
+2022-01-01,7,Horta-Guinardó,43,Horta,492,7,1
+2022-01-01,7,Horta-Guinardó,43,Horta,264,7,2
+2022-01-01,7,Horta-Guinardó,43,Horta,730,8,1
+2022-01-01,7,Horta-Guinardó,43,Horta,585,8,2
+2022-01-01,7,Horta-Guinardó,43,Horta,14,9,1
+2022-01-01,7,Horta-Guinardó,43,Horta,12,9,2
+2022-01-01,7,Horta-Guinardó,43,Horta,..,10,1
+2022-01-01,7,Horta-Guinardó,43,Horta,113,11,1
+2022-01-01,7,Horta-Guinardó,43,Horta,97,11,2
+2022-01-01,7,Horta-Guinardó,43,Horta,68,12,1
+2022-01-01,7,Horta-Guinardó,43,Horta,342,12,2
+2022-01-01,7,Horta-Guinardó,43,Horta,73,13,1
+2022-01-01,7,Horta-Guinardó,43,Horta,33,13,2
+2022-01-01,7,Horta-Guinardó,43,Horta,88,14,1
+2022-01-01,7,Horta-Guinardó,43,Horta,77,14,2
+2022-01-01,7,Horta-Guinardó,43,Horta,216,15,1
+2022-01-01,7,Horta-Guinardó,43,Horta,165,15,2
+2022-01-01,7,Horta-Guinardó,43,Horta,25,16,1
+2022-01-01,7,Horta-Guinardó,43,Horta,40,16,2
+2022-01-01,7,Horta-Guinardó,43,Horta,12721,17,1
+2022-01-01,7,Horta-Guinardó,43,Horta,11007,17,2
+2022-01-01,7,Horta-Guinardó,43,Horta,73,18,1
+2022-01-01,7,Horta-Guinardó,43,Horta,81,18,2
+2022-01-01,7,Horta-Guinardó,43,Horta,..,23,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,5,1,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,1,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,2,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,2,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,49,3,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,77,3,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,4,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,5,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,45,5,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,105,6,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,96,6,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,261,7,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,7,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,738,8,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,683,8,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,7,9,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,8,9,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,5,10,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,10,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,190,11,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,184,11,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,75,12,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,122,12,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,18,13,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,12,13,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,131,14,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,145,14,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,196,15,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,140,15,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,37,16,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,50,16,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,11898,17,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,10054,17,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,72,18,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,77,18,2
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,19,1
+2022-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,..,23,2
+2022-01-01,8,Nou Barris,45,Porta,..,1,1
+2022-01-01,8,Nou Barris,45,Porta,..,1,2
+2022-01-01,8,Nou Barris,45,Porta,13,2,1
+2022-01-01,8,Nou Barris,45,Porta,9,2,2
+2022-01-01,8,Nou Barris,45,Porta,144,3,1
+2022-01-01,8,Nou Barris,45,Porta,297,3,2
+2022-01-01,8,Nou Barris,45,Porta,..,4,2
+2022-01-01,8,Nou Barris,45,Porta,47,5,1
+2022-01-01,8,Nou Barris,45,Porta,107,5,2
+2022-01-01,8,Nou Barris,45,Porta,114,6,1
+2022-01-01,8,Nou Barris,45,Porta,105,6,2
+2022-01-01,8,Nou Barris,45,Porta,899,7,1
+2022-01-01,8,Nou Barris,45,Porta,449,7,2
+2022-01-01,8,Nou Barris,45,Porta,1036,8,1
+2022-01-01,8,Nou Barris,45,Porta,905,8,2
+2022-01-01,8,Nou Barris,45,Porta,12,9,1
+2022-01-01,8,Nou Barris,45,Porta,11,9,2
+2022-01-01,8,Nou Barris,45,Porta,..,10,1
+2022-01-01,8,Nou Barris,45,Porta,..,10,2
+2022-01-01,8,Nou Barris,45,Porta,155,11,1
+2022-01-01,8,Nou Barris,45,Porta,119,11,2
+2022-01-01,8,Nou Barris,45,Porta,163,12,1
+2022-01-01,8,Nou Barris,45,Porta,607,12,2
+2022-01-01,8,Nou Barris,45,Porta,16,13,1
+2022-01-01,8,Nou Barris,45,Porta,22,13,2
+2022-01-01,8,Nou Barris,45,Porta,222,14,1
+2022-01-01,8,Nou Barris,45,Porta,226,14,2
+2022-01-01,8,Nou Barris,45,Porta,260,15,1
+2022-01-01,8,Nou Barris,45,Porta,207,15,2
+2022-01-01,8,Nou Barris,45,Porta,28,16,1
+2022-01-01,8,Nou Barris,45,Porta,35,16,2
+2022-01-01,8,Nou Barris,45,Porta,11302,17,1
+2022-01-01,8,Nou Barris,45,Porta,9766,17,2
+2022-01-01,8,Nou Barris,45,Porta,54,18,1
+2022-01-01,8,Nou Barris,45,Porta,55,18,2
+2022-01-01,8,Nou Barris,45,Porta,..,19,1
+2022-01-01,8,Nou Barris,45,Porta,..,23,1
+2022-01-01,8,Nou Barris,45,Porta,..,23,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,1,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,6,2,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,5,2,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,118,3,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,128,3,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,4,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,14,5,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,32,5,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,155,6,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,170,6,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,239,7,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,120,7,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,759,8,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,676,8,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,9,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,9,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,10,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,76,11,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,84,11,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,175,12,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,293,12,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,7,13,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,13,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,168,14,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,177,14,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,147,15,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,101,15,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,16,16,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,19,16,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,6666,17,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,5613,17,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,30,18,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,15,18,2
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,23,1
+2022-01-01,8,Nou Barris,46,el Turó de la Peira,..,23,2
+2022-01-01,8,Nou Barris,47,Can Peguera,18,3,1
+2022-01-01,8,Nou Barris,47,Can Peguera,20,3,2
+2022-01-01,8,Nou Barris,47,Can Peguera,..,5,1
+2022-01-01,8,Nou Barris,47,Can Peguera,..,5,2
+2022-01-01,8,Nou Barris,47,Can Peguera,11,6,1
+2022-01-01,8,Nou Barris,47,Can Peguera,6,6,2
+2022-01-01,8,Nou Barris,47,Can Peguera,13,7,1
+2022-01-01,8,Nou Barris,47,Can Peguera,10,7,2
+2022-01-01,8,Nou Barris,47,Can Peguera,37,8,1
+2022-01-01,8,Nou Barris,47,Can Peguera,38,8,2
+2022-01-01,8,Nou Barris,47,Can Peguera,..,9,1
+2022-01-01,8,Nou Barris,47,Can Peguera,..,9,2
+2022-01-01,8,Nou Barris,47,Can Peguera,..,12,1
+2022-01-01,8,Nou Barris,47,Can Peguera,7,12,2
+2022-01-01,8,Nou Barris,47,Can Peguera,..,13,1
+2022-01-01,8,Nou Barris,47,Can Peguera,5,14,1
+2022-01-01,8,Nou Barris,47,Can Peguera,7,14,2
+2022-01-01,8,Nou Barris,47,Can Peguera,11,15,1
+2022-01-01,8,Nou Barris,47,Can Peguera,..,15,2
+2022-01-01,8,Nou Barris,47,Can Peguera,..,16,1
+2022-01-01,8,Nou Barris,47,Can Peguera,..,16,2
+2022-01-01,8,Nou Barris,47,Can Peguera,1048,17,1
+2022-01-01,8,Nou Barris,47,Can Peguera,930,17,2
+2022-01-01,8,Nou Barris,47,Can Peguera,..,18,1
+2022-01-01,8,Nou Barris,47,Can Peguera,..,18,2
+2022-01-01,8,Nou Barris,48,la Guineueta,7,2,1
+2022-01-01,8,Nou Barris,48,la Guineueta,..,2,2
+2022-01-01,8,Nou Barris,48,la Guineueta,40,3,1
+2022-01-01,8,Nou Barris,48,la Guineueta,31,3,2
+2022-01-01,8,Nou Barris,48,la Guineueta,8,5,1
+2022-01-01,8,Nou Barris,48,la Guineueta,10,5,2
+2022-01-01,8,Nou Barris,48,la Guineueta,44,6,1
+2022-01-01,8,Nou Barris,48,la Guineueta,34,6,2
+2022-01-01,8,Nou Barris,48,la Guineueta,169,7,1
+2022-01-01,8,Nou Barris,48,la Guineueta,85,7,2
+2022-01-01,8,Nou Barris,48,la Guineueta,297,8,1
+2022-01-01,8,Nou Barris,48,la Guineueta,226,8,2
+2022-01-01,8,Nou Barris,48,la Guineueta,..,9,1
+2022-01-01,8,Nou Barris,48,la Guineueta,..,9,2
+2022-01-01,8,Nou Barris,48,la Guineueta,..,10,1
+2022-01-01,8,Nou Barris,48,la Guineueta,..,10,2
+2022-01-01,8,Nou Barris,48,la Guineueta,52,11,1
+2022-01-01,8,Nou Barris,48,la Guineueta,49,11,2
+2022-01-01,8,Nou Barris,48,la Guineueta,30,12,1
+2022-01-01,8,Nou Barris,48,la Guineueta,36,12,2
+2022-01-01,8,Nou Barris,48,la Guineueta,8,13,1
+2022-01-01,8,Nou Barris,48,la Guineueta,8,13,2
+2022-01-01,8,Nou Barris,48,la Guineueta,37,14,1
+2022-01-01,8,Nou Barris,48,la Guineueta,43,14,2
+2022-01-01,8,Nou Barris,48,la Guineueta,119,15,1
+2022-01-01,8,Nou Barris,48,la Guineueta,60,15,2
+2022-01-01,8,Nou Barris,48,la Guineueta,10,16,1
+2022-01-01,8,Nou Barris,48,la Guineueta,8,16,2
+2022-01-01,8,Nou Barris,48,la Guineueta,7245,17,1
+2022-01-01,8,Nou Barris,48,la Guineueta,6333,17,2
+2022-01-01,8,Nou Barris,48,la Guineueta,31,18,1
+2022-01-01,8,Nou Barris,48,la Guineueta,19,18,2
+2022-01-01,8,Nou Barris,48,la Guineueta,..,19,1
+2022-01-01,8,Nou Barris,48,la Guineueta,..,19,2
+2022-01-01,8,Nou Barris,48,la Guineueta,..,23,1
+2022-01-01,8,Nou Barris,48,la Guineueta,..,23,2
+2022-01-01,8,Nou Barris,49,Canyelles,..,1,2
+2022-01-01,8,Nou Barris,49,Canyelles,..,2,1
+2022-01-01,8,Nou Barris,49,Canyelles,16,3,1
+2022-01-01,8,Nou Barris,49,Canyelles,11,3,2
+2022-01-01,8,Nou Barris,49,Canyelles,8,5,1
+2022-01-01,8,Nou Barris,49,Canyelles,7,5,2
+2022-01-01,8,Nou Barris,49,Canyelles,10,6,1
+2022-01-01,8,Nou Barris,49,Canyelles,7,6,2
+2022-01-01,8,Nou Barris,49,Canyelles,50,7,1
+2022-01-01,8,Nou Barris,49,Canyelles,37,7,2
+2022-01-01,8,Nou Barris,49,Canyelles,72,8,1
+2022-01-01,8,Nou Barris,49,Canyelles,65,8,2
+2022-01-01,8,Nou Barris,49,Canyelles,..,9,1
+2022-01-01,8,Nou Barris,49,Canyelles,..,9,2
+2022-01-01,8,Nou Barris,49,Canyelles,..,10,1
+2022-01-01,8,Nou Barris,49,Canyelles,9,11,1
+2022-01-01,8,Nou Barris,49,Canyelles,11,11,2
+2022-01-01,8,Nou Barris,49,Canyelles,6,12,1
+2022-01-01,8,Nou Barris,49,Canyelles,14,12,2
+2022-01-01,8,Nou Barris,49,Canyelles,..,13,1
+2022-01-01,8,Nou Barris,49,Canyelles,20,14,1
+2022-01-01,8,Nou Barris,49,Canyelles,19,14,2
+2022-01-01,8,Nou Barris,49,Canyelles,37,15,1
+2022-01-01,8,Nou Barris,49,Canyelles,28,15,2
+2022-01-01,8,Nou Barris,49,Canyelles,..,16,1
+2022-01-01,8,Nou Barris,49,Canyelles,..,16,2
+2022-01-01,8,Nou Barris,49,Canyelles,3338,17,1
+2022-01-01,8,Nou Barris,49,Canyelles,3002,17,2
+2022-01-01,8,Nou Barris,49,Canyelles,6,18,1
+2022-01-01,8,Nou Barris,49,Canyelles,..,18,2
+2022-01-01,8,Nou Barris,50,les Roquetes,..,1,1
+2022-01-01,8,Nou Barris,50,les Roquetes,..,1,2
+2022-01-01,8,Nou Barris,50,les Roquetes,14,2,1
+2022-01-01,8,Nou Barris,50,les Roquetes,14,2,2
+2022-01-01,8,Nou Barris,50,les Roquetes,113,3,1
+2022-01-01,8,Nou Barris,50,les Roquetes,154,3,2
+2022-01-01,8,Nou Barris,50,les Roquetes,50,5,1
+2022-01-01,8,Nou Barris,50,les Roquetes,64,5,2
+2022-01-01,8,Nou Barris,50,les Roquetes,62,6,1
+2022-01-01,8,Nou Barris,50,les Roquetes,72,6,2
+2022-01-01,8,Nou Barris,50,les Roquetes,577,7,1
+2022-01-01,8,Nou Barris,50,les Roquetes,394,7,2
+2022-01-01,8,Nou Barris,50,les Roquetes,512,8,1
+2022-01-01,8,Nou Barris,50,les Roquetes,459,8,2
+2022-01-01,8,Nou Barris,50,les Roquetes,..,9,1
+2022-01-01,8,Nou Barris,50,les Roquetes,..,9,2
+2022-01-01,8,Nou Barris,50,les Roquetes,5,10,1
+2022-01-01,8,Nou Barris,50,les Roquetes,..,10,2
+2022-01-01,8,Nou Barris,50,les Roquetes,68,11,1
+2022-01-01,8,Nou Barris,50,les Roquetes,72,11,2
+2022-01-01,8,Nou Barris,50,les Roquetes,157,12,1
+2022-01-01,8,Nou Barris,50,les Roquetes,303,12,2
+2022-01-01,8,Nou Barris,50,les Roquetes,6,13,1
+2022-01-01,8,Nou Barris,50,les Roquetes,5,13,2
+2022-01-01,8,Nou Barris,50,les Roquetes,59,14,1
+2022-01-01,8,Nou Barris,50,les Roquetes,61,14,2
+2022-01-01,8,Nou Barris,50,les Roquetes,183,15,1
+2022-01-01,8,Nou Barris,50,les Roquetes,163,15,2
+2022-01-01,8,Nou Barris,50,les Roquetes,15,16,1
+2022-01-01,8,Nou Barris,50,les Roquetes,17,16,2
+2022-01-01,8,Nou Barris,50,les Roquetes,6513,17,1
+2022-01-01,8,Nou Barris,50,les Roquetes,5972,17,2
+2022-01-01,8,Nou Barris,50,les Roquetes,31,18,1
+2022-01-01,8,Nou Barris,50,les Roquetes,29,18,2
+2022-01-01,8,Nou Barris,50,les Roquetes,..,19,2
+2022-01-01,8,Nou Barris,51,Verdun,5,1,1
+2022-01-01,8,Nou Barris,51,Verdun,..,1,2
+2022-01-01,8,Nou Barris,51,Verdun,8,2,1
+2022-01-01,8,Nou Barris,51,Verdun,..,2,2
+2022-01-01,8,Nou Barris,51,Verdun,68,3,1
+2022-01-01,8,Nou Barris,51,Verdun,84,3,2
+2022-01-01,8,Nou Barris,51,Verdun,12,5,1
+2022-01-01,8,Nou Barris,51,Verdun,33,5,2
+2022-01-01,8,Nou Barris,51,Verdun,81,6,1
+2022-01-01,8,Nou Barris,51,Verdun,68,6,2
+2022-01-01,8,Nou Barris,51,Verdun,443,7,1
+2022-01-01,8,Nou Barris,51,Verdun,290,7,2
+2022-01-01,8,Nou Barris,51,Verdun,385,8,1
+2022-01-01,8,Nou Barris,51,Verdun,363,8,2
+2022-01-01,8,Nou Barris,51,Verdun,..,9,1
+2022-01-01,8,Nou Barris,51,Verdun,6,9,2
+2022-01-01,8,Nou Barris,51,Verdun,86,11,1
+2022-01-01,8,Nou Barris,51,Verdun,96,11,2
+2022-01-01,8,Nou Barris,51,Verdun,76,12,1
+2022-01-01,8,Nou Barris,51,Verdun,157,12,2
+2022-01-01,8,Nou Barris,51,Verdun,35,13,1
+2022-01-01,8,Nou Barris,51,Verdun,16,13,2
+2022-01-01,8,Nou Barris,51,Verdun,67,14,1
+2022-01-01,8,Nou Barris,51,Verdun,56,14,2
+2022-01-01,8,Nou Barris,51,Verdun,129,15,1
+2022-01-01,8,Nou Barris,51,Verdun,85,15,2
+2022-01-01,8,Nou Barris,51,Verdun,7,16,1
+2022-01-01,8,Nou Barris,51,Verdun,12,16,2
+2022-01-01,8,Nou Barris,51,Verdun,5311,17,1
+2022-01-01,8,Nou Barris,51,Verdun,4526,17,2
+2022-01-01,8,Nou Barris,51,Verdun,23,18,1
+2022-01-01,8,Nou Barris,51,Verdun,25,18,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,..,1,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,17,2,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,11,2,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,102,3,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,99,3,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,..,4,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,..,4,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,49,5,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,61,5,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,81,6,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,93,6,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,561,7,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,316,7,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,675,8,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,660,8,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,8,9,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,5,9,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,5,10,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,5,10,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,176,11,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,158,11,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,161,12,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,242,12,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,26,13,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,19,13,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,151,14,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,165,14,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,224,15,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,165,15,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,14,16,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,21,16,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,11718,17,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,10268,17,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,43,18,1
+2022-01-01,8,Nou Barris,52,la Prosperitat,41,18,2
+2022-01-01,8,Nou Barris,52,la Prosperitat,..,23,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,1,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,6,2,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,12,2,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,57,3,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,74,3,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,18,5,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,56,5,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,37,6,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,31,6,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,150,7,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,88,7,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,206,8,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,196,8,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,9,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,9,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,41,11,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,25,11,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,108,12,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,182,12,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,13,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,13,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,76,14,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,85,14,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,90,15,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,66,15,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,16,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,16,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,3072,17,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,2721,17,2
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,..,18,1
+2022-01-01,8,Nou Barris,53,la Trinitat Nova,8,18,2
+2022-01-01,8,Nou Barris,54,Torre Baró,..,1,1
+2022-01-01,8,Nou Barris,54,Torre Baró,6,2,1
+2022-01-01,8,Nou Barris,54,Torre Baró,10,2,2
+2022-01-01,8,Nou Barris,54,Torre Baró,55,3,1
+2022-01-01,8,Nou Barris,54,Torre Baró,77,3,2
+2022-01-01,8,Nou Barris,54,Torre Baró,16,5,1
+2022-01-01,8,Nou Barris,54,Torre Baró,17,5,2
+2022-01-01,8,Nou Barris,54,Torre Baró,5,6,1
+2022-01-01,8,Nou Barris,54,Torre Baró,9,6,2
+2022-01-01,8,Nou Barris,54,Torre Baró,41,7,1
+2022-01-01,8,Nou Barris,54,Torre Baró,31,7,2
+2022-01-01,8,Nou Barris,54,Torre Baró,74,8,1
+2022-01-01,8,Nou Barris,54,Torre Baró,66,8,2
+2022-01-01,8,Nou Barris,54,Torre Baró,..,9,1
+2022-01-01,8,Nou Barris,54,Torre Baró,10,11,1
+2022-01-01,8,Nou Barris,54,Torre Baró,7,11,2
+2022-01-01,8,Nou Barris,54,Torre Baró,16,12,1
+2022-01-01,8,Nou Barris,54,Torre Baró,22,12,2
+2022-01-01,8,Nou Barris,54,Torre Baró,..,13,2
+2022-01-01,8,Nou Barris,54,Torre Baró,5,14,1
+2022-01-01,8,Nou Barris,54,Torre Baró,7,14,2
+2022-01-01,8,Nou Barris,54,Torre Baró,25,15,1
+2022-01-01,8,Nou Barris,54,Torre Baró,30,15,2
+2022-01-01,8,Nou Barris,54,Torre Baró,6,16,1
+2022-01-01,8,Nou Barris,54,Torre Baró,..,16,2
+2022-01-01,8,Nou Barris,54,Torre Baró,1196,17,1
+2022-01-01,8,Nou Barris,54,Torre Baró,1162,17,2
+2022-01-01,8,Nou Barris,54,Torre Baró,..,18,1
+2022-01-01,8,Nou Barris,54,Torre Baró,..,18,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,..,1,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,..,1,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,15,2,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,17,2,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,220,3,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,265,3,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,139,5,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,197,5,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,138,6,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,121,6,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,388,7,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,257,7,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,297,8,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,306,8,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,..,9,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,..,10,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,..,10,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,37,11,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,35,11,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,209,12,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,324,12,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,8,13,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,7,13,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,30,14,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,31,14,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,140,15,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,105,15,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,8,16,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,7,16,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,3853,17,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,3621,17,2
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,11,18,1
+2022-01-01,8,Nou Barris,55,Ciutat Meridiana,7,18,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,2,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,2,2
+2022-01-01,8,Nou Barris,56,Vallbona,10,3,1
+2022-01-01,8,Nou Barris,56,Vallbona,14,3,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,5,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,6,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,6,2
+2022-01-01,8,Nou Barris,56,Vallbona,12,7,1
+2022-01-01,8,Nou Barris,56,Vallbona,12,7,2
+2022-01-01,8,Nou Barris,56,Vallbona,30,8,1
+2022-01-01,8,Nou Barris,56,Vallbona,27,8,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,9,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,11,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,11,2
+2022-01-01,8,Nou Barris,56,Vallbona,18,12,1
+2022-01-01,8,Nou Barris,56,Vallbona,24,12,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,14,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,14,2
+2022-01-01,8,Nou Barris,56,Vallbona,20,15,1
+2022-01-01,8,Nou Barris,56,Vallbona,15,15,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,16,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,16,2
+2022-01-01,8,Nou Barris,56,Vallbona,614,17,1
+2022-01-01,8,Nou Barris,56,Vallbona,590,17,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,18,1
+2022-01-01,8,Nou Barris,56,Vallbona,..,18,2
+2022-01-01,8,Nou Barris,56,Vallbona,..,23,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,1,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,1,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,2,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,2,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,241,3,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,328,3,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,54,5,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,95,5,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,41,6,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,41,6,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,125,7,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,80,7,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,307,8,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,314,8,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,9,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,9,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,10,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,..,10,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,36,11,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,36,11,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,355,12,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,531,12,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,12,13,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,6,13,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,47,14,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,50,14,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,149,15,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,136,15,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,13,16,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,15,16,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,3665,17,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,3619,17,2
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,24,18,1
+2022-01-01,9,Sant Andreu,57,la Trinitat Vella,21,18,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,39,3,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,40,3,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,5,5,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,10,5,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,5,6,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,7,6,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,22,7,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,8,7,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,42,8,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,49,8,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,22,11,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,14,11,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,18,12,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,24,12,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,..,13,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,6,14,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,11,14,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,22,15,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,18,15,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,..,16,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,..,16,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,1150,17,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,1078,17,2
+2022-01-01,9,Sant Andreu,58,Baró de Viver,5,18,1
+2022-01-01,9,Sant Andreu,58,Baró de Viver,..,18,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,1,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,2,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,2,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,89,3,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,146,3,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,21,5,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,73,5,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,31,6,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,29,6,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,315,7,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,158,7,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,425,8,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,379,8,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,9,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,9,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,70,11,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,60,11,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,89,12,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,442,12,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,8,13,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,13,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,77,14,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,67,14,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,131,15,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,116,15,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,6,16,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,12,16,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,5495,17,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,5259,17,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,19,18,1
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,18,18,2
+2022-01-01,9,Sant Andreu,59,el Bon Pastor,..,19,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,5,1,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,1,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,2,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,9,2,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,134,3,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,226,3,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,35,5,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,141,5,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,102,6,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,83,6,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,337,7,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,191,7,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,910,8,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,778,8,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,30,9,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,27,9,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,10,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,250,11,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,213,11,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,117,12,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,187,12,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,22,13,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,11,13,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,114,14,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,113,14,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,312,15,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,186,15,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,58,16,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,81,16,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,27790,17,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,24849,17,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,135,18,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,145,18,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,19,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,19,2
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,23,1
+2022-01-01,9,Sant Andreu,60,Sant Andreu,..,23,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,..,1,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,..,1,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,9,2,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,..,2,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,56,3,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,77,3,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,8,5,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,40,5,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,80,6,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,106,6,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,272,7,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,126,7,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,921,8,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,792,8,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,14,9,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,16,9,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,..,10,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,..,10,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,296,11,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,285,11,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,72,12,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,115,12,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,23,13,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,21,13,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,82,14,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,96,14,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,239,15,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,142,15,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,23,16,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,43,16,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,13432,17,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,11867,17,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,95,18,1
+2022-01-01,9,Sant Andreu,61,la Sagrera,84,18,2
+2022-01-01,9,Sant Andreu,61,la Sagrera,..,23,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,6,1,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,1,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,2,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,38,3,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,54,3,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,4,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,5,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,23,5,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,37,6,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,31,6,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,111,7,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,62,7,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,379,8,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,345,8,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,8,9,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,9,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,10,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,144,11,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,121,11,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,25,12,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,48,12,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,13,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,13,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,55,14,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,48,14,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,126,15,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,104,15,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,21,16,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,31,16,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,6578,17,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,5800,17,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,50,18,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,56,18,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,19,1
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,19,2
+2022-01-01,9,Sant Andreu,62,el Congrés i els Indians,..,23,1
+2022-01-01,9,Sant Andreu,63,Navas,..,1,1
+2022-01-01,9,Sant Andreu,63,Navas,..,1,2
+2022-01-01,9,Sant Andreu,63,Navas,8,2,1
+2022-01-01,9,Sant Andreu,63,Navas,..,2,2
+2022-01-01,9,Sant Andreu,63,Navas,55,3,1
+2022-01-01,9,Sant Andreu,63,Navas,61,3,2
+2022-01-01,9,Sant Andreu,63,Navas,..,4,2
+2022-01-01,9,Sant Andreu,63,Navas,13,5,1
+2022-01-01,9,Sant Andreu,63,Navas,39,5,2
+2022-01-01,9,Sant Andreu,63,Navas,66,6,1
+2022-01-01,9,Sant Andreu,63,Navas,86,6,2
+2022-01-01,9,Sant Andreu,63,Navas,126,7,1
+2022-01-01,9,Sant Andreu,63,Navas,57,7,2
+2022-01-01,9,Sant Andreu,63,Navas,634,8,1
+2022-01-01,9,Sant Andreu,63,Navas,499,8,2
+2022-01-01,9,Sant Andreu,63,Navas,17,9,1
+2022-01-01,9,Sant Andreu,63,Navas,13,9,2
+2022-01-01,9,Sant Andreu,63,Navas,..,10,1
+2022-01-01,9,Sant Andreu,63,Navas,..,10,2
+2022-01-01,9,Sant Andreu,63,Navas,298,11,1
+2022-01-01,9,Sant Andreu,63,Navas,292,11,2
+2022-01-01,9,Sant Andreu,63,Navas,54,12,1
+2022-01-01,9,Sant Andreu,63,Navas,94,12,2
+2022-01-01,9,Sant Andreu,63,Navas,20,13,1
+2022-01-01,9,Sant Andreu,63,Navas,11,13,2
+2022-01-01,9,Sant Andreu,63,Navas,67,14,1
+2022-01-01,9,Sant Andreu,63,Navas,55,14,2
+2022-01-01,9,Sant Andreu,63,Navas,182,15,1
+2022-01-01,9,Sant Andreu,63,Navas,106,15,2
+2022-01-01,9,Sant Andreu,63,Navas,49,16,1
+2022-01-01,9,Sant Andreu,63,Navas,57,16,2
+2022-01-01,9,Sant Andreu,63,Navas,10026,17,1
+2022-01-01,9,Sant Andreu,63,Navas,8762,17,2
+2022-01-01,9,Sant Andreu,63,Navas,79,18,1
+2022-01-01,9,Sant Andreu,63,Navas,104,18,2
+2022-01-01,9,Sant Andreu,63,Navas,..,23,1
+2022-01-01,9,Sant Andreu,63,Navas,..,23,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,1,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,1,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,5,2,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,5,2,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,141,3,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,205,3,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,4,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,4,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,9,5,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,56,5,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,108,6,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,102,6,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,224,7,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,154,7,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,1289,8,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,1090,8,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,53,9,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,34,9,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,6,10,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,10,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,399,11,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,340,11,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,142,12,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,236,12,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,44,13,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,35,13,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,132,14,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,133,14,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,343,15,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,236,15,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,154,16,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,198,16,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,16898,17,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,14708,17,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,354,18,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,346,18,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,19,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,19,2
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,5,23,1
+2022-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,..,23,2
+2022-01-01,10,Sant Martí,65,el Clot,..,1,1
+2022-01-01,10,Sant Martí,65,el Clot,..,1,2
+2022-01-01,10,Sant Martí,65,el Clot,6,2,1
+2022-01-01,10,Sant Martí,65,el Clot,6,2,2
+2022-01-01,10,Sant Martí,65,el Clot,111,3,1
+2022-01-01,10,Sant Martí,65,el Clot,174,3,2
+2022-01-01,10,Sant Martí,65,el Clot,..,4,1
+2022-01-01,10,Sant Martí,65,el Clot,..,4,2
+2022-01-01,10,Sant Martí,65,el Clot,7,5,1
+2022-01-01,10,Sant Martí,65,el Clot,26,5,2
+2022-01-01,10,Sant Martí,65,el Clot,75,6,1
+2022-01-01,10,Sant Martí,65,el Clot,52,6,2
+2022-01-01,10,Sant Martí,65,el Clot,145,7,1
+2022-01-01,10,Sant Martí,65,el Clot,62,7,2
+2022-01-01,10,Sant Martí,65,el Clot,698,8,1
+2022-01-01,10,Sant Martí,65,el Clot,620,8,2
+2022-01-01,10,Sant Martí,65,el Clot,26,9,1
+2022-01-01,10,Sant Martí,65,el Clot,23,9,2
+2022-01-01,10,Sant Martí,65,el Clot,11,10,1
+2022-01-01,10,Sant Martí,65,el Clot,5,10,2
+2022-01-01,10,Sant Martí,65,el Clot,228,11,1
+2022-01-01,10,Sant Martí,65,el Clot,200,11,2
+2022-01-01,10,Sant Martí,65,el Clot,61,12,1
+2022-01-01,10,Sant Martí,65,el Clot,119,12,2
+2022-01-01,10,Sant Martí,65,el Clot,12,13,1
+2022-01-01,10,Sant Martí,65,el Clot,10,13,2
+2022-01-01,10,Sant Martí,65,el Clot,50,14,1
+2022-01-01,10,Sant Martí,65,el Clot,46,14,2
+2022-01-01,10,Sant Martí,65,el Clot,254,15,1
+2022-01-01,10,Sant Martí,65,el Clot,170,15,2
+2022-01-01,10,Sant Martí,65,el Clot,94,16,1
+2022-01-01,10,Sant Martí,65,el Clot,108,16,2
+2022-01-01,10,Sant Martí,65,el Clot,11848,17,1
+2022-01-01,10,Sant Martí,65,el Clot,10771,17,2
+2022-01-01,10,Sant Martí,65,el Clot,172,18,1
+2022-01-01,10,Sant Martí,65,el Clot,175,18,2
+2022-01-01,10,Sant Martí,65,el Clot,..,19,1
+2022-01-01,10,Sant Martí,65,el Clot,..,19,2
+2022-01-01,10,Sant Martí,65,el Clot,..,23,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,1,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,1,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,2,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,2,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,106,3,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,101,3,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,4,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,4,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,12,5,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,38,5,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,25,6,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,18,6,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,86,7,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,57,7,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,417,8,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,297,8,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,33,9,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,41,9,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,8,10,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,5,10,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,181,11,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,175,11,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,46,12,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,100,12,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,25,13,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,16,13,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,41,14,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,67,14,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,249,15,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,163,15,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,141,16,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,173,16,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6630,17,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6185,17,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,233,18,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,266,18,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,19,1
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,6,19,2
+2022-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,..,23,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,1,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,14,3,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,11,3,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,5,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,5,5,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,6,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,16,7,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,17,7,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,141,8,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,123,8,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,37,9,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,40,9,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,8,10,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,10,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,39,11,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,32,11,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,12,12,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,39,12,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,7,13,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,13,14,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,25,14,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,167,15,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,110,15,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,101,16,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,101,16,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,3983,17,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,3903,17,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,192,18,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,222,18,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,19,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,6,19,2
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,23,1
+2022-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,..,23,2
+2022-01-01,10,Sant Martí,68,el Poblenou,..,1,1
+2022-01-01,10,Sant Martí,68,el Poblenou,..,2,1
+2022-01-01,10,Sant Martí,68,el Poblenou,..,2,2
+2022-01-01,10,Sant Martí,68,el Poblenou,73,3,1
+2022-01-01,10,Sant Martí,68,el Poblenou,118,3,2
+2022-01-01,10,Sant Martí,68,el Poblenou,..,4,1
+2022-01-01,10,Sant Martí,68,el Poblenou,..,4,2
+2022-01-01,10,Sant Martí,68,el Poblenou,15,5,1
+2022-01-01,10,Sant Martí,68,el Poblenou,49,5,2
+2022-01-01,10,Sant Martí,68,el Poblenou,32,6,1
+2022-01-01,10,Sant Martí,68,el Poblenou,18,6,2
+2022-01-01,10,Sant Martí,68,el Poblenou,122,7,1
+2022-01-01,10,Sant Martí,68,el Poblenou,69,7,2
+2022-01-01,10,Sant Martí,68,el Poblenou,750,8,1
+2022-01-01,10,Sant Martí,68,el Poblenou,611,8,2
+2022-01-01,10,Sant Martí,68,el Poblenou,94,9,1
+2022-01-01,10,Sant Martí,68,el Poblenou,80,9,2
+2022-01-01,10,Sant Martí,68,el Poblenou,13,10,1
+2022-01-01,10,Sant Martí,68,el Poblenou,8,10,2
+2022-01-01,10,Sant Martí,68,el Poblenou,213,11,1
+2022-01-01,10,Sant Martí,68,el Poblenou,185,11,2
+2022-01-01,10,Sant Martí,68,el Poblenou,141,12,1
+2022-01-01,10,Sant Martí,68,el Poblenou,261,12,2
+2022-01-01,10,Sant Martí,68,el Poblenou,23,13,1
+2022-01-01,10,Sant Martí,68,el Poblenou,16,13,2
+2022-01-01,10,Sant Martí,68,el Poblenou,79,14,1
+2022-01-01,10,Sant Martí,68,el Poblenou,79,14,2
+2022-01-01,10,Sant Martí,68,el Poblenou,463,15,1
+2022-01-01,10,Sant Martí,68,el Poblenou,314,15,2
+2022-01-01,10,Sant Martí,68,el Poblenou,316,16,1
+2022-01-01,10,Sant Martí,68,el Poblenou,370,16,2
+2022-01-01,10,Sant Martí,68,el Poblenou,14572,17,1
+2022-01-01,10,Sant Martí,68,el Poblenou,13690,17,2
+2022-01-01,10,Sant Martí,68,el Poblenou,592,18,1
+2022-01-01,10,Sant Martí,68,el Poblenou,685,18,2
+2022-01-01,10,Sant Martí,68,el Poblenou,16,19,1
+2022-01-01,10,Sant Martí,68,el Poblenou,18,19,2
+2022-01-01,10,Sant Martí,68,el Poblenou,..,23,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,1,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,2,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,48,3,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,71,3,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,4,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,6,5,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,10,5,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,13,6,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,8,6,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,33,7,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,23,7,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,239,8,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,174,8,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,34,9,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,28,9,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5,10,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,6,10,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,91,11,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,60,11,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,34,12,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,66,12,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5,13,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,13,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,38,14,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,38,14,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,350,15,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,257,15,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,99,16,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,149,16,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5696,17,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,5385,17,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,169,18,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,245,18,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,19,1
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,19,2
+2022-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,..,23,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,1,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,1,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,2,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,7,2,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,306,3,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,531,3,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,4,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,58,5,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,432,5,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,64,6,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,65,6,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,374,7,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,197,7,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,704,8,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,689,8,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,12,9,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,5,9,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,16,10,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,14,10,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,233,11,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,215,11,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,968,12,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,2402,12,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,16,13,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,10,13,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,101,14,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,128,14,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,616,15,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,533,15,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,56,16,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,60,16,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,8873,17,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,8520,17,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,60,18,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,73,18,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,19,1
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,19,2
+2022-01-01,10,Sant Martí,70,el Besòs i el Maresme,..,23,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,7,2,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,2,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,113,3,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,151,3,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,4,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,10,5,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,40,5,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,43,6,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,42,6,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,98,7,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,65,7,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,464,8,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,381,8,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,21,9,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,18,9,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,10,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,10,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,112,11,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,113,11,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,103,12,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,174,12,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,8,13,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,5,13,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,51,14,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,45,14,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,315,15,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,215,15,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,59,16,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,88,16,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,9450,17,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,8569,17,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,150,18,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,165,18,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,19,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,19,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,20,2
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,..,23,1
+2022-01-01,10,Sant Martí,71,Provençals del Poblenou,5,23,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,1,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,5,2,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,5,2,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,43,3,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,76,3,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,7,5,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,24,5,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,70,6,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,85,6,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,126,7,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,67,7,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,596,8,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,514,8,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,14,9,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,11,9,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,10,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,10,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,452,11,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,387,11,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,70,12,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,140,12,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,31,13,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,10,13,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,65,14,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,51,14,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,244,15,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,176,15,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,23,16,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,43,16,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,11902,17,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,10451,17,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,77,18,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,78,18,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,19,2
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,23,1
+2022-01-01,10,Sant Martí,72,Sant Martí de Provençals,..,23,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,1,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,1,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,6,2,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,2,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,89,3,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,118,3,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,4,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,31,5,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,58,5,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,87,6,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,78,6,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,176,7,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,74,7,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,649,8,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,563,8,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,5,9,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,8,9,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,7,10,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,6,10,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,411,11,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,389,11,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,135,12,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,190,12,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,23,13,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,9,13,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,88,14,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,80,14,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,281,15,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,250,15,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,20,16,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,25,16,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,13020,17,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,11760,17,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,55,18,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,48,18,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,19,1
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,19,2
+2022-01-01,10,Sant Martí,73,la Verneda i la Pau,..,23,1
