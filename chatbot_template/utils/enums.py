@@ -30,3 +30,12 @@ class TextFeatureType(Enum):
     BASIC = auto()
     LEXICAL = auto()
     LIWC_SIM = auto()
+
+
+class DataTypesEnum(Enum):
+    """Available data types to extract."""
+
+    CSV = auto()
+    JSON = auto()
+    SQL = auto()
+    EXCEL = auto()

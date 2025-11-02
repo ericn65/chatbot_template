@@ -339,6 +339,7 @@ wheels = [
 
 [[package]]
 name = "chatbot-template"
+version = "0.2.0"
 source = { editable = "." }
 dependencies = [
     { name = "aiofiles" },
@@ -353,6 +354,7 @@ dependencies = [
     { name = "numpy" },
     { name = "python-dotenv" },
     { name = "pyyaml" },
+    { name = "requests" },
     { name = "rich" },
     { name = "types-aiofiles" },
     { name = "types-pyyaml" },
@@ -384,6 +386,7 @@ requires-dist = [
     { name = "numpy" },
     { name = "python-dotenv" },
     { name = "pyyaml", specifier = ">=6.0.3" },
+    { name = "requests", specifier = ">=2.32.5" },
     { name = "rich" },
     { name = "types-aiofiles", specifier = ">=24.1.0.20250822" },
     { name = "types-pyyaml", specifier = ">=6.0.12.20250915" },
