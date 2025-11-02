@@ -39,3 +39,27 @@ class DataTypesEnum(Enum):
     JSON = auto()
     SQL = auto()
     EXCEL = auto()
+
+
+class CountryEnums(Enum):
+    """Available countries in our data."""
+
+    SPAIN = 0
+    ARGENTINA = 1
+    ITALY = 2
+    MOROCCO = 3
+    ECUADOR = 4
+    ROMANIA = 5
+    UK = 6
+    GERMAN = 7
+    FRANCE = 8
+    ALGERIA = 9
+    SENEGAL = 10
+    USA = 11
+    BOLIVIA = 12
+    PERU = 13
+    CHILE = 14
+    GREECE = 15
+    RUSSIA = 16
+    SWEEDEN = 17
+    ISRAEL = 18
