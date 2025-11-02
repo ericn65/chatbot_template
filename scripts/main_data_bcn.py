@@ -23,8 +23,8 @@ from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 def run_bcn_example():
     """Main script."""
-    BASE_DIR = Path(__file__).resolve().parents[1]
-    data_dir = BASE_DIR / "chatbot_template" / "data"
+    base_dir = Path(__file__).resolve().parents[1]
+    data_dir = base_dir / "chatbot_template" / "data"
     path_2023 = data_dir / "2023_pad_mdb_nacionalitat-regio_sexe.csv"
     path_2024 = data_dir / "2024_pad_mdb_nacionalitat-regio_sexe.csv"
 
