@@ -63,7 +63,8 @@ class AudioProcessor:
         save_path : str or Path, optional
             If provided, the resulting array will be saved as a `.npy` file.
         include_deltas : bool, default=False
-            If True and the feature type is MFCC, includes delta and delta-delta features.
+            If True and the feature type is MFCC,
+            includes delta and delta-delta features.
 
         Returns
         -------

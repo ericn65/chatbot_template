@@ -154,12 +154,12 @@ class DataVisualizer:
         """
         if date_col not in self.data.columns or value_col not in self.data.columns:
             raise ValueError("Invalid columns provided.")
-        df = self.data.copy()
-        df[date_col] = pd.to_datetime(df[date_col], errors="coerce")
+        data = self.data.copy()
+        data[date_col] = pd.to_datetime(data[date_col], errors="coerce")
         if freq:
-            df = df.resample(freq, on=date_col)[value_col].mean().reset_index()
+            data = data.resample(freq, on=date_col)[value_col].mean().reset_index()
         plt.figure(figsize=(9, 5))
-        sns.lineplot(data=df, x=date_col, y=value_col)
+        sns.lineplot(data=data, x=date_col, y=value_col)
         plt.title(f"Time Series of {value_col} over {date_col}")
         plt.tight_layout()
         plt.show()

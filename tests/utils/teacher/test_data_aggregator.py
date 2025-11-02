@@ -9,6 +9,7 @@ from chatbot_template.utils.teacher.data_aggregator import DataAggregator
 # ---------------------------------------------------------------------
 @pytest.fixture
 def sample_df():
+    """Sample example mocked for the tests."""
     return pd.DataFrame(
         {
             "city": ["Madrid", "Sevilla", "Madrid", "Sevilla", "Valencia"],
@@ -20,6 +21,7 @@ def sample_df():
 
 @pytest.fixture
 def aggregator(sample_df):
+    """Aggregator of data."""
     return DataAggregator(sample_df)
 
 
@@ -55,9 +57,9 @@ def test_get_numeric_summary(aggregator):
 
 def test_get_numeric_summary_raises_if_no_numeric():
     """Tests numeric sumaries getters issues."""
-    df = pd.DataFrame({"city": ["Madrid", "Sevilla"]})
+    data = pd.DataFrame({"city": ["Madrid", "Sevilla"]})
     with pytest.raises(ValueError):
-        DataAggregator(df).get_numeric_summary()
+        DataAggregator(data).get_numeric_summary()
 
 
 # ---------------------------------------------------------------------
@@ -144,7 +146,7 @@ def test_detect_outliers_finds_extreme_values(sample_df):
     agg = DataAggregator(sample_df)
     outliers = agg.detect_outliers("sales", z_threshold=2.0)
     assert not outliers.empty
-    assert 9999 in outliers["sales"].values
+    assert 9999 in outliers["sales"].to_numpy()
 
 
 def test_detect_outliers_non_numeric(aggregator):

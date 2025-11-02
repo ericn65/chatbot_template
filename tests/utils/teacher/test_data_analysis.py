@@ -32,6 +32,7 @@ class CityEnum(Enum):
 # ---------------------------------------------------------------------
 @pytest.fixture
 def sample_df() -> pd.DataFrame:
+    """Sample example for the tests."""
     return pd.DataFrame(
         {
             "city": ["Barcelona", "Madrid", "Valencia", "Madrid", None],
@@ -123,8 +124,8 @@ def test_map_column_to_enum_invalid_col_raises(sample_df):
 
 def test_inverse_map_enum_to_labels(sample_df):
     """Tests an inverse map enum to labels."""
-    df = pd.DataFrame({"city": [1, 2, 0]})
-    df_decoded = _inverse_map_enum_to_labels(df, "city", CityEnum)
+    data = pd.DataFrame({"city": [1, 2, 0]})
+    df_decoded = _inverse_map_enum_to_labels(data, "city", CityEnum)
     assert "city" in df_decoded.columns
     assert all(isinstance(val, str) for val in df_decoded["city"])
     assert set(df_decoded["city"]) <= {"Barcelona", "Madrid", "Unknown"}
@@ -143,8 +144,8 @@ def test_encode_column_and_decode_column(sample_df):
 
 def test_case_insensitive_mapping(sample_df):
     """Tests case mappings."""
-    df = pd.DataFrame({"city": ["madrid", "MADRID", "Barcelona", "unknown"]})
+    data = pd.DataFrame({"city": ["madrid", "MADRID", "Barcelona", "unknown"]})
     df_encoded = encode_column(
-        df, "city", CityEnum, default_value=CityEnum.UNKNOWN.value
+        data, "city", CityEnum, default_value=CityEnum.UNKNOWN.value
     )
     assert df_encoded["city"].tolist() == [2, 2, 1, 0]

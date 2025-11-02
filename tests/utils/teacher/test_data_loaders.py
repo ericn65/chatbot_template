@@ -16,6 +16,7 @@ from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 @pytest.fixture
 def sample_df():
+    """Sample example for the tests."""
     return pd.DataFrame({"city": ["Madrid", "Sevilla"], "sales": [100, 120]})
 
 
