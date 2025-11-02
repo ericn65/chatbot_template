@@ -39,6 +39,7 @@ class DataTypesEnum(Enum):
     JSON = auto()
     SQL = auto()
     EXCEL = auto()
+    OTHER = auto()
 
 
 class CountryEnums(Enum):

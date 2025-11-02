@@ -2,8 +2,9 @@ from pathlib import Path
 from typing import Any
 
 import pandas as pd
-from chatbot_template.utils.enums import DataTypesEnum
 from requests import Session
+
+from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 
 def _load_data_csv(path_to_data: str | Path) -> pd.DataFrame:
