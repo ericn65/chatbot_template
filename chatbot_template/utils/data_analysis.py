@@ -1,75 +1,120 @@
+from typing import Any
+
 import pandas as pd
 
-# import openai
 
-# from Huggingface import transformers
-
-
-class DataAnalysis:
+def _get_column_info(df: pd.DataFrame) -> dict[str, str]:
     """
-    It loads the information and has all the functions to work with the workflow.
+    Return column names and their data types as a dictionary.
 
     Parameters
     ----------
-    bbdd_path : str
-        The path to the `.csv` file.
-    user_path : str
-        The path to the `.csv`of information gotten from the user.
+    df : pd.DataFrame
+        The dataframe to analyse.
 
-    Functions
-    ---------
-
+    Returns
+    -------
+    column_info : dict[str, str]
+        A dictionary mapping column names to their data types.
     """
+    return {col: str(dtype) for col, dtype in df.dtypes.items()}
 
-    def __init__(self, bbdd_path: str, user_path: str, random_facts_path: str):
-        self.bb_dd_info = pd.read_csv(bbdd_path)
-        self.bb_dd_user_actions = pd.read_csv(user_path)
-        self.bb_dd_random_facts = pd.read_csv(random_facts_path)
 
-    def get_what_am_i_doing(self, day: str = "Never", moment: str = "Vas tarde") -> str:
-        """
-        Gets the information of the day and moment desired by the user.
+def _get_basic_stats(df: pd.DataFrame) -> dict[str, Any]:
+    """
+    Return basic statistics about the dataframe.
 
-        Parameters
-        ----------
-        day : str
-            The day set by the user. Default = Never.
-        moment : str
-            The moment set by the user. Default = Vas tarde.
+    Parameters
+    ----------
+    df : pd.DataFrame
+        The dataframe to analyse.
 
-        Returns
-        -------
-        action : str
-            The action to perform by the user that day.
-        """
-        action: str = self.bb_dd_info.loc[day][moment]
+    Returns
+    -------
+    stats : dict[str, Any]
+        A dictionary with basic information about the dataset.
+    """
+    return {
+        "n_rows": len(df),
+        "n_columns": len(df.columns),
+        "missing_values": int(df.isna().sum().sum()),
+        "duplicated_rows": int(df.duplicated().sum()),
+        "memory_usage_MB": round(df.memory_usage(deep=True).sum() / (1024**2), 2),
+    }
 
-        return action
 
-    def _get_animal(self, user_id: str) -> str:
-        """
-        El animal del xaval
+def _get_value_counts(
+    df: pd.DataFrame, max_unique: int = 10
+) -> dict[str, dict[Any, int]]:
+    """
+    Return value counts for categorical or low-cardinality columns.
 
-        Returns
-        -------
-        el_animal : str
-            El animal del xaval.
-        """
-        return self.bb_dd_user_actions.loc[user_id]["favourite_animal"]
+    Parameters
+    ----------
+    df : pd.DataFrame
+        The dataframe to analyse.
+    max_unique : int
+        Maximum number of unique values to consider as 'low-cardinality'.
 
-    def get_animal_random_fact(self, wants_random_fact: bool = True) -> str:
-        """
-        Function that understands different animals and maths levels
-        to get an answer.
+    Returns
+    -------
+    value_counts : dict[str, dict[Any, int]]
+        Dictionary with columns and their value counts (only if few unique values).
+    """
+    value_counts: dict[str, dict[Any, int]] = {}
+    for col in df.columns:
+        unique_vals = df[col].nunique(dropna=True)
+        if unique_vals <= max_unique:
+            counts = df[col].value_counts(dropna=False).to_dict()
+            value_counts[col] = counts
+    return value_counts
 
-        Parameters
-        ----------
-        wants_random_fact : bool
-            The binary answer from the user.
 
-        Returns
-        -------
-        random_fact : str
-            The random fact specified for the user.
-        """
-        # if wants_random_fact:
+def _get_numeric_summary(df: pd.DataFrame) -> dict[str, dict[str, float]]:
+    """
+    Return basic numeric summaries (mean, std, min, max) for numeric columns.
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        The dataframe to analyse.
+
+    Returns
+    -------
+    summary : dict[str, dict[str, float]]
+        A dictionary mapping numeric columns to their summary statistics.
+    """
+    numeric_summary: dict[str, dict[str, float]] = {}
+    for col in df.select_dtypes(include="number").columns:
+        desc = df[col].describe()
+        numeric_summary[col] = {
+            "mean": float(desc["mean"]),
+            "std": float(desc["std"]),
+            "min": float(desc["min"]),
+            "max": float(desc["max"]),
+        }
+    return numeric_summary
+
+
+def analyse_data(df: pd.DataFrame, max_unique: int = 10) -> dict[str, Any]:
+    """
+    Orchestrator that runs quick data analysis and returns structured info.
+
+    Parameters
+    ----------
+    df : pd.DataFrame
+        The dataframe to analyse.
+    max_unique : int, optional
+        Maximum number of unique values for which value counts are shown.
+
+    Returns
+    -------
+    analysis : dict[str, Any]
+        Dictionary containing column info, stats, and summaries.
+    """
+    return {
+        "basic_stats": _get_basic_stats(df),
+        "column_info": _get_column_info(df),
+        "numeric_summary": _get_numeric_summary(df),
+        "value_counts": _get_value_counts(df, max_unique=max_unique),
+    }
