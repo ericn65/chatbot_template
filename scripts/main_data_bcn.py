@@ -11,7 +11,7 @@ Steps:
 from pathlib import Path
 
 from chatbot_template.utils.teacher.data_aggregator import DataAggregator
-from chatbot_template.utils.teacher.data_analysis import DataAnalyser
+from chatbot_template.utils.teacher.data_analysis import analyse_data
 from chatbot_template.utils.teacher.data_loaders import (
     load_data,
     safe_concat_dataframes,
@@ -23,9 +23,10 @@ from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 def run_bcn_example():
     """Main script."""
-    data_dir = Path("data/")
-    path_2023 = data_dir / "sales_2023.csv"
-    path_2024 = data_dir / "sales_2024.csv"
+    BASE_DIR = Path(__file__).resolve().parents[1]
+    data_dir = BASE_DIR / "chatbot_template" / "data"
+    path_2023 = data_dir / "2023_pad_mdb_nacionalitat-regio_sexe.csv"
+    path_2024 = data_dir / "2024_pad_mdb_nacionalitat-regio_sexe.csv"
 
     # 1️⃣ Load datasets
     df_2023 = load_data(DataTypesEnum.CSV, path_to_data=path_2023)
@@ -37,11 +38,18 @@ def run_bcn_example():
     df_all = safe_concat_dataframes([df_2023, df_2024])
 
     # 3️⃣ Analyse
-    analyser = DataAnalyser(df_all)
-    print("🔍 Basic stats:")
-    print(analyser.get_basic_stats())
-    print("\n📊 Column info:")
-    print(analyser.get_column_info())
+    analysis = analyse_data(df_all)
+    print("\n📊 BASIC STATS:")
+    print(analysis["basic_stats"])
+
+    print("\n🧩 COLUMN INFO:")
+    print(analysis["column_info"])
+
+    print("\n📈 NUMERIC SUMMARY:")
+    print(analysis["numeric_summary"])
+
+    print("\n📦 VALUE COUNTS:")
+    print(analysis["value_counts"])
 
     # 4️⃣ Aggregate
     aggregator = DataAggregator(df_all)
