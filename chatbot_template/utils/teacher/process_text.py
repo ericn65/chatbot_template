@@ -104,7 +104,7 @@ class TextProcessor:
         if save_path is not None:
             save_path = Path(save_path)
             save_path.parent.mkdir(parents=True, exist_ok=True)
-            np.save(save_path, features, allow_pickle=True)
+            np.save(save_path, np.array([features]), allow_pickle=True)
 
         return features
 
