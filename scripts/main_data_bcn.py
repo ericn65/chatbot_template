@@ -60,7 +60,7 @@ def run_bcn_example():
     # 5️⃣ Visualize
     viz = DataVisualizer(df_all)
     viz.plot_correlation_matrix()
-    viz.plot_by_category("city", "sales")
+    viz.plot_by_category("Nom_Districte", "Valor")
     viz.auto_visualize()
 
 
