@@ -47,6 +47,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "plotly>=6.4.0",
     "plotly-express>=0.4.1",
+    "streamlit>=1.51.0",
 ]
 
 [dependency-groups]
