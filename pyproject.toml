@@ -6,12 +6,12 @@ build-backend = "setuptools.build_meta"
 enabled = true
 
 [tool.setuptools.packages.find]
-include = ["mh_chatbot_dialogue"]
+include = ["chatbot_template"]
 
 [project]
 name = "chatbot_template"
 description = "Project to integrate and develop chatbots."
-version = "0.2.1"
+version = "0.3.0"
 readme = "README.md"
 authors = [
     { name = "Èric Quintana Aguasca", email = "saericquintana@gmail.com" },
@@ -45,6 +45,9 @@ dependencies = [
     "openpyxl>=3.1.5",
     "matplotlib>=3.10.7",
     "seaborn>=0.13.2",
+    "plotly>=6.4.0",
+    "plotly-express>=0.4.1",
+    "streamlit>=1.51.0",
 ]
 
 [dependency-groups]
@@ -112,7 +115,7 @@ convention = "numpy"
 [tool.ruff.lint.isort]
 known-local-folder = [
   "scripts",
-  "mh_chatbot_dialogue",
+  "chatbot_template",
   "tests",
 ]
 
