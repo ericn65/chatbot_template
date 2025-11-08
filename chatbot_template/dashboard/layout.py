@@ -1,12 +1,34 @@
+import io
+import logging
+
+import pandas as pd
 import streamlit as st
 
+from chatbot_template.config.config_dashboard import DashboardConfig
 from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 from .bridge_loader import clean_dataframe, load_generic_data
+from .registry import PLOT_TYPES
 from .visualizations import generate_plot
 
+logger = logging.getLogger(__name__)
 
-def show_dashboard(config):
+
+def show_dashboard(config: DashboardConfig | None):
+    """
+    Shows the dashboard and sets all the graphics were desired.
+
+    Parameters
+    ----------
+    config : DashboardConfig | None
+        Checks the configuration process for the dashboard for data and titles.
+    """
+    if config is None:
+        logger.warning(
+            "Dashboard config is None — cannot generate personalized dashboard."
+        )
+        raise ValueError("DashboardConfig is None — dashboard cannot be generated.")
+
     st.set_page_config(page_title=config.title, layout=config.layout)
     st.title(config.title)
 
@@ -23,7 +45,8 @@ def show_dashboard(config):
 
     if uploaded:
         ext = uploaded.name.split(".")[-1]
-        df = load_generic_data(mode=mode_map.get(ext, DataTypesEnum.CSV), path=uploaded)
+        buffer = io.BytesIO(uploaded.read())
+        df = load_generic_data(mode=mode_map.get(ext, DataTypesEnum.CSV), path=buffer)
     elif config.default_data_path:
         df = load_generic_data(mode=DataTypesEnum.CSV, path=config.default_data_path)
     else:
@@ -49,9 +72,22 @@ def show_dashboard(config):
         st.plotly_chart(fig, use_container_width=True)
 
 
-def config_plot_types(df):
-    from .registry import PLOT_TYPES
+def config_plot_types(df: pd.DataFrame):
+    """
+    Returns the type of valid graphics according to the DataFrame content.
 
-    # Filtramos tipos de gráfico válidos según el DF
+    Paramters
+    ---------
+    df : pd.DataFrame
+        Data to show and config plots.
+    """
+    numeric_cols = df.select_dtypes(include=["number"]).columns
+    categorical_cols = df.select_dtypes(exclude=["number"]).columns
+
     for name in PLOT_TYPES:
+        # Ejemplo de lógica básica:
+        if name in {"Line", "Scatter", "Box"} and len(numeric_cols) == 0:
+            continue  # necesita columnas numéricas
+        if name in {"Pie", "Bar"} and len(categorical_cols) == 0:
+            continue  # necesita categorías
         yield name

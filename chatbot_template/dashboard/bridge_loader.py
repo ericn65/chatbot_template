@@ -1,4 +1,6 @@
+from io import BytesIO, StringIO
 from pathlib import Path
+from typing import IO, cast
 
 import pandas as pd
 
@@ -8,7 +10,7 @@ from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 def load_generic_data(
     mode: DataTypesEnum,
-    path: str | Path | None = None,
+    path: str | Path | IO[bytes] | None = None,
     **kwargs,
 ) -> pd.DataFrame:
     """
@@ -30,7 +32,18 @@ def load_generic_data(
     dash_loaded_data : pd.DataFrame
         The loaded data for the dashboard.
     """
-    dash_loaded_data = load_data(mode=mode, path_to_data=path, **kwargs)
+    if isinstance(path, (BytesIO, StringIO)):
+        if mode == DataTypesEnum.CSV:
+            return pd.read_csv(path)
+        elif mode == DataTypesEnum.EXCEL:
+            return pd.read_excel(path)
+        elif mode == DataTypesEnum.JSON:
+            return pd.read_json(path)
+        else:
+            raise ValueError(f"Unsupported mode for in-memory buffer: {mode}")
+
+    path_cast = cast(str | Path | None, path)
+    dash_loaded_data = load_data(mode=mode, path_to_data=path_cast, **kwargs)
     return dash_loaded_data
 
 
