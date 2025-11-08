@@ -11,7 +11,7 @@ include = ["mh_chatbot_dialogue"]
 [project]
 name = "chatbot_template"
 description = "Project to integrate and develop chatbots."
-version = "0.2.0"
+version = "0.2.1"
 readme = "README.md"
 authors = [
     { name = "Èric Quintana Aguasca", email = "saericquintana@gmail.com" },
