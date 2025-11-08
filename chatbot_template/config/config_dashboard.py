@@ -1,5 +1,13 @@
+from dataclasses import dataclass
 from pathlib import Path
+from typing import Literal
 
-DATA_PATH = Path(__file__).resolve().parents[1] / "chatbot_template" / "data"
-DEFAULT_DATASET = DATA_PATH / "<ADD-YOUR-DATA"
-APP_TITLE = "📊 <ADD-YOUR-TITLE>"
+
+@dataclass
+class DashboardConfig:
+    """A class to design the Dashboard."""
+
+    title: str = "📊 Data Dashboard"
+    layout: Literal["wide", "centered"] = "wide"
+    default_data_path: Path | None = None
+    numeric_cols_only: bool = False
