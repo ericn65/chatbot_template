@@ -32,7 +32,7 @@ def load_generic_data(
     dash_loaded_data : pd.DataFrame
         The loaded data for the dashboard.
     """
-    if isinstance(path, (BytesIO, StringIO)):
+    if isinstance(path, BytesIO | StringIO):
         if mode == DataTypesEnum.CSV:
             return pd.read_csv(path)
         elif mode == DataTypesEnum.EXCEL:

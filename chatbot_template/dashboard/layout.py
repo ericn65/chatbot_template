@@ -4,12 +4,11 @@ import logging
 import pandas as pd
 import streamlit as st
 
-from chatbot_template.config.config_dashboard import DashboardConfig
-from chatbot_template.utils.teacher.enums import DataTypesEnum
-
 from .bridge_loader import clean_dataframe, load_generic_data
 from .registry import PLOT_TYPES
 from .visualizations import generate_plot
+from chatbot_template.config.config_dashboard import DashboardConfig
+from chatbot_template.utils.teacher.enums import DataTypesEnum
 
 logger = logging.getLogger(__name__)
 
@@ -46,29 +45,29 @@ def show_dashboard(config: DashboardConfig | None):
     if uploaded:
         ext = uploaded.name.split(".")[-1]
         buffer = io.BytesIO(uploaded.read())
-        df = load_generic_data(mode=mode_map.get(ext, DataTypesEnum.CSV), path=buffer)
+        data = load_generic_data(mode=mode_map.get(ext, DataTypesEnum.CSV), path=buffer)
     elif config.default_data_path:
-        df = load_generic_data(mode=DataTypesEnum.CSV, path=config.default_data_path)
+        data = load_generic_data(mode=DataTypesEnum.CSV, path=config.default_data_path)
     else:
         st.warning("Sube un archivo para continuar.")
         return
 
-    df = clean_dataframe(df)
+    data = clean_dataframe(data)
 
     # Preview
     st.subheader("📋 Vista previa")
-    st.dataframe(df.head())
+    st.dataframe(data.head())
 
     # Selección de columnas
-    cols = df.columns.tolist()
+    cols = data.columns.tolist()
     x_col = st.selectbox("Eje X", cols)
     y_col = st.selectbox("Eje Y", ["(ninguno)"] + cols)
     y_col = None if y_col == "(ninguno)" else y_col
-    plot_type = st.selectbox("Tipo de gráfico", list(config_plot_types(df)))
+    plot_type = st.selectbox("Tipo de gráfico", list(config_plot_types(data)))
 
     # Renderizado
     if st.button("Generar gráfico"):
-        fig = generate_plot(df, plot_type, x_col, y_col)
+        fig = generate_plot(data, plot_type, x_col, y_col)
         st.plotly_chart(fig, use_container_width=True)
 
 
