@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 enabled = true
 
 [tool.setuptools.packages.find]
-include = ["mh_chatbot_dialogue"]
+include = ["chatbot_template"]
 
 [project]
 name = "chatbot_template"
@@ -115,7 +115,7 @@ convention = "numpy"
 [tool.ruff.lint.isort]
 known-local-folder = [
   "scripts",
-  "mh_chatbot_dialogue",
+  "chatbot_template",
   "tests",
 ]
 
