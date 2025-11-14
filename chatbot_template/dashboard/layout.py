@@ -191,9 +191,9 @@ def show_correlation_dashboard(config: DashboardConfig | None):
 
             st.info("""
     Interpretación:
-    - P-value < 0.05 → correlación estadísticamente significativa  
-    - P-value < 0.01 → muy significativa  
-    - P-value ≥ 0.05 → la correlación puede ser debida al azar  
+    - P-value < 0.05 → correlación estadísticamente significativa
+    - P-value < 0.01 → muy significativa
+    - P-value ≥ 0.05 → la correlación puede ser debida al azar
     """)
 
     # TAB 2 --------
