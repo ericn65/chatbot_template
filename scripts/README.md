@@ -54,4 +54,8 @@ To run a Dashboard use the following command:
 
 `uv run streamlit run scripts/run_dashboard.py`
 
+or
+
+`uv run streamlit run scripts/run_correlations_dashboard.py`
+
 And ensure that in the desired folders are the data and the things to add.

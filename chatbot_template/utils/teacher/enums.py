@@ -64,3 +64,11 @@ class CountryEnums(Enum):
     RUSSIA = 16
     SWEEDEN = 17
     ISRAEL = 18
+
+
+class CorrelationsEnums(StrEnum):
+    """Class to deal with different correlations."""
+
+    PEARSON = "pearson"
+    SPEARMAN = "spearman"
+    KENDALL = "kendall"
