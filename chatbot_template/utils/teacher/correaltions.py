@@ -6,7 +6,7 @@ from chatbot_template.utils.teacher.enums import CorrelationsEnums
 
 
 def correlation_matrix(
-    df: pd.DataFrame,
+    data: pd.DataFrame,
     metodo: CorrelationsEnums = CorrelationsEnums.PEARSON,
     columnas: list[str] | None = None,
     heatmap: bool = True,
@@ -31,9 +31,9 @@ def correlation_matrix(
         The correlation matrix for the selected columns.
     """
     if columnas is not None:
-        df = df[columnas]
+        data = data[columnas]
 
-    corr = df.corr(method=metodo.value)
+    corr = data.corr(method=metodo.value)
 
     if heatmap:
         plt.figure(figsize=(7, 5))
@@ -46,7 +46,7 @@ def correlation_matrix(
 
 
 def correlation_between(
-    df: pd.DataFrame,
+    data: pd.DataFrame,
     col1: str,
     col2: str,
     metodo: CorrelationsEnums = CorrelationsEnums.PEARSON,
@@ -73,11 +73,11 @@ def correlation_between(
     float
         Correlation value between col1 and col2.
     """
-    corr = df[[col1, col2]].corr(method=metodo.value).iloc[0, 1]
+    corr = data[[col1, col2]].corr(method=metodo.value).iloc[0, 1]
 
     if plot:
         plt.figure(figsize=(6, 4))
-        plt.scatter(df[col1], df[col2])
+        plt.scatter(data[col1], data[col2])
         plt.xlabel(col1)
         plt.ylabel(col2)
         plt.title(f"{metodo.value.capitalize()} Correlation: {corr:.3f}")
