@@ -10,8 +10,9 @@ from .registry import PLOT_TYPES
 from .visualizations import generate_plot
 from chatbot_template.config.config_dashboard import DashboardConfig
 from chatbot_template.utils.teacher.correaltions import (
-    correlation_between,
     correlation_matrix,
+    correlation_pvalue_matrix,
+    correlation_with_pvalue,
 )
 from chatbot_template.utils.teacher.enums import CorrelationsEnums, DataTypesEnum
 
@@ -162,15 +163,38 @@ def show_correlation_dashboard(config: DashboardConfig | None):
                 data,
                 metodo=method,
                 columnas=numeric_cols,
-                heatmap=False,  # lo renderizamos con Plotly
+                heatmap=False,
             )
-            fig = px.imshow(
+
+            pvals = correlation_pvalue_matrix(
+                data[numeric_cols],
+                method=method,
+            )
+
+            st.write("### 🔵 Correlation matrix")
+            fig1 = px.imshow(
                 corr,
                 text_auto=True,
                 color_continuous_scale="RdBu_r",
                 title=f"Correlation Matrix ({method.value})",
             )
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig1, use_container_width=True)
+
+            st.write("### 🧪 P-value matrix (significance)")
+            fig2 = px.imshow(
+                pvals,
+                text_auto=True,
+                color_continuous_scale="Viridis",
+                title=f"P-value Matrix ({method.value})",
+            )
+            st.plotly_chart(fig2, use_container_width=True)
+
+            st.info("""
+    Interpretación:
+    - P-value < 0.05 → correlación estadísticamente significativa  
+    - P-value < 0.01 → muy significativa  
+    - P-value ≥ 0.05 → la correlación puede ser debida al azar  
+    """)
 
     # TAB 2 --------
     with tab2:
@@ -186,21 +210,19 @@ def show_correlation_dashboard(config: DashboardConfig | None):
         )
 
         if st.button("Compute pair correlation"):
-            val = correlation_between(
-                data,
-                col1=col1,
-                col2=col2,
-                metodo=method2,
-                plot=False,
-            )
+            corr, p = correlation_with_pvalue(data, col1, col2, method=method2)
 
-            st.write(f"### Correlation = **{val:.4f}**")
+            st.write(f"### Correlation = **{corr:.4f}**")
+            st.write(f"### P-value = **{p:.4f}**")
+
+            interpretation = "Significant ✔" if p < 0.05 else "Not significant ❌"
+            st.write(f"### Interpretation: **{interpretation}**")
 
             fig = px.scatter(
                 data,
                 x=col1,
                 y=col2,
                 trendline="ols",
-                title=f"{method2.value.capitalize()} correlation: {val:.4f}",
+                title=f"{method2.value.capitalize()} correlation: {corr:.4f}",
             )
             st.plotly_chart(fig, use_container_width=True)
