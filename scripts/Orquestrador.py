@@ -4,15 +4,30 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 # GenerarNumeroPoblacionTotal()
 
-from clean_data import data_cleaners 
-from filter_data import data_filter
-from data_visualization import DataVisualization # OK
-from data_RnD import RnD
+from data_cleaning import data_cleaners 
+from data_filtering import data_filter
+from data_visualizers import Data_Visualization # OK
+from RnD import RnD
 
-# visualizar datos con una grafica pasamos datos X, Y
-DataVisualization.showBarGraphic()
+# Preguntar compañeros si tienen una funcion donde dan el resultado en un df
 
+def main():
+
+    # Limpieza --> Preguntar compañeros 
+    df = data_cleaners(df)
+
+    # Filtrado --> Preguntar compañeros 
+    df = data_filter(df, "age > 30") 
+
+    # visualizar datos con una grafica pasamos datos X, Y
+    Data_Visualization.showBarGraphic()
+
+    # Resultado --> Preguntar compañeros Rnd
+    Resultado = RnD(df)
+    print(Resultado)
+
+if __name__ == "__main__":
+     main()
 
