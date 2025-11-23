@@ -5,7 +5,7 @@ from chatbot_template.utils.teacher.forecasting import train_regression_model
 
 def test_trainer_runs():
     """Test the trainer models."""
-    df = pd.DataFrame(
+    data = pd.DataFrame(
         {
             "lag_1": [1, 2, 3, 4],
             "lag_7": [1, 2, 3, 4],
@@ -15,8 +15,8 @@ def test_trainer_runs():
     )
 
     model, preds = train_regression_model(
-        features=df[["lag_1", "lag_7", "temp"]],
-        labels=df["y"],
+        features=data[["lag_1", "lag_7", "temp"]],
+        labels=data["y"],
         split_factor=0.5,
         model_path="test_model.pkl",
     )

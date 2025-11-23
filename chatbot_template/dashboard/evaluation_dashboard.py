@@ -38,25 +38,25 @@ def run_evaluation_dashboard():
         st.info("Upload a feature dataset to evaluate model.")
         return
 
-    df = pd.read_csv(uploaded_file)
+    data = pd.read_csv(uploaded_file)
     st.subheader("Preview of Input Data")
-    st.dataframe(df.head())
+    st.dataframe(data.head())
 
-    feature_cols = st.multiselect("Select feature columns", df.columns)
+    feature_cols = st.multiselect("Select feature columns", data.columns)
 
     if st.button("Run Predictions"):
         if not feature_cols:
             st.error("You must select feature columns.")
             return
 
-        preds = predict_with_model(model, df[feature_cols])
+        preds = predict_with_model(model, data[feature_cols])
 
         st.subheader("Predictions")
         st.write(preds)
 
-        if "target" in df.columns:
+        if "target" in data.columns:
             st.subheader("Evaluation Metrics")
-            y_true = df["target"]
+            y_true = data["target"]
             metrics = evaluate_regression(y_true, preds)
             st.write(metrics)
 

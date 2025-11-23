@@ -32,8 +32,8 @@ def train_regression_model(
     """
     split = int(len(features) * split_factor)
 
-    X_train = features.iloc[:split]
-    X_test = features.iloc[split:]
+    X_train = features.iloc[:split]  # noqa: N806
+    X_test = features.iloc[split:]  # noqa: N806
 
     y_train = labels.iloc[:split]
     y_test = labels.iloc[split:]
@@ -77,8 +77,8 @@ def train_classifier_model(
     """
     split = int(len(features) * split_factor)
 
-    X_train = features.iloc[:split]
-    X_test = features.iloc[split:]
+    X_train = features.iloc[:split]  # noqa: N806
+    X_test = features.iloc[split:]  # noqa: N806
 
     y_train = labels.iloc[:split]
     y_test = labels.iloc[split:]

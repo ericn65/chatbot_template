@@ -29,12 +29,12 @@ def run_training_dashboard():
         st.info("Please upload a dataset to continue.")
         return
 
-    df = pd.read_csv(uploaded_file)
+    data = pd.read_csv(uploaded_file)
     st.subheader("Preview of Data")
-    st.dataframe(df.head())
+    st.dataframe(data.head())
 
-    feature_cols = st.multiselect("Select feature columns", df.columns)
-    label_col = st.selectbox("Select target column", df.columns)
+    feature_cols = st.multiselect("Select feature columns", data.columns)
+    label_col = st.selectbox("Select target column", data.columns)
 
     if st.button("Train Model"):
         if not feature_cols:
@@ -42,16 +42,16 @@ def run_training_dashboard():
             return
 
         model, y_pred = train_regression_model(
-            features=df[feature_cols],
-            labels=df[label_col],
+            features=data[feature_cols],
+            labels=data[label_col],
             model_path="trained_rf_model.pkl",
         )
 
         st.success("Model trained and saved as trained_rf_model.pkl 🎉")
 
         # Evaluation
-        split_idx = int(len(df) * 0.8)
-        y_test = df[label_col].iloc[split_idx:]
+        split_idx = int(len(data) * 0.8)
+        y_test = data[label_col].iloc[split_idx:]
 
         metrics = evaluate_regression(y_test, y_pred)
         st.subheader("📊 Evaluation Metrics")
