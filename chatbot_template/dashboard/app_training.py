@@ -1,6 +1,5 @@
-from training_dashboard import run_training_dashboard
-
 from chatbot_template.config.config_dashboard import DashboardConfig
+from chatbot_template.dashboard.training_dashboard import run_training_dashboard
 
 
 def run_runing_training_dashboard(config: DashboardConfig | None = None):
