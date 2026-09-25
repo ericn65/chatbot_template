@@ -1,6 +1,8 @@
-# mh_chatbot_dialogue
+# chatbot_template
 
-Project to integrate the product on comercial chatbots such as Whatsapp.
+Project to integrate and develop chatbots.
+
+Para configurar, ejecutar y modificar el bot de Telegram: [guía rápida con ejemplos](TELEGRAM_GUIA_RAPIDA.md).
 
 ---
 

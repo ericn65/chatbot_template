@@ -15,10 +15,9 @@ COSMOS_URL = os.getenv("COSMOS_URL")
 COSMOS_KEY = os.getenv("COSMOS_KEY")
 DATABASE_NAME = os.getenv("DATAA¡BASE_NAME")
 CONTAINER_NAME = os.getenv("CONTAINER_NAME")
-WORKFLOW_YAML_PATH = "/mh_chatbot_dialogue/config/workflow.yaml"
 
 # Engine used
-engine = WorkflowEngine(WORKFLOW_YAML_PATH)
+engine = WorkflowEngine()
 
 # Memory Status
 user_states = {}

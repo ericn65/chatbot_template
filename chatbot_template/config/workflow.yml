@@ -1,19 +1,26 @@
+# El orden del cuestionario se controla aquí.
+PHASES: [presentation, formulaires, questions, audio_questions, conclusion]
 QUESTIONS:
   es:
     presentation:
-      - text: "Hola que tal encantado te voy a ayudar a saber qué haces cada día.\nPrimero eres nuevo en la plataforma? Responde con si o no"
+      - text: "¡Hola! Vamos a completar un breve cuestionario. Para empezar, escribe ES (español). Puedes reiniciar con /start."
     formulaires:
-      - question: "Bienvenido! Cómo te llamas?"
-      - question: "Indica una contraseña: "
-      - question: "¿Cuál es tu sanimal favorito?"
-      - question: "¿Te gustan las mates? ¿En una escala del 0 al 10 siendo 0 concursante de la isla de las tentaciones y 10 tengo a Gauss tatuado en el culo."
-    login:
-      - question: "Cuál es tu nombre de usuario?"
-      - question: "Cuál es tu contraseña?"
+      - question: "¿Cómo te llamas?"
+        type: text
+      - question: "¿Cuál es tu animal favorito?"
+        type: text
+      - question: "¿Cuánto te gustan las matemáticas? Responde con un número entero del 0 al 10."
+        type: number
+        min: 0
+        max: 10
     questions:
-      - question: "¿Qué día te interesa saber?"
+      - question: "¿Sobre qué día quieres hablar?"
+        type: text
       - question: "¿En qué momento del día?"
-      - question: "¿Quieres saber algo más?"
-      - question: "¿Quieres un fun fact de tu animal favorito relacionado con tu nivel matemático?"
+        type: text
+    audio_questions:
+      - question: "Cuéntame cómo ha ido tu día en una nota de voz de al menos 20 segundos."
+        type: audio
+        min_duration: 20
     conclusion:
-      - text: "Bueno pues nada ciao ciao."
+      - text: "¡Gracias! Hemos terminado el cuestionario. Escribe /start para empezar otro."

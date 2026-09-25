@@ -4,6 +4,8 @@ from enum import Enum, StrEnum, auto
 class WorkflowError(StrEnum):
     """Types of error that could appear in the workflow."""
 
+    LANG_NOT_SUPPORTED = auto()
+    INVALID_TEXT = auto()
     INVALID_USER = auto()
     INVALID_PASSWORD = auto()
     ANSWER_NON_EXITENT = auto()
