@@ -64,7 +64,7 @@ dev = [
 [tool.pytest.ini_options]
 pythonpath = ["."]
 minversion = "6.2"
-addopts = "-vvv -s --cov=mh_chatbot_dialogue --cov-report term-missing --cov-report xml:coverage.xml"
+addopts = "-vvv -s --cov=chatbot_template --cov-report term-missing --cov-report xml:coverage.xml"
 testpaths = ["tests"]
 filterwarnings = [
     "ignore::DeprecationWarning",

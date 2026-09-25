@@ -1,5 +1,6 @@
 import os
 import uuid
+from typing import TypedDict
 
 import aiofiles
 import httpx
@@ -19,8 +20,17 @@ CONTAINER_NAME = os.getenv("CONTAINER_NAME")
 # Engine used
 engine = WorkflowEngine()
 
+
+class WhatsAppState(TypedDict):
+    """Track the language, phase and numeric step of a conversation."""
+
+    lang: str
+    phase: str
+    step: int
+
+
 # Memory Status
-user_states = {}
+user_states: dict[str, WhatsAppState] = {}
 
 # TEST PURPOSES
 MEDIA_FOLDER = "/audios"

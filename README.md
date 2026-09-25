@@ -58,7 +58,29 @@ uv run <path-to-python-file>
 
 ## 🧪 Running Tests
 
-To run the test suite:
+El `Makefile` usa `uv` para ejecutar las herramientas del proyecto:
+
+```sh
+make install              # Dependencias de desarrollo
+make test                 # Ruff, mypy y tests sin cobertura
+make coverage             # Cobertura: terminal, coverage.xml y htmlcov/index.html
+make test TEST_ARGS='tests/utils/teacher/test_training_plots.py'
+make test TEST_ARGS='-k forecasting'
+make help                 # Todos los comandos disponibles
+```
+
+Otros comandos utiles: `make lint` comprueba Ruff y el formato sin modificar
+archivos; `make format` aplica correcciones y formato; `make typecheck` ejecuta
+mypy; `make check` es un alias de `make test` (Ruff, mypy y tests).
+Si falla alguna comprobacion, `make test` termina con error.
+`make hooks` instala los hooks y
+`make pre-commit` los ejecuta sobre todos los archivos (puede modificarlos).
+
+Para las aplicaciones: `make dashboard`, `make dashboard-training`,
+`make dashboard-correlations` y `make telegram PORT=8000`. Telegram requiere
+la configuracion descrita en su [guia rapida](TELEGRAM_GUIA_RAPIDA.md).
+
+Tambien puedes ejecutar las herramientas directamente:
 
 ```sh
 uv run pre-commit run --all-files
